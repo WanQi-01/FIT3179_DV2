@@ -1,0 +1,62 @@
+
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Percentage of Terrestial Protected Areas by International Union for Conservation of Nature Category Over Time"
+  },
+  "data": {
+    "url": "ter_annualCAPAD.json"
+  },
+  "width": 600,
+  "height": 300,
+  "mark": {
+    "type": "rect",
+    "stroke": "white",
+    "strokeWidth": 1
+  },
+  "encoding": {
+    "x": {
+      "field": "Year",
+      "type": "ordinal",
+      "title": "Year",
+      "axis": {
+        "labelAngle": -45
+      }
+    },
+    "y": {
+      "field": "IUCN Category",
+      "type": "ordinal",
+      "title": "International Union for Conservation of Nature Category",
+      "sort": ["Ia", "Ib", "II", "III", "IV", "V", "VI"]
+    },
+    "color": {
+      "field": "Percentage of Coverage of Australia",
+      "type": "quantitative",
+      "scale": {
+        "scheme": "reds",
+        "zero": true
+      },
+      "legend": {
+        "title": "Protected Area (%)"
+      }
+    },
+    "tooltip": [
+      {
+        "field": "Year",
+        "type": "ordinal",
+        "title": "Year"
+      },
+      {
+        "field": "IUCN FULL",
+        "type": "nominal",
+        "title": "International Union for Conservation of Nature Category"
+      },
+      {
+        "field": "Percentage of Coverage of Australia",
+        "type": "quantitative",
+        "title": "Protected Area (%)",
+        "format": ".2f"
+      }
+    ]
+  }
+}

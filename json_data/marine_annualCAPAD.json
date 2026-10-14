@@ -4,48 +4,335 @@
     "IUCN Category": "Ia",
     "IUCN FULL": "Ia Strict Nature Reserve",
     "Protected Area": 13609350.938815,
-    "Protected Area per 100,000 ha": 136.09350938814998
+    "Protected Area per 100,000 ha": 136.09350938814998,
+    "Percentage of protected area": 1.5221777693491736
   },
   {
     "Year": 2024,
     "IUCN Category": "Ib",
     "IUCN FULL": "Ib Wilderness Area",
     "Protected Area": 0,
-    "Protected Area per 100,000 ha": 0
+    "Protected Area per 100,000 ha": 0,
+    "Percentage of protected area": 0
   },
   {
     "Year": 2024,
     "IUCN Category": "II",
     "IUCN FULL": "II National Park",
     "Protected Area": 181454915.088638,
-    "Protected Area per 100,000 ha": 1814.5491508863802
+    "Protected Area per 100,000 ha": 1814.5491508863802,
+    "Percentage of protected area": 20.295357150303357
   },
   {
     "Year": 2024,
     "IUCN Category": "III",
     "IUCN FULL": "III Natural Monument",
     "Protected Area": 62794.971096,
-    "Protected Area per 100,000 ha": 0.62794971096
+    "Protected Area per 100,000 ha": 0.62794971096,
+    "Percentage of protected area": 0.007023487707752354
   },
   {
     "Year": 2024,
     "IUCN Category": "IV",
     "IUCN FULL": "IV Habitat/ Species Management Area",
     "Protected Area": 122785432.822169,
-    "Protected Area per 100,000 ha": 1227.8543282216901
+    "Protected Area per 100,000 ha": 1227.8543282216901,
+    "Percentage of protected area": 13.73329683995172
   },
   {
     "Year": 2024,
     "IUCN Category": "V",
     "IUCN FULL": "V Protected Landscape/ Seascape",
     "Protected Area": 3174436.248279,
-    "Protected Area per 100,000 ha": 31.744362482790002
+    "Protected Area per 100,000 ha": 31.744362482790002,
+    "Percentage of protected area": 0.3550541321970809
   },
   {
     "Year": 2024,
     "IUCN Category": "VI",
     "IUCN FULL": "VI Managed Resource Protected Area",
     "Protected Area": 116113636.934151,
-    "Protected Area per 100,000 ha": 1161.1363693415099
+    "Protected Area per 100,000 ha": 1161.1363693415099,
+    "Percentage of protected area": 12.987070261767785
+  },
+  {
+    "Year": 2014,
+    "IUCN Category": "Ia",
+    "IUCN FULL": "Ia Strict Nature Reserve",
+    "Protected Area": 13674026.511652462,
+    "Protected Area per 100,000 ha": 136.74026511652463,
+    "Percentage of protected area": 1.5294115984741414
+  },
+  {
+    "Year": 2014,
+    "IUCN Category": "Ib",
+    "IUCN FULL": "Ib Wilderness Area",
+    "Protected Area": 0,
+    "Protected Area per 100,000 ha": 0,
+    "Percentage of protected area": 0
+  },
+  {
+    "Year": 2014,
+    "IUCN Category": "II",
+    "IUCN FULL": "II National Park",
+    "Protected Area": 109001270.51117612,
+    "Protected Area per 100,000 ha": 1090.0127051117613,
+    "Percentage of protected area": 12.191566779993325
+  },
+  {
+    "Year": 2014,
+    "IUCN Category": "III",
+    "IUCN FULL": "III Natural Monument",
+    "Protected Area": 74597.72411491418,
+    "Protected Area per 100,000 ha": 0.7459772411491418,
+    "Percentage of protected area": 0.008343601234347499
+  },
+  {
+    "Year": 2014,
+    "IUCN Category": "IV",
+    "IUCN FULL": "IV Habitat/ Species Management Area",
+    "Protected Area": 71366874.04321615,
+    "Protected Area per 100,000 ha": 713.6687404321615,
+    "Percentage of protected area": 7.98223733261927
+  },
+  {
+    "Year": 2014,
+    "IUCN Category": "V",
+    "IUCN FULL": "V Protected Landscape/ Seascape",
+    "Protected Area": 437273.37947966217,
+    "Protected Area per 100,000 ha": 4.372733794796622,
+    "Percentage of protected area": 0.048908123566257525
+  },
+  {
+    "Year": 2014,
+    "IUCN Category": "VI",
+    "IUCN FULL": "VI Managed Resource Protected Area",
+    "Protected Area": 132738740.50775531,
+    "Protected Area per 100,000 ha": 1327.387405077553,
+    "Percentage of protected area": 14.8465537291749
+  },
+  {
+    "Year": 2016,
+    "IUCN Category": "Ia",
+    "IUCN FULL": "Ia Strict Nature Reserve",
+    "Protected Area": 13765298.175297,
+    "Protected Area per 100,000 ha": 137.65298175297,
+    "Percentage of protected area": 1.5396201453766234
+  },
+  {
+    "Year": 2016,
+    "IUCN Category": "Ib",
+    "IUCN FULL": "Ib Wilderness Area",
+    "Protected Area": 17746.60837,
+    "Protected Area per 100,000 ha": 0.17746608370000003,
+    "Percentage of protected area": 0.001984921460516919
+  },
+  {
+    "Year": 2016,
+    "IUCN Category": "II",
+    "IUCN FULL": "II National Park",
+    "Protected Area": 110659247.45886989,
+    "Protected Area per 100,000 ha": 1106.592474588699,
+    "Percentage of protected area": 12.377008074234254
+  },
+  {
+    "Year": 2016,
+    "IUCN Category": "III",
+    "IUCN FULL": "III Natural Monument",
+    "Protected Area": 63922.115399,
+    "Protected Area per 100,000 ha": 0.63922115399,
+    "Percentage of protected area": 0.007149556468017902
+  },
+  {
+    "Year": 2016,
+    "IUCN Category": "IV",
+    "IUCN FULL": "IV Habitat/ Species Management Area",
+    "Protected Area": 71026554.9707331,
+    "Protected Area per 100,000 ha": 710.265549707331,
+    "Percentage of protected area": 7.944173347867303
+  },
+  {
+    "Year": 2016,
+    "IUCN Category": "V",
+    "IUCN FULL": "V Protected Landscape/ Seascape",
+    "Protected Area": 3248.517549,
+    "Protected Area per 100,000 ha": 0.032485175490000004,
+    "Percentage of protected area": 0.000363339972542366
+  },
+  {
+    "Year": 2016,
+    "IUCN Category": "VI",
+    "IUCN FULL": "VI Managed Resource Protected Area",
+    "Protected Area": 137153558.072329,
+    "Protected Area per 100,000 ha": 1371.5355807232902,
+    "Percentage of protected area": 15.340341947491762
+  },
+  {
+    "Year": 2018,
+    "IUCN Category": "Ia",
+    "IUCN FULL": "Ia Strict Nature Reserve",
+    "Protected Area": 13719121.572360398,
+    "Protected Area per 100,000 ha": 137.191215723604,
+    "Percentage of protected area": 1.5344553877941227
+  },
+  {
+    "Year": 2018,
+    "IUCN Category": "Ib",
+    "IUCN FULL": "Ib Wilderness Area",
+    "Protected Area": 0,
+    "Protected Area per 100,000 ha": 0,
+    "Percentage of protected area": 0
+  },
+  {
+    "Year": 2018,
+    "IUCN Category": "II",
+    "IUCN FULL": "II National Park",
+    "Protected Area": 70590378.54864126,
+    "Protected Area per 100,000 ha": 705.9037854864126,
+    "Percentage of protected area": 7.89538791671725
+  },
+  {
+    "Year": 2018,
+    "IUCN Category": "III",
+    "IUCN FULL": "III Natural Monument",
+    "Protected Area": 63558.07856785708,
+    "Protected Area per 100,000 ha": 0.6355807856785708,
+    "Percentage of protected area": 0.0071088397009890164
+  },
+  {
+    "Year": 2018,
+    "IUCN Category": "IV",
+    "IUCN FULL": "IV Habitat/ Species Management Area",
+    "Protected Area": 130277798.60831173,
+    "Protected Area per 100,000 ha": 1302.7779860831172,
+    "Percentage of protected area": 14.571302464964417
+  },
+  {
+    "Year": 2018,
+    "IUCN Category": "V",
+    "IUCN FULL": "V Protected Landscape/ Seascape",
+    "Protected Area": 2701.467973689019,
+    "Protected Area per 100,000 ha": 0.027014679736890188,
+    "Percentage of protected area": 0.0003021536084009775
+  },
+  {
+    "Year": 2018,
+    "IUCN Category": "VI",
+    "IUCN FULL": "VI Managed Resource Protected Area",
+    "Protected Area": 120276051.41469824,
+    "Protected Area per 100,000 ha": 1202.7605141469824,
+    "Percentage of protected area": 13.452627716902219
+  },
+  {
+    "Year": 2020,
+    "IUCN Category": "Ia",
+    "IUCN FULL": "Ia Strict Nature Reserve",
+    "Protected Area": 13718956.08664535,
+    "Protected Area per 100,000 ha": 137.1895608664535,
+    "Percentage of protected area": 1.5344368785589855
+  },
+  {
+    "Year": 2020,
+    "IUCN Category": "Ib",
+    "IUCN FULL": "Ib Wilderness Area",
+    "Protected Area": 0,
+    "Protected Area per 100,000 ha": 0,
+    "Percentage of protected area": 0
+  },
+  {
+    "Year": 2020,
+    "IUCN Category": "II",
+    "IUCN FULL": "II National Park",
+    "Protected Area": 70592427.68467396,
+    "Protected Area per 100,000 ha": 705.9242768467396,
+    "Percentage of protected area": 7.895617108346547
+  },
+  {
+    "Year": 2020,
+    "IUCN Category": "III",
+    "IUCN FULL": "III Natural Monument",
+    "Protected Area": 63553.18716418494,
+    "Protected Area per 100,000 ha": 0.6355318716418494,
+    "Percentage of protected area": 0.0071082926075997635
+  },
+  {
+    "Year": 2020,
+    "IUCN Category": "IV",
+    "IUCN FULL": "IV Habitat/ Species Management Area",
+    "Protected Area": 130277798.8316982,
+    "Protected Area per 100,000 ha": 1302.777988316982,
+    "Percentage of protected area": 14.571302489949733
+  },
+  {
+    "Year": 2020,
+    "IUCN Category": "V",
+    "IUCN FULL": "V Protected Landscape/ Seascape",
+    "Protected Area": 2701.467969,
+    "Protected Area per 100,000 ha": 0.027014679689999998,
+    "Percentage of protected area": 0.0003021536078765204
+  },
+  {
+    "Year": 2020,
+    "IUCN Category": "VI",
+    "IUCN FULL": "VI Managed Resource Protected Area",
+    "Protected Area": 120277355.120462,
+    "Protected Area per 100,000 ha": 1202.77355120462,
+    "Percentage of protected area": 13.452773533696883
+  },
+  {
+    "Year": 2022,
+    "IUCN Category": "Ia",
+    "IUCN FULL": "Ia Strict Nature Reserve",
+    "Protected Area": 13718955.41908244,
+    "Protected Area per 100,000 ha": 137.1895541908244,
+    "Percentage of protected area": 1.534436803893454
+  },
+  {
+    "Year": 2022,
+    "IUCN Category": "Ib",
+    "IUCN FULL": "Ib Wilderness Area",
+    "Protected Area": 0,
+    "Protected Area per 100,000 ha": 0,
+    "Percentage of protected area": 0
+  },
+  {
+    "Year": 2022,
+    "IUCN Category": "II",
+    "IUCN FULL": "II National Park",
+    "Protected Area": 144501223.613287,
+    "Protected Area per 100,000 ha": 1445.01223613287,
+    "Percentage of protected area": 16.162163149203902
+  },
+  {
+    "Year": 2022,
+    "IUCN Category": "III",
+    "IUCN FULL": "III Natural Monument",
+    "Protected Area": 63553.18716418492,
+    "Protected Area per 100,000 ha": 0.6355318716418492,
+    "Percentage of protected area": 0.007108292607599761
+  },
+  {
+    "Year": 2022,
+    "IUCN Category": "IV",
+    "IUCN FULL": "IV Habitat/ Species Management Area",
+    "Protected Area": 130780674.0744601,
+    "Protected Area per 100,000 ha": 1307.806740744601,
+    "Percentage of protected area": 14.627548046312386
+  },
+  {
+    "Year": 2022,
+    "IUCN Category": "V",
+    "IUCN FULL": "V Protected Landscape/ Seascape",
+    "Protected Area": 3020.205166327912,
+    "Protected Area per 100,000 ha": 0.03020205166327912,
+    "Percentage of protected area": 0.0003378037045062906
+  },
+  {
+    "Year": 2022,
+    "IUCN Category": "VI",
+    "IUCN FULL": "VI Managed Resource Protected Area",
+    "Protected Area": 120281555.707955,
+    "Protected Area per 100,000 ha": 1202.81555707955,
+    "Percentage of protected area": 13.453243360724548
   }
 ]

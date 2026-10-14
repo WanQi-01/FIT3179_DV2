@@ -1,0 +1,59 @@
+
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Protected Area by Category (%)",
+  "width": 600,
+  "height":300,
+  "data": {
+    "url": "reserve_cat_t.json"
+  },
+  "transform": [
+    {
+      "aggregate": [
+        {
+          "op": "sum",
+          "field": "GIS_AREA",
+          "as": "Total GIS Area"
+        }
+      ],
+      "groupby": ["Category"]
+    },
+    {
+      "calculate": "datum['Total GIS Area'] / 768809493.8 * 100",
+      "as": "Percentage"
+    }
+  ],
+  "mark": {
+    "type": "bar"
+  },
+  "encoding": {
+    "y": {
+      "field": "Category",
+      "type": "nominal",
+      "sort": "-x",
+      "title": "Category"
+    },
+    "x": {
+      "field": "Percentage",
+      "type": "quantitative",
+      "title": "Percentage of Total Protected Area (%)"
+    },
+    "color": {"value": "green"},
+    "tooltip": [
+      {
+        "field": "Category",
+        "type": "nominal"
+      },
+      {
+        "field": "Total GIS Area",
+        "type": "quantitative",
+        "format": ",.2f"
+      },
+      {
+        "field": "Percentage",
+        "type": "quantitative",
+        "format": ".2f"
+      }
+    ]
+  }
+}

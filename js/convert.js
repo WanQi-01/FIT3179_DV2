@@ -19,7 +19,11 @@ const excelData = [
     "marine_annualCAPAD.xlsx",
     "ter_annualCAPAD.xlsx",
     "PA_INFO.xlsx",
-    "chart1.xlsx"
+    "chart1.xlsx",
+    "reserve_cat_m.csv",
+    "reserve_cat_t.csv",
+    "reserve_cat_marine_park.csv"
+
 ]
 
 for (const fileName of excelData) {
