@@ -13,7 +13,9 @@ const jsonDir = path.join(baseDir, "json_data");
 
 const excelData = [
     "m_pa.xlsx",
-    "t_pa.xlsx"
+    "t_pa.xlsx",
+    "MCAPAD_2024.xlsx",
+    "TCAPAD_2024.xlsx"
 ]
 
 for (const fileName of excelData) {

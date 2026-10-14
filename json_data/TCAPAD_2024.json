@@ -1,0 +1,72 @@
+[
+  {
+    "Year": 2024,
+    "IUCN Category": "Ia",
+    "IUCN FULL": "Ia Strict Nature Reserve",
+    "Protected Area": 16015028.347584361,
+    "Percentage of Coverage of Australia": 2.08833
+  },
+  {
+    "Year": 2024,
+    "IUCN Category": "Ib",
+    "IUCN FULL": "Ib Wilderness Area",
+    "Protected Area": 3867150.878769,
+    "Percentage of Coverage of Australia": 0.502992
+  },
+  {
+    "Year": 2024,
+    "IUCN Category": "II",
+    "IUCN FULL": "II National Park",
+    "Protected Area": 39564238.52873,
+    "Percentage of Coverage of Australia": 5.14604
+  },
+  {
+    "Year": 2024,
+    "IUCN Category": "III",
+    "IUCN FULL": "III Natural Monument",
+    "Protected Area": 2454996.341993,
+    "Percentage of Coverage of Australia": 0.319316
+  },
+  {
+    "Year": 2024,
+    "IUCN Category": "IV",
+    "IUCN FULL": "IV Habitat/ Species Management Area",
+    "Protected Area": 4394467.126484,
+    "Percentage of Coverage of Australia": 0.571579
+  },
+  {
+    "Year": 2024,
+    "IUCN Category": "V",
+    "IUCN FULL": "V Protected Landscape/ Seascape",
+    "Protected Area": 7248957.846871,
+    "Percentage of Coverage of Australia": 0.942857
+  },
+  {
+    "Year": 2024,
+    "IUCN Category": "VI",
+    "IUCN FULL": "VI Managed Resource Protected Area",
+    "Protected Area": 99937978.161133,
+    "Percentage of Coverage of Australia": 12.998729
+  },
+  {
+    "Year": 2024,
+    "IUCN Category": "Not Applicable",
+    "IUCN FULL": "Not Applicable",
+    "Protected Area": 2824.970621,
+    "Percentage of Coverage of Australia": 0.000367
+  },
+  {
+    "Year": 2024,
+    "IUCN Category": "Not Assigned",
+    "IUCN FULL": "Not Assigned",
+    "Protected Area": 6760.242406,
+    "Percentage of Coverage of Australia": 0.000879
+  },
+  {
+    "Year": 2024,
+    "IUCN Category": "Not Reported",
+    "IUCN FULL": "Not Reported",
+    "Protected Area": 1065.406807,
+    "Percentage of Coverage of Australia": 0.000139
+  }
+]

@@ -1,0 +1,25 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": { "text": "Proportion of Protected Terrestrial Areas Under Categories of International Union for Conservation of Nature" },
+    "data": {
+        "url": "TCAPAD_2024.json"
+    },
+    "height": 700,
+    "width": 300,
+    "mark": "bar",
+    "encoding": {
+        "x": {
+            "field": "IUCN FULL",
+            "type": "nominal",
+            "title":"Categories of International Union for Conservation of Nature"
+        },
+        "y": {
+             "field": "Percentage of Coverage of Australia",
+             "type": "quantitative",
+             "title": "Percentage of Coverage of Australia"
+            },
+            "color": {
+                "value": "green"
+            }
+    }
+}
