@@ -1,22 +1,43 @@
+
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": { "text": "Proportion of Protected Marine Areas Under Categories of International Union for Conservation of Nature" },
-    "data": {
-        "url": "MCAPAD_2024.json"
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Proportion of Protected Marine Areas by IUCN Category"
+  },
+  "data": {
+    "url": "MCAPAD_2024.json"
+  },
+  "width": 400,
+  "height": 400,
+  "mark": {
+    "type": "arc",
+    "innerRadius": 70,
+    "outerRadius": 160,
+    "stroke": "white"
+  },
+  "encoding": {
+    "theta": {
+      "field": "Percentage of protected area per category",
+      "type": "quantitative",
+      "stack": true
     },
-    "height": 700,
-    "width": 300,
-    "mark": "bar",
-    "encoding": {
-        "x": {
-            "field": "IUCN FULL",
-            "type": "nominal",
-            "title":"Categories of International Union for Conservation of Nature"
-        },
-        "y": {
-             "field": "Percentage of protected area per category",
-             "type": "quantitative",
-             "title": "Percentage of protected area per category"
-            }
-    }
+    "color": {
+      "field": "IUCN FULL",
+      "type": "nominal",
+      "title": "IUCN Category"
+    },
+    "tooltip": [
+      {
+        "field": "IUCN FULL",
+        "type": "nominal",
+        "title": "IUCN Category"
+      },
+      {
+        "field": "Percentage of protected area per category",
+        "type": "quantitative",
+        "title": "Percentage of protected area (%)",
+        "format": ".2f"
+      }
+    ]
+  }
 }

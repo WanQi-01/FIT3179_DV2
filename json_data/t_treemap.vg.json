@@ -4,22 +4,37 @@
     "data": {
         "url": "TCAPAD_2024.json"
     },
-    "height": 700,
-    "width": 300,
-    "mark": "bar",
+    "width": 400,
+    "height": 400,
+    "mark": {
+        "type": "arc",
+        "innerRadius": 70,
+        "outerRadius": 160,
+        "stroke": "white"
+    },
     "encoding": {
-        "x": {
+        "theta": {
+            "field": "Percentage of Coverage of Australia",
+            "type": "quantitative",
+            "stack": true
+            },
+        "color": {
             "field": "IUCN FULL",
             "type": "nominal",
-            "title":"Categories of International Union for Conservation of Nature"
-        },
-        "y": {
-             "field": "Percentage of Coverage of Australia",
-             "type": "quantitative",
-             "title": "Percentage of Coverage of Australia"
+            "title": "Categories of International Union for Conservation of Nature"
             },
-            "color": {
-                "value": "green"
+        "tooltip": [
+            {
+                "field": "IUCN FULL",
+                "type": "nominal",
+                "title": "Categories of International Union for Conservation of Nature"
+            },
+            {
+                "field": "Percentage of protected area per category",
+                "type": "quantitative",
+                "title": "Percentage of protected area (%)",
+                "format": ".2f"
             }
+        ]
     }
 }

@@ -8,10 +8,10 @@
     "type": "equalEarth"
   },
   "data": {
-    "url": "../data/spatial_data/PA_INFO.topojson",
+    "url": "https://github.com/WanQi-01/FIT3179_DV2/blob/main/data/spatial_data/PA_INFO.topojson",
     "format": {
       "type": "topojson",
-      "feature": "REPLACE_WITH_TOPOJSON_OBJECT_NAME"
+      "feature": "Protected Areas Information"
     }
   },
   "transform": [
@@ -19,7 +19,7 @@
       "lookup": "properties.PA_PID",
       "from": {
         "data": {
-          "url": "../json_data/chart1.json",
+          "url": "https://github.com/WanQi-01/FIT3179_DV2/blob/main/json_data/chart1.json",
           "format": {
             "type": "json"
           }
