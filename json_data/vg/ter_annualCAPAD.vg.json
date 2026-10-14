@@ -2,10 +2,10 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": {
-    "text": "Percentage of Marine Protected Areas by International Union for Conservation of Nature Category Over Time"
+    "text": "Percentage of Terrestial Protected Areas by International Union for Conservation of Nature Category Over Time"
   },
   "data": {
-    "url": "marine_annualCAPAD.json"
+    "url": "../ter_annualCAPAD.json"
   },
   "width": 600,
   "height": 300,
@@ -30,10 +30,10 @@
       "sort": ["Ia", "Ib", "II", "III", "IV", "V", "VI"]
     },
     "color": {
-      "field": "Percentage of protected area",
+      "field": "Percentage of Coverage of Australia",
       "type": "quantitative",
       "scale": {
-        "scheme": "purples",
+        "scheme": "reds",
         "zero": true
       },
       "legend": {
@@ -52,7 +52,7 @@
         "title": "International Union for Conservation of Nature Category"
       },
       {
-        "field": "Percentage of protected area",
+        "field": "Percentage of Coverage of Australia",
         "type": "quantitative",
         "title": "Protected Area (%)",
         "format": ".2f"

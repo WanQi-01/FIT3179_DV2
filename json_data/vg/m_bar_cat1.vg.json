@@ -3,7 +3,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "Protected Area by Category (%)",
   "data": {
-    "url": "reserve_cat_m.json"
+    "url": "../reserve_cat_m.json"
   },
   "transform": [
     {

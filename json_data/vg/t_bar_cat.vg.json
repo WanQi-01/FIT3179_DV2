@@ -2,8 +2,10 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "Protected Area by Category (%)",
+  "width": 600,
+  "height":300,
   "data": {
-    "url": "reserve_cat_marine_park.json"
+    "url": "../reserve_cat_t.json"
   },
   "transform": [
     {
@@ -36,7 +38,7 @@
       "type": "quantitative",
       "title": "Percentage of Total Protected Area (%)"
     },
-    "color": {"value": "purple"},
+    "color": {"value": "green"},
     "tooltip": [
       {
         "field": "Category",

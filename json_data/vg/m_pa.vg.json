@@ -1,10 +1,10 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 
-    "title": { "text": "Terrestrial Protected Areas Coverage" },
+    "title": { "text": "Marine Protected Areas Coverage" },
 
     "data": {
-        "url": "t_pa.json"
+        "url": "../m_pa.json"
     },
     "width": 600,
     "height": 800,
@@ -16,7 +16,7 @@
             "title":"Year"
         },
         "y": {
-            "field": "Percentage of Protected Area/Assigned area",
+            "field": "Percentage of coverage",
             "type": "quantitative",
             "scale": {
                 "zero": true,
@@ -45,7 +45,7 @@
             {"field": "State Full Name", "type": "nominal", "title": "State"},
             {"field": "Year", "type": "quantitative", "title": "Year", "format": "d"},
             {
-                "field": "Percentage of Protected Area/Assigned area",
+                "field": "Percentage of coverage",
                 "type": "quantitative",
                 "title": "Percentage of coverage",
                 "format": ".3f"
