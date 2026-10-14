@@ -1,0 +1,55 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+    "title": { "text": "Marine Protected Areas Coverage" },
+
+    "data": {
+        "url": "m_pa.json"
+    },
+    "width": 600,
+    "height": 800,
+    "mark": "line",
+    "encoding": {
+        "x": {
+            "field": "Year",
+            "type": "ordinal",
+            "title":"Year"
+        },
+        "y": {
+            "field": "Percentage of coverage",
+            "type": "quantitative",
+            "scale": {
+                "zero": true,
+                "nice": true
+            },
+            "axis": {
+                "title": "Coverage of Protected Areas",
+                "format": ".2f",
+                "tickCount": 10
+            }
+        },
+        "color": {
+            "field": "State Full Name",
+            "type": "nominal",
+            "legend": {
+                "title": "State/Territories",
+                "orient": "right"
+            }
+        },
+        "detail": {"field": "State Full Name"},
+        "order": {
+            "field": "Year",
+            "type": "quantitative"
+        },
+        "tooltip": [
+            {"field": "State Full Name", "type": "nominal", "title": "State"},
+            {"field": "Year", "type": "quantitative", "title": "Year", "format": "d"},
+            {
+                "field": "Percentage of coverage",
+                "type": "quantitative",
+                "title": "Percentage of coverage",
+                "format": ".3f"
+            }
+        ]
+    }
+}

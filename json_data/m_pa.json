@@ -1,0 +1,322 @@
+[
+  {
+    "State Full Name": "New South Wales",
+    "Year": 2016,
+    "Protected Area (ha)": 348851.10847757815,
+    "Protected area per 100,000 ha": 3.4885110847757814,
+    "Total Sea Area": 880200,
+    "Percentage of coverage": 39.633163880661
+  },
+  {
+    "State Full Name": "Nothern Territory",
+    "Year": 2016,
+    "Protected Area (ha)": 290644.98869319714,
+    "Protected area per 100,000 ha": 2.9064498869319713,
+    "Total Sea Area": 7183900,
+    "Percentage of coverage": 4.04578277388601
+  },
+  {
+    "State Full Name": "Queensland",
+    "Year": 2016,
+    "Protected Area (ha)": 7632929.501358876,
+    "Protected area per 100,000 ha": 76.32929501358876,
+    "Total Sea Area": 12199400,
+    "Percentage of coverage": 62.56807303112346
+  },
+  {
+    "State Full Name": "South Australia",
+    "Year": 2016,
+    "Protected Area (ha)": 2713032.6399033996,
+    "Protected area per 100,000 ha": 27.130326399033997,
+    "Total Sea Area": 6003200,
+    "Percentage of coverage": 45.19310767429703
+  },
+  {
+    "State Full Name": "Tasmania",
+    "Year": 2016,
+    "Protected Area (ha)": 156715.5638037739,
+    "Protected area per 100,000 ha": 1.567155638037739,
+    "Total Sea Area": 2235700,
+    "Percentage of coverage": 7.009686621808557
+  },
+  {
+    "State Full Name": "Victoria",
+    "Year": 2016,
+    "Protected Area (ha)": 121138.29707529482,
+    "Protected area per 100,000 ha": 1.2113829707529482,
+    "Total Sea Area": 1021300,
+    "Percentage of coverage": 11.86118643643345
+  },
+  {
+    "State Full Name": "Western Australia",
+    "Year": 2016,
+    "Protected Area (ha)": 2519732.2346324674,
+    "Protected area per 100,000 ha": 25.197322346324675,
+    "Total Sea Area": 11574000,
+    "Percentage of coverage": 21.77062583922989
+  },
+  {
+    "State Full Name": "New South Wales",
+    "Year": 2018,
+    "Protected Area (ha)": 348848.84795229405,
+    "Protected area per 100,000 ha": 3.4884884795229403,
+    "Total Sea Area": 880200,
+    "Percentage of coverage": 39.63290706115588
+  },
+  {
+    "State Full Name": "Nothern Territory",
+    "Year": 2018,
+    "Protected Area (ha)": 290645.0456399899,
+    "Protected area per 100,000 ha": 2.906450456399899,
+    "Total Sea Area": 7183900,
+    "Percentage of coverage": 4.045783566586254
+  },
+  {
+    "State Full Name": "Queensland",
+    "Year": 2018,
+    "Protected Area (ha)": 7650815.116832979,
+    "Protected area per 100,000 ha": 76.50815116832979,
+    "Total Sea Area": 12199400,
+    "Percentage of coverage": 62.714683647007064
+  },
+  {
+    "State Full Name": "South Australia",
+    "Year": 2018,
+    "Protected Area (ha)": 2701073.5250896267,
+    "Protected area per 100,000 ha": 27.010735250896268,
+    "Total Sea Area": 6003200,
+    "Percentage of coverage": 44.99389534064544
+  },
+  {
+    "State Full Name": "Tasmania",
+    "Year": 2018,
+    "Protected Area (ha)": 145127.07686764855,
+    "Protected area per 100,000 ha": 1.4512707686764854,
+    "Total Sea Area": 2235700,
+    "Percentage of coverage": 6.491348430811314
+  },
+  {
+    "State Full Name": "Victoria",
+    "Year": 2018,
+    "Protected Area (ha)": 121088.31140251644,
+    "Protected area per 100,000 ha": 1.2108831140251644,
+    "Total Sea Area": 1021300,
+    "Percentage of coverage": 11.85629211813536
+  },
+  {
+    "State Full Name": "Western Australia",
+    "Year": 2018,
+    "Protected Area (ha)": 4751057.582976479,
+    "Protected area per 100,000 ha": 47.51057582976479,
+    "Total Sea Area": 11574000,
+    "Percentage of coverage": 41.04940023307827
+  },
+  {
+    "State Full Name": "New South Wales",
+    "Year": 2020,
+    "Protected Area (ha)": 348849,
+    "Protected area per 100,000 ha": 3.48849,
+    "Total Sea Area": 880200,
+    "Percentage of coverage": 39.63292433537832
+  },
+  {
+    "State Full Name": "Nothern Territory",
+    "Year": 2020,
+    "Protected Area (ha)": 290645,
+    "Protected area per 100,000 ha": 2.90645,
+    "Total Sea Area": 7183900,
+    "Percentage of coverage": 4.045782931276883
+  },
+  {
+    "State Full Name": "Queensland",
+    "Year": 2020,
+    "Protected Area (ha)": 7650815,
+    "Protected area per 100,000 ha": 76.50815,
+    "Total Sea Area": 12199400,
+    "Percentage of coverage": 62.71468268931258
+  },
+  {
+    "State Full Name": "South Australia",
+    "Year": 2020,
+    "Protected Area (ha)": 2703184,
+    "Protected area per 100,000 ha": 27.03184,
+    "Total Sea Area": 6003200,
+    "Percentage of coverage": 45.02905117270789
+  },
+  {
+    "State Full Name": "Tasmania",
+    "Year": 2020,
+    "Protected Area (ha)": 145127,
+    "Protected area per 100,000 ha": 1.45127,
+    "Total Sea Area": 2235700,
+    "Percentage of coverage": 6.491344992619761
+  },
+  {
+    "State Full Name": "Victoria",
+    "Year": 2020,
+    "Protected Area (ha)": 121242,
+    "Protected area per 100,000 ha": 1.21242,
+    "Total Sea Area": 1021300,
+    "Percentage of coverage": 11.871340448448056
+  },
+  {
+    "State Full Name": "Western Australia",
+    "Year": 2020,
+    "Protected Area (ha)": 4751462,
+    "Protected area per 100,000 ha": 47.51462,
+    "Total Sea Area": 11574000,
+    "Percentage of coverage": 41.052894418524275
+  },
+  {
+    "State Full Name": "New South Wales",
+    "Year": 2022,
+    "Protected Area (ha)": 348849,
+    "Protected area per 100,000 ha": 3.48849,
+    "Total Sea Area": 880200,
+    "Percentage of coverage": 39.63292433537832
+  },
+  {
+    "State Full Name": "Nothern Territory",
+    "Year": 2022,
+    "Protected Area (ha)": 290645,
+    "Protected area per 100,000 ha": 2.90645,
+    "Total Sea Area": 7183900,
+    "Percentage of coverage": 4.045782931276883
+  },
+  {
+    "State Full Name": "Queensland",
+    "Year": 2022,
+    "Protected Area (ha)": 7650815,
+    "Protected area per 100,000 ha": 76.50815,
+    "Total Sea Area": 12199400,
+    "Percentage of coverage": 62.71468268931258
+  },
+  {
+    "State Full Name": "South Australia",
+    "Year": 2022,
+    "Protected Area (ha)": 2712989,
+    "Protected area per 100,000 ha": 27.12989,
+    "Total Sea Area": 6003200,
+    "Percentage of coverage": 45.192380730277186
+  },
+  {
+    "State Full Name": "Tasmania",
+    "Year": 2022,
+    "Protected Area (ha)": 145088,
+    "Protected area per 100,000 ha": 1.45088,
+    "Total Sea Area": 2235700,
+    "Percentage of coverage": 6.489600572527619
+  },
+  {
+    "State Full Name": "Victoria",
+    "Year": 2022,
+    "Protected Area (ha)": 121242,
+    "Protected area per 100,000 ha": 1.21242,
+    "Total Sea Area": 1021300,
+    "Percentage of coverage": 11.871340448448056
+  },
+  {
+    "State Full Name": "Western Australia",
+    "Year": 2022,
+    "Protected Area (ha)": 4751462,
+    "Protected area per 100,000 ha": 47.51462,
+    "Total Sea Area": 11574000,
+    "Percentage of coverage": 41.052894418524275
+  },
+  {
+    "State Full Name": "New South Wales",
+    "Year": 2024,
+    "Protected Area (ha)": 336371.0871637702,
+    "Protected area per 100,000 ha": 3.363710871637702,
+    "Total Sea Area": 880200,
+    "Percentage of coverage": 38.21530188181893
+  },
+  {
+    "State Full Name": "Nothern Territory",
+    "Year": 2024,
+    "Protected Area (ha)": 1473278.30688476,
+    "Protected area per 100,000 ha": 14.732783068847601,
+    "Total Sea Area": 7183900,
+    "Percentage of coverage": 20.5080570008597
+  },
+  {
+    "State Full Name": "Queensland",
+    "Year": 2024,
+    "Protected Area (ha)": 9988304.262409,
+    "Protected area per 100,000 ha": 99.88304262409,
+    "Total Sea Area": 12199400,
+    "Percentage of coverage": 81.87537307088053
+  },
+  {
+    "State Full Name": "South Australia",
+    "Year": 2024,
+    "Protected Area (ha)": 2672654.66163917,
+    "Protected area per 100,000 ha": 26.726546616391698,
+    "Total Sea Area": 6003200,
+    "Percentage of coverage": 44.520500093936064
+  },
+  {
+    "State Full Name": "Tasmania",
+    "Year": 2024,
+    "Protected Area (ha)": 145071.893278286,
+    "Protected area per 100,000 ha": 1.45071893278286,
+    "Total Sea Area": 2235700,
+    "Percentage of coverage": 6.488880139476942
+  },
+  {
+    "State Full Name": "Victoria",
+    "Year": 2024,
+    "Protected Area (ha)": 116054.8856078728,
+    "Protected area per 100,000 ha": 1.160548856078728,
+    "Total Sea Area": 1021300,
+    "Percentage of coverage": 11.363447136773994
+  },
+  {
+    "State Full Name": "Western Australia",
+    "Year": 2024,
+    "Protected Area (ha)": 5305930.336949,
+    "Protected area per 100,000 ha": 53.05930336949,
+    "Total Sea Area": 11574000,
+    "Percentage of coverage": 45.84353150984102
+  },
+  {
+    "State Full Name": "Commonwealth",
+    "Year": 2016,
+    "Protected Area (ha)": 317767656.675497,
+    "Protected area per 100,000 ha": 3177.67656675497,
+    "Total Sea Area": 852973361.4,
+    "Percentage of coverage": 37.25411262011037
+  },
+  {
+    "State Full Name": "Commonwealth",
+    "Year": 2018,
+    "Protected Area (ha)": 317767551,
+    "Protected area per 100,000 ha": 3177.67551,
+    "Total Sea Area": 852973361.4,
+    "Percentage of coverage": 37.25410023103683
+  },
+  {
+    "State Full Name": "Commonwealth",
+    "Year": 2020,
+    "Protected Area (ha)": 317767551,
+    "Protected area per 100,000 ha": 3177.67551,
+    "Total Sea Area": 852973361.4,
+    "Percentage of coverage": 37.25410023103683
+  },
+  {
+    "State Full Name": "Commonwealth",
+    "Year": 2022,
+    "Protected Area (ha)": 392173968,
+    "Protected area per 100,000 ha": 3921.73968,
+    "Total Sea Area": 852973361.4,
+    "Percentage of coverage": 45.97728202863429
+  },
+  {
+    "State Full Name": "Commonwealth",
+    "Year": 2024,
+    "Protected Area (ha)": 417166710.8608099,
+    "Protected area per 100,000 ha": 4171.6671086081,
+    "Total Sea Area": 852973361.4,
+    "Percentage of coverage": 48.907355110845074
+  }
+]

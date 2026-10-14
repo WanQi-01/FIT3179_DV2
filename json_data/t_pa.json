@@ -1,0 +1,380 @@
+[
+  {
+    "State Full Name": "Australian Capital Territory",
+    "Year": 2014,
+    "Protected Area (ha)": 130213.911646588,
+    "Total Assigned Area (ha)": 235813,
+    "Percentage of Protected Area/Assigned area": 55.219140440343836
+  },
+  {
+    "State Full Name": "External Territories",
+    "Year": 2014,
+    "Protected Area (ha)": 42222.5558929443,
+    "Total Assigned Area (ha)": 0,
+    "Percentage of Protected Area/Assigned area": 0
+  },
+  {
+    "State Full Name": "New South Wales",
+    "Year": 2014,
+    "Protected Area (ha)": 7293630.363775385,
+    "Total Assigned Area (ha)": 80121268,
+    "Percentage of Protected Area/Assigned area": 9.103238810168836
+  },
+  {
+    "State Full Name": "Nothern Territory",
+    "Year": 2014,
+    "Protected Area (ha)": 25129385.952061232,
+    "Total Assigned Area (ha)": 134778762,
+    "Percentage of Protected Area/Assigned area": 18.64491525160413
+  },
+  {
+    "State Full Name": "Queensland",
+    "Year": 2014,
+    "Protected Area (ha)": 14108221.9612401,
+    "Total Assigned Area (ha)": 172973671,
+    "Percentage of Protected Area/Assigned area": 8.156282906917145
+  },
+  {
+    "State Full Name": "South Australia",
+    "Year": 2014,
+    "Protected Area (ha)": 29394607.3444045,
+    "Total Assigned Area (ha)": 98422137,
+    "Percentage of Protected Area/Assigned area": 29.86584953383455
+  },
+  {
+    "State Full Name": "Tasmania",
+    "Year": 2014,
+    "Protected Area (ha)": 3015706.70970686,
+    "Total Assigned Area (ha)": 6840133,
+    "Percentage of Protected Area/Assigned area": 44.08842210680494
+  },
+  {
+    "State Full Name": "Victoria",
+    "Year": 2014,
+    "Protected Area (ha)": 4012123.7184593,
+    "Total Assigned Area (ha)": 22754364,
+    "Percentage of Protected Area/Assigned area": 17.632326346099152
+  },
+  {
+    "State Full Name": "Western Australia",
+    "Year": 2014,
+    "Protected Area (ha)": 54375438.5198907,
+    "Total Assigned Area (ha)": 252700808,
+    "Percentage of Protected Area/Assigned area": 21.51771454561028
+  },
+  {
+    "State Full Name": "Australian Capital Territory",
+    "Year": 2016,
+    "Protected Area (ha)": 130829.5008907318,
+    "Total Assigned Area (ha)": 235814.85308159783,
+    "Percentage of Protected Area/Assigned area": 55.48019018914639
+  },
+  {
+    "State Full Name": "External Territories",
+    "Year": 2016,
+    "Protected Area (ha)": 40166.650496,
+    "Total Assigned Area (ha)": 0,
+    "Percentage of Protected Area/Assigned area": 0
+  },
+  {
+    "State Full Name": "New South Wales",
+    "Year": 2016,
+    "Protected Area (ha)": 7448535.066576177,
+    "Total Assigned Area (ha)": 80115006.5110192,
+    "Percentage of Protected Area/Assigned area": 9.296576617554502
+  },
+  {
+    "State Full Name": "Nothern Territory",
+    "Year": 2016,
+    "Protected Area (ha)": 33514059.665276088,
+    "Total Assigned Area (ha)": 134779162.69050986,
+    "Percentage of Protected Area/Assigned area": 24.865979749299143
+  },
+  {
+    "State Full Name": "Queensland",
+    "Year": 2016,
+    "Protected Area (ha)": 14601431.075975182,
+    "Total Assigned Area (ha)": 172974215.25634733,
+    "Percentage of Protected Area/Assigned area": 8.441418275718494
+  },
+  {
+    "State Full Name": "South Australia",
+    "Year": 2016,
+    "Protected Area (ha)": 29588882.72613813,
+    "Total Assigned Area (ha)": 98432191.35767776,
+    "Percentage of Protected Area/Assigned area": 30.063239458149678
+  },
+  {
+    "State Full Name": "Tasmania",
+    "Year": 2016,
+    "Protected Area (ha)": 2894327.30168593,
+    "Total Assigned Area (ha)": 6840139.364627929,
+    "Percentage of Protected Area/Assigned area": 42.31386449014797
+  },
+  {
+    "State Full Name": "Victoria",
+    "Year": 2016,
+    "Protected Area (ha)": 3916791.799646294,
+    "Total Assigned Area (ha)": 22744373.104050368,
+    "Percentage of Protected Area/Assigned area": 17.220926607771762
+  },
+  {
+    "State Full Name": "Western Australia",
+    "Year": 2016,
+    "Protected Area (ha)": 58777768.2338861,
+    "Total Assigned Area (ha)": 252701298.39084703,
+    "Percentage of Protected Area/Assigned area": 23.259780859129556
+  },
+  {
+    "State Full Name": "Australian Capital Territory",
+    "Year": 2018,
+    "Protected Area (ha)": 131241.6874631643,
+    "Total Assigned Area (ha)": 235814.853082,
+    "Percentage of Protected Area/Assigned area": 55.65454666993668
+  },
+  {
+    "State Full Name": "External Territories",
+    "Year": 2018,
+    "Protected Area (ha)": 40166.65049627001,
+    "Total Assigned Area (ha)": 0,
+    "Percentage of Protected Area/Assigned area": 0
+  },
+  {
+    "State Full Name": "New South Wales",
+    "Year": 2018,
+    "Protected Area (ha)": 7455651.678063528,
+    "Total Assigned Area (ha)": 80115006.511019,
+    "Percentage of Protected Area/Assigned area": 9.306186197511048
+  },
+  {
+    "State Full Name": "Nothern Territory",
+    "Year": 2018,
+    "Protected Area (ha)": 33505470.26430834,
+    "Total Assigned Area (ha)": 134779162.69051,
+    "Percentage of Protected Area/Assigned area": 24.859532879905263
+  },
+  {
+    "State Full Name": "Queensland",
+    "Year": 2018,
+    "Protected Area (ha)": 15014650.133287959,
+    "Total Assigned Area (ha)": 172974215.256347,
+    "Percentage of Protected Area/Assigned area": 8.68028226694731
+  },
+  {
+    "State Full Name": "South Australia",
+    "Year": 2018,
+    "Protected Area (ha)": 29656514.36761587,
+    "Total Assigned Area (ha)": 98432191.357678,
+    "Percentage of Protected Area/Assigned area": 30.12887751310088
+  },
+  {
+    "State Full Name": "Tasmania",
+    "Year": 2018,
+    "Protected Area (ha)": 2896817.080246232,
+    "Total Assigned Area (ha)": 6840139.364628,
+    "Percentage of Protected Area/Assigned area": 42.35026401985853
+  },
+  {
+    "State Full Name": "Victoria",
+    "Year": 2018,
+    "Protected Area (ha)": 3981165.39867072,
+    "Total Assigned Area (ha)": 22744373.10405,
+    "Percentage of Protected Area/Assigned area": 17.503957486354327
+  },
+  {
+    "State Full Name": "Western Australia",
+    "Year": 2018,
+    "Protected Area (ha)": 59100226.18644075,
+    "Total Assigned Area (ha)": 252701298.390847,
+    "Percentage of Protected Area/Assigned area": 23.387385250008432
+  },
+  {
+    "State Full Name": "Australian Capital Territory",
+    "Year": 2020,
+    "Protected Area (ha)": 131721.16888664,
+    "Total Assigned Area (ha)": 235814.8530815978,
+    "Percentage of Protected Area/Assigned area": 55.85787582397461
+  },
+  {
+    "State Full Name": "External Territories",
+    "Year": 2020,
+    "Protected Area (ha)": 40166.65086094274,
+    "Total Assigned Area (ha)": 0,
+    "Percentage of Protected Area/Assigned area": 0
+  },
+  {
+    "State Full Name": "New South Wales",
+    "Year": 2020,
+    "Protected Area (ha)": 7696641.307226734,
+    "Total Assigned Area (ha)": 80115006.5110192,
+    "Percentage of Protected Area/Assigned area": 9.606990814208984
+  },
+  {
+    "State Full Name": "Nothern Territory",
+    "Year": 2020,
+    "Protected Area (ha)": 33505136.09457567,
+    "Total Assigned Area (ha)": 134779162.6905099,
+    "Percentage of Protected Area/Assigned area": 24.85928535461426
+  },
+  {
+    "State Full Name": "Queensland",
+    "Year": 2020,
+    "Protected Area (ha)": 15070241.91531271,
+    "Total Assigned Area (ha)": 172974215.2563473,
+    "Percentage of Protected Area/Assigned area": 8.712421417236328
+  },
+  {
+    "State Full Name": "South Australia",
+    "Year": 2020,
+    "Protected Area (ha)": 29654593.76611273,
+    "Total Assigned Area (ha)": 98432191.35767776,
+    "Percentage of Protected Area/Assigned area": 30.12692642211914
+  },
+  {
+    "State Full Name": "Tasmania",
+    "Year": 2020,
+    "Protected Area (ha)": 2893241.497669372,
+    "Total Assigned Area (ha)": 6840139.364627929,
+    "Percentage of Protected Area/Assigned area": 42.29798889160156
+  },
+  {
+    "State Full Name": "Victoria",
+    "Year": 2020,
+    "Protected Area (ha)": 3996874.411486336,
+    "Total Assigned Area (ha)": 22744373.10405037,
+    "Percentage of Protected Area/Assigned area": 17.57302474975586
+  },
+  {
+    "State Full Name": "Western Australia",
+    "Year": 2020,
+    "Protected Area (ha)": 58887254.93301339,
+    "Total Assigned Area (ha)": 252701298.390847,
+    "Percentage of Protected Area/Assigned area": 23.30310821533203
+  },
+  {
+    "State Full Name": "Australian Capital Territory",
+    "Year": 2022,
+    "Protected Area (ha)": 131903.6442161171,
+    "Total Assigned Area (ha)": 235814.853081598,
+    "Percentage of Protected Area/Assigned area": 55.93525695800781
+  },
+  {
+    "State Full Name": "External Territories",
+    "Year": 2022,
+    "Protected Area (ha)": 50312.7817497162,
+    "Total Assigned Area (ha)": 0,
+    "Percentage of Protected Area/Assigned area": 0
+  },
+  {
+    "State Full Name": "New South Wales",
+    "Year": 2022,
+    "Protected Area (ha)": 8169917.758961976,
+    "Total Assigned Area (ha)": 80115006.5110192,
+    "Percentage of Protected Area/Assigned area": 10.1977367401123
+  },
+  {
+    "State Full Name": "Nothern Territory",
+    "Year": 2022,
+    "Protected Area (ha)": 33536324.71838379,
+    "Total Assigned Area (ha)": 134779162.69051,
+    "Percentage of Protected Area/Assigned area": 24.88242530822754
+  },
+  {
+    "State Full Name": "Queensland",
+    "Year": 2022,
+    "Protected Area (ha)": 15275845.92634992,
+    "Total Assigned Area (ha)": 172974215.256347,
+    "Percentage of Protected Area/Assigned area": 8.83128547668457
+  },
+  {
+    "State Full Name": "South Australia",
+    "Year": 2022,
+    "Protected Area (ha)": 29721867.01848097,
+    "Total Assigned Area (ha)": 98432191.3576778,
+    "Percentage of Protected Area/Assigned area": 30.19527053833008
+  },
+  {
+    "State Full Name": "Tasmania",
+    "Year": 2022,
+    "Protected Area (ha)": 2893895.326506033,
+    "Total Assigned Area (ha)": 6840139.36462793,
+    "Percentage of Protected Area/Assigned area": 42.30754852294922
+  },
+  {
+    "State Full Name": "Victoria",
+    "Year": 2022,
+    "Protected Area (ha)": 4012887.776085055,
+    "Total Assigned Area (ha)": 22744373.1040504,
+    "Percentage of Protected Area/Assigned area": 17.64343070983887
+  },
+  {
+    "State Full Name": "Western Australia",
+    "Year": 2022,
+    "Protected Area (ha)": 76142709.8366525,
+    "Total Assigned Area (ha)": 252701298.390847,
+    "Percentage of Protected Area/Assigned area": 30.13150787353516
+  },
+  {
+    "State Full Name": "Australian Capital Territory",
+    "Year": 2024,
+    "Protected Area (ha)": 131902,
+    "Total Assigned Area (ha)": 235814.853081598,
+    "Percentage of Protected Area/Assigned area": 55.934715792538356
+  },
+  {
+    "State Full Name": "External Territories",
+    "Year": 2024,
+    "Protected Area (ha)": 9681,
+    "Total Assigned Area (ha)": 0,
+    "Percentage of Protected Area/Assigned area": 0
+  },
+  {
+    "State Full Name": "New South Wales",
+    "Year": 2024,
+    "Protected Area (ha)": 8365055.819655714,
+    "Total Assigned Area (ha)": 80115006.5110192,
+    "Percentage of Protected Area/Assigned area": 10.441309542307987
+  },
+  {
+    "State Full Name": "Nothern Territory",
+    "Year": 2024,
+    "Protected Area (ha)": 33208737.99751482,
+    "Total Assigned Area (ha)": 134779162.69051,
+    "Percentage of Protected Area/Assigned area": 24.639371053054575
+  },
+  {
+    "State Full Name": "Queensland",
+    "Year": 2024,
+    "Protected Area (ha)": 16183152.68197991,
+    "Total Assigned Area (ha)": 172974215.256347,
+    "Percentage of Protected Area/Assigned area": 9.355817951245811
+  },
+  {
+    "State Full Name": "South Australia",
+    "Year": 2024,
+    "Protected Area (ha)": 29963518.48494658,
+    "Total Assigned Area (ha)": 98432191.3576778,
+    "Percentage of Protected Area/Assigned area": 30.440771531811894
+  },
+  {
+    "State Full Name": "Tasmania",
+    "Year": 2024,
+    "Protected Area (ha)": 2928054.775268203,
+    "Total Assigned Area (ha)": 6840139.36462793,
+    "Percentage of Protected Area/Assigned area": 42.80694616267479
+  },
+  {
+    "State Full Name": "Victoria",
+    "Year": 2024,
+    "Protected Area (ha)": 4023548.42187292,
+    "Total Assigned Area (ha)": 22744373.1040504,
+    "Percentage of Protected Area/Assigned area": 17.690302579306515
+  },
+  {
+    "State Full Name": "Western Australia",
+    "Year": 2024,
+    "Protected Area (ha)": 78674218.90145588,
+    "Total Assigned Area (ha)": 252701298.390847,
+    "Percentage of Protected Area/Assigned area": 31.133286375035702
+  }
+]
