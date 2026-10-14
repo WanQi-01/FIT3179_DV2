@@ -5,7 +5,7 @@
     "text": "Proportion of Protected Marine Areas by IUCN Category"
   },
   "data": {
-    "url": "../MCAPAD_2024.json"
+    "url": "json_data/MCAPAD_2024.json"
   },
   "width": 400,
   "height": 400,

@@ -1,0 +1,633 @@
+﻿PA_PID,NAME,TYPE,Category,IUCN,GAZ_AREA,GIS_AREA,STATE,State Full Name,LONGITUDE,LATITUDE
+NSW_FR75,Nullica,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,21,20.78488559,NSW,New South Wales,149.7736914,-37.10924789
+CWTH_160,Frazier Islands,Antarctic Specially Protected Area,"Heritage, Coastal & Special-purpose Areas",Ia,0,61.79135762,EXT,External Territories,110.1851154,-66.23030374
+CWTH_169,Amanda Bay,Antarctic Specially Protected Area,"Heritage, Coastal & Special-purpose Areas",Ia,0,1737.637632,EXT,External Territories,76.84522559,-69.25360706
+CWTH_167,Hawker Island,Antarctic Specially Protected Area,"Heritage, Coastal & Special-purpose Areas",Ia,0,220.6650994,EXT,External Territories,77.85657232,-68.6357189
+CWTH_136,Clark Peninsula,Antarctic Specially Protected Area,"Heritage, Coastal & Special-purpose Areas",Ia,0,967.8177006,EXT,External Territories,110.5820107,-66.2523604
+CWTH_103,Ardery Island and Odbert Island,Antarctic Specially Protected Area,"Heritage, Coastal & Special-purpose Areas",Ia,0,251.3539264,EXT,External Territories,110.5397643,-66.37356415
+CWTH_6,Larsemann Hills,Antarctic Specially Managed Area,"Heritage, Coastal & Special-purpose Areas",Ia,0,23896.75341,EXT,External Territories,76.2217413,-69.40833348
+CWTH_162,Mawson's Huts,Antarctic Specially Protected Area,"Heritage, Coastal & Special-purpose Areas",Ia,0,104.0733307,EXT,External Territories,142.6661009,-67.00846755
+CWTH_102,Rookery Islands,Antarctic Specially Protected Area,"Heritage, Coastal & Special-purpose Areas",Ia,0,85.27201927,EXT,External Territories,62.50090659,-67.61152906
+CWTH_143,Marine Plain,Antarctic Specially Protected Area,"Heritage, Coastal & Special-purpose Areas",Ia,0,2076.563036,EXT,External Territories,78.14690859,-68.63100089
+CWTH_174,Stornes,Antarctic Specially Protected Area,"Heritage, Coastal & Special-purpose Areas",Ia,0,0.003009,EXT,External Territories,76.05812655,-69.4775791
+CWTH_164,Scullin and Murray Monoliths,Antarctic Specially Protected Area,"Heritage, Coastal & Special-purpose Areas",Ia,0,1028.563293,EXT,External Territories,66.69243001,-67.78978051
+CWTH_174,Stornes,Antarctic Specially Protected Area,"Heritage, Coastal & Special-purpose Areas",Ia,0,2133.100276,EXT,External Territories,76.05082468,-69.43463989
+CWTH_135,North-eastern Bailey Peninsula,Antarctic Specially Protected Area,"Heritage, Coastal & Special-purpose Areas",Ia,0,28.99830859,EXT,External Territories,110.5444039,-66.28370715
+CWTH_101,Taylor Rookery,Antarctic Specially Protected Area,"Heritage, Coastal & Special-purpose Areas",Ia,0,27.37402513,EXT,External Territories,60.88624236,-67.45486487
+CWTH_168,Mount Harding,Antarctic Specially Protected Area,"Heritage, Coastal & Special-purpose Areas",Ia,0,10170.21712,EXT,External Territories,75.04305617,-72.89999963
+VIC_3419,Lake Tyers S.P.,State Park,Parks & Recreational Areas,III,8695.075,8684.452012,VIC,Victoria,148.0641275,-37.78476871
+VIC_3346,Mount Samaria,State Park,Parks & Recreational Areas,II,7442.724,399.4832765,VIC,Victoria,146.1045309,-36.88695707
+TAS_50781_c,Gellibrand Point,Nature Recreation Area,Parks & Recreational Areas,V,0,0.01491434,TAS,Tasmania,147.4089199,-42.96485787
+QLD_4201DLS001,Danbulla South 2,Forest Reserve,"Forest, Flora & Wildlife Reserves",VI,49.4,43.23034027,QLD,Queensland,145.5180206,-17.16834994
+TAS_50275_a,Reynolds Falls,Nature Recreation Area,Parks & Recreational Areas,V,0,13372.61424,TAS,Tasmania,145.7967758,-41.62653952
+WA_45409,Bold Park,Botanic Gardens,Parks & Recreational Areas,NAS,439.4978,439.5155883,WA,Western Australia,115.7723329,-31.94890579
+NSW_FR14,Tennyson Creek,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,464.4049988,494.2629058,NSW,New South Wales,149.1231005,-37.16383129
+NSW_FR184,Mares Hill,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,18,18.06593216,NSW,New South Wales,150.136056,-35.4050689
+TAS_50781_d,Gellibrand Point,Nature Recreation Area,Parks & Recreational Areas,V,0,0.29878713,TAS,Tasmania,147.4148664,-42.98321513
+CWTH_N1010,Conara Junction,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",IV,0,8.12031094,TAS,Tasmania,147.4404547,-41.83049367
+TAS_50227,Sydney Cove,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,0,61.11876734,TAS,Tasmania,148.0767115,-40.49157316
+VIC_3356,Enfield,State Park,Parks & Recreational Areas,II,4322.232,98.02979355,VIC,Victoria,143.7425657,-37.7315846
+NSW_N1131,Euston,Regional Park,Parks & Recreational Areas,V,3273.8,3244.768844,NSW,New South Wales,142.7001746,-34.59133464
+VIC_3329,Bunyip,State Park,Parks & Recreational Areas,II,16646.352,16304.0375,VIC,Victoria,145.7129092,-37.9703799
+VIC_3588,Ovens River,Heritage River,"Heritage, Coastal & Special-purpose Areas",V,0,3048.289896,VIC,Victoria,146.219251,-36.10541015
+NSW_N1134,Lachlan Valley,Regional Park,Parks & Recreational Areas,V,1536.6,1512.473509,NSW,New South Wales,145.5860188,-33.45347948
+VIC_3589,Howqua River,Heritage River,"Heritage, Coastal & Special-purpose Areas",V,0,911.711635,VIC,Victoria,146.503487,-37.18462108
+NSW_FR59,Pokolbin,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,90,97.22198464,NSW,New South Wales,151.2504799,-32.7780922
+NSW_FR42,Madmans Creek,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,92,101.6329879,NSW,New South Wales,153.1080309,-30.06706399
+NSW_FR187,Mumbulla,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,4.0162158,6132.500553,NSW,New South Wales,149.9295746,-36.59009937
+SA_0218,Currency Creek,Game Reserve,"Forest, Flora & Wildlife Reserves",VI,383.4587372,127.970279,SA,South Australia,138.8408365,-35.48472341
+SA_10123,The Bluff,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,76.04539743,75.65165281,SA,South Australia,140.5552959,-37.71911927
+NSW_N0216,Wisemans Ferry,Historic Site,"Heritage, Coastal & Special-purpose Areas",II,21.381,21.47594306,NSW,New South Wales,150.9842614,-33.39110963
+TAS_50265_v,Killiecrankie,Nature Recreation Area,Parks & Recreational Areas,VI,0,0.05826846,TAS,Tasmania,147.8411837,-39.81489859
+NSW_FR183,Currowan Creek,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,71,71.39950562,NSW,New South Wales,150.0334126,-35.5422286
+NSW_FR167,Letts Mountain,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,910,1.16586017,NSW,New South Wales,149.5072441,-37.07237233
+NSW_FR195,Kilprotay,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,1490,1488.344303,NSW,New South Wales,152.5276438,-30.57242038
+SA_10138,Deadmans Swamp,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,1081.886114,0.00070269,SA,South Australia,140.8704905,-37.17826616
+CWTH_N7099,Kaluwiri,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",II,0,103460.7041,WA,Western Australia,119.7235053,-27.3091174
+VIC_3326,Arthurs Seat,State Park,Parks & Recreational Areas,III,566.061,565.8958547,VIC,Victoria,144.9451633,-38.3610272
+NSW_FR186,Olney,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,802,799.6058462,NSW,New South Wales,151.2176912,-33.04422417
+VIC_3329,Bunyip,State Park,Parks & Recreational Areas,II,16646.352,342.6265317,VIC,Victoria,145.6735445,-37.99604572
+SA_10118,Native Wells,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,629.8164989,626.7082938,SA,South Australia,140.4925126,-37.65225656
+SA_10122,Long,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,299.8187294,149.1459079,SA,South Australia,140.5630225,-37.69535046
+CWTH_N3026,Lonesome Holding,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",II,0,14503.89005,QLD,Queensland,148.9423834,-25.52335566
+NSW_FR25,Glenugie Peak,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,104.8219986,150.8703439,NSW,New South Wales,153.0682425,-29.83317628
+NSW_FR182,Jerrabattgulla,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,29,29.26602371,NSW,New South Wales,149.5165098,-35.86296825
+NT_PA55_b,Yeperenye / Emily and Jessie Gaps,Nature Park,Parks & Recreational Areas,V,1213,209.644775,NT,Northern Territory,133.9184271,-23.73145866
+TAS_50192,Bird Island,Game Reserve,"Forest, Flora & Wildlife Reserves",VI,0,59.04444239,TAS,Tasmania,144.7193475,-40.60329532
+NSW_FR143,Eurabbie,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,75,77.23261245,NSW,New South Wales,148.0846064,-35.76172128
+NSW_FR193,Oakwood,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,318,317.2716623,NSW,New South Wales,152.1002906,-29.92128443
+NSW_FR77,Selection Flat,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,140,143.706533,NSW,New South Wales,152.9693583,-29.16612902
+NSW_FR175,Mount Pipanpinga,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,430,433.2579466,NSW,New South Wales,152.1139061,-31.81100132
+TAS_50265_d,Killiecrankie,Nature Recreation Area,Parks & Recreational Areas,VI,0,0.21962483,TAS,Tasmania,147.8601075,-39.79752413
+TAS_50200_e,Petrel Islands,Game Reserve,"Forest, Flora & Wildlife Reserves",VI,0,0.14404273,TAS,Tasmania,144.9354915,-40.57587484
+NSW_N1133,Murrumbidgee Valley,Regional Park,Parks & Recreational Areas,V,1192.2,1188.343573,NSW,New South Wales,145.9820575,-34.55542961
+TAS_50276,Rosny Hill,Nature Recreation Area,Parks & Recreational Areas,V,0,21.40622694,TAS,Tasmania,147.3588406,-42.86848371
+TAS_50279_b,Trevallyn,Nature Recreation Area,Parks & Recreational Areas,III,0,1.03721791,TAS,Tasmania,147.0982819,-41.43572467
+CWTH_N3014,Magnetic Island,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",IV,0,2.54247959,QLD,Queensland,146.8027846,-19.14636611
+SA_10218,Kalumunda,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,82.71348033,82.80583757,SA,South Australia,138.3177563,-35.51660102
+QLD_999999,Rindoparr,Coordinated Conservation Area,"Other, Proposed & Transitional",VI,951,950.3683546,QLD,Queensland,143.8905935,-14.55088079
+NSW_N1077,Beni,CCA Zone 3 State Conservation Area,"Other, Proposed & Transitional",II,1847.838,1831.782184,NSW,New South Wales,148.7408091,-32.25318495
+NSW_N1089,Merriwindi,CCA Zone 3 State Conservation Area,"Other, Proposed & Transitional",II,1730,1686.980531,NSW,New South Wales,148.9724908,-30.79741045
+TAS_50272_a,Mount Tanner,Nature Recreation Area,Parks & Recreational Areas,VI,0,4225.565549,TAS,Tasmania,147.8532394,-39.88156109
+TAS_50272_f,Mount Tanner,Nature Recreation Area,Parks & Recreational Areas,VI,0,0.1621589,TAS,Tasmania,147.8455364,-39.90297724
+TAS_50275_b,Reynolds Falls,Nature Recreation Area,Parks & Recreational Areas,V,0,0.82686535,TAS,Tasmania,145.9260218,-41.59459558
+TAS_50260_a,Emita,Nature Recreation Area,Parks & Recreational Areas,VI,0,137.7935121,TAS,Tasmania,147.8888885,-40.00309469
+TAS_50278_a,South Arm,Nature Recreation Area,Parks & Recreational Areas,V,0,56.52024343,TAS,Tasmania,147.4871999,-43.0250254
+NSW_FR203,Corrabare North,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,774,779.9523169,NSW,New South Wales,151.2173723,-32.89913871
+QLD_4136ALC001,Alcock,Forest Reserve,"Forest, Flora & Wildlife Reserves",VI,5,4.75398301,QLD,Queensland,145.9264788,-17.87087161
+VIC_3333,Dergholm,State Park,Parks & Recreational Areas,II,10882.6699,10885.60453,VIC,Victoria,141.3075655,-37.33190829
+VIC_3586,Aberfeldy River,Heritage River,"Heritage, Coastal & Special-purpose Areas",II,0,772.1376039,VIC,Victoria,146.4264446,-37.88187232
+TAS_50495,Premaydena Point,Historic Site,"Heritage, Coastal & Special-purpose Areas",IV,0,1.90051752,TAS,Tasmania,147.7795806,-43.04948976
+NSW_FR206,Kuluwan,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,0,1613.362514,NSW,New South Wales,151.2322593,-33.16810183
+SA_0525,Granite Island,Recreation Park,Parks & Recreational Areas,IV,29.09408366,29.12341429,SA,South Australia,138.630734,-35.56436926
+NSW_FR174,Big Run,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,115,115.6269842,NSW,New South Wales,152.1809956,-31.73577161
+SA_0238,Shepherds Hill,Recreation Park,Parks & Recreational Areas,III,153.8515285,77.01202676,SA,South Australia,138.5883754,-35.01531982
+CWTH_N7063,Mooka,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",II,0,3696.066844,WA,Western Australia,114.8298554,-24.62061717
+NSW_N1176,Cobbora,CCA Zone 3 State Conservation Area,"Other, Proposed & Transitional",II,2261,2270.067735,NSW,New South Wales,149.1670405,-32.03673138
+NSW_FR191,Forest Land,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,730.5377197,2.00350663,NSW,New South Wales,152.1747021,-29.23772157
+SA_0254,Chowilla,Game Reserve,"Forest, Flora & Wildlife Reserves",VI,86747.40796,16521.38908,SA,South Australia,140.9199239,-33.95901886
+TAS_50200_c,Petrel Islands,Game Reserve,"Forest, Flora & Wildlife Reserves",VI,0,2.5721976,TAS,Tasmania,144.9222865,-40.56784834
+TAS_50200_a,Petrel Islands,Game Reserve,"Forest, Flora & Wildlife Reserves",VI,0,8.41622288,TAS,Tasmania,144.9393211,-40.56054863
+TAS_50203,Batchelors Grave,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,0,0.00646463,TAS,Tasmania,147.354519,-42.95184646
+NSW_FR177,Table Creek,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,105,107.6740079,NSW,New South Wales,152.5783127,-29.49315643
+NSW_FR3,Bruxner Park,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,406.6560059,1.96437437,NSW,New South Wales,153.086307,-30.23940459
+TAS_50202_a,Stack Island,Game Reserve,"Forest, Flora & Wildlife Reserves",VI,0,1.67756206,TAS,Tasmania,144.7816241,-40.59877425
+TAS_50272_c,Mount Tanner,Nature Recreation Area,Parks & Recreational Areas,VI,0,0.15634362,TAS,Tasmania,147.7520172,-39.88158096
+TAS_50226,Strahan Customs House,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,0,0.58676384,TAS,Tasmania,145.3243863,-42.15479628
+TAS_50205_e,Cape Sorell,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,0,0.06701691,TAS,Tasmania,145.1739496,-42.19612402
+TAS_50273,Palana Beach,Nature Recreation Area,Parks & Recreational Areas,V,0,66.66832121,TAS,Tasmania,147.8888318,-39.75992692
+VIC_3355,Mount Granya,State Park,Parks & Recreational Areas,II,6163.18,6163.55207,VIC,Victoria,147.284485,-36.10717653
+VIC_3352,Werribee Gorge,State Park,Parks & Recreational Areas,III,563.821,563.0924811,VIC,Victoria,144.3554098,-37.65936169
+NSW_FR188,Tanja,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,44.8864975,870.5370199,NSW,New South Wales,149.9219063,-36.69066306
+NSW_FR164,Buckingbong,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,155,163.3141732,NSW,New South Wales,146.4849734,-34.97607683
+NT_PA44_a,Arltunga,Historical Reserve,"Heritage, Coastal & Special-purpose Areas",V,5439,2464.8171,NT,Northern Territory,134.6938588,-23.43653202
+SA_10215,Mount Panorama,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,65.09289509,0.02512444,SA,South Australia,138.6774543,-35.17036643
+SA_10105,Gillap South,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,26.53428364,26.42426137,SA,South Australia,140.3001779,-37.41737392
+CWTH_N7070,Avon 27292 and Part avon 13653,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",Ia,0,269.1245192,WA,Western Australia,118.0584726,-32.36794514
+WA_1919/893,Unnamed WA1919/893,Management Area,"Other, Proposed & Transitional",NAS,4.0973,4.09727454,WA,Western Australia,115.9954234,-31.86918063
+TAS_50263_e,Humbug Point,Nature Recreation Area,Parks & Recreational Areas,V,0,3.83751978,TAS,Tasmania,148.2913328,-41.26260104
+NSW_FR73,Pyrocarpa,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,70,65.61279222,NSW,New South Wales,153.2174843,-29.15080447
+SA_10212,Mount Gawler,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,6234.918251,1041.809552,SA,South Australia,138.8015974,-34.75587365
+TAS_50265_m,Killiecrankie,Nature Recreation Area,Parks & Recreational Areas,VI,0,0.15788689,TAS,Tasmania,147.843029,-39.80499685
+NSW_N1121,Blue Gum Hills,Regional Park,Parks & Recreational Areas,V,129,128.0767245,NSW,New South Wales,151.6269721,-32.88884391
+SA_10148,Dry Creek,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,3046.917204,757.0822568,SA,South Australia,140.9558025,-37.96223852
+CWTH_N7075,Doolgunna,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",Ia,0,189138.6484,WA,Western Australia,119.3868889,-25.64473054
+SA_10134,Honeysuckle,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,543.7248657,270.2062476,SA,South Australia,140.9275048,-37.97636438
+NT_PA29,Gregory's Tree,Historical Reserve,"Heritage, Coastal & Special-purpose Areas",III,2,2.01382623,NT,Northern Territory,130.3673091,-15.56652719
+CWTH_N7058,Nanga Station,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",II,0,176267.0901,WA,Western Australia,113.9726302,-26.73382286
+NSW_FR169,Sidlings Swamp,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,1248,1271.410919,NSW,New South Wales,149.7537083,-37.30627006
+NSW_N1081,Bullawa Creek,CCA Zone 3 State Conservation Area,"Other, Proposed & Transitional",II,99,98.56746565,NSW,New South Wales,149.893213,-30.33994596
+NSW_FR171,Wallagaraugh,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,3080,0.00059162,NSW,New South Wales,149.6940951,-37.19959608
+NT_PA75_a,Howard Springs,Nature Park,Parks & Recreational Areas,V,286,226.5978736,NT,Northern Territory,131.0514922,-12.46053553
+NSW_FR18,Mines Road,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,20.03000069,18.16195896,NSW,New South Wales,152.5370133,-31.28016543
+NSW_FR205,Comleroy,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,2531.310059,2909.745983,NSW,New South Wales,150.8110254,-33.39595385
+NSW_FR200,Washpool,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,725,722.9017885,NSW,New South Wales,152.4001873,-29.22165698
+TAS_50191_c,Actaeon Island,Game Reserve,"Forest, Flora & Wildlife Reserves",VI,0,0.09926737,TAS,Tasmania,147.0004833,-43.53411077
+NSW_N1208,Killalea,Regional Park,Parks & Recreational Areas,V,260.33,263.4050941,NSW,New South Wales,150.8669689,-34.5987012
+TAS_50260_f,Emita,Nature Recreation Area,Parks & Recreational Areas,VI,0,0.01281216,TAS,Tasmania,147.8860992,-40.00012582
+NSW_FR178,Old Jeremiah,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,1630,1630.185631,NSW,New South Wales,148.4683736,-35.03859865
+VIC_3594,"Bemm, Goolengook, Arte and Errinundra Rivers",Heritage River,"Heritage, Coastal & Special-purpose Areas",V,0,2385.866316,VIC,Victoria,148.9236108,-37.46610372
+CWTH_N7055,Black Range,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",II,0,79514.93901,WA,Western Australia,119.1214008,-27.75751275
+TAS_50267_c,Lake Barrington,Nature Recreation Area,Parks & Recreational Areas,V,0,0.44295155,TAS,Tasmania,146.1885556,-41.41544022
+NSW_N0220,South Solitary Island,Historic Site,"Heritage, Coastal & Special-purpose Areas",IV,11.07,9.66150524,NSW,New South Wales,153.2668681,-30.2058588
+QLD_4169TOS001,Tam O'Shanter,Forest Reserve,"Forest, Flora & Wildlife Reserves",VI,2,1.68007255,QLD,Queensland,146.0643977,-17.82781458
+QLD_4167TFF001,Tully Falls,Forest Reserve,"Forest, Flora & Wildlife Reserves",VI,2,0.9208665,QLD,Queensland,145.5934036,-17.62469038
+TAS_50269_a,Meehan Range,Nature Recreation Area,Parks & Recreational Areas,V,0,427.2776324,TAS,Tasmania,147.3057956,-42.79799969
+VIC_3337,Kooyoora,State Park,Parks & Recreational Areas,II,11455.62,640.8811119,VIC,Victoria,143.6788291,-36.59003038
+TAS_50265_g,Killiecrankie,Nature Recreation Area,Parks & Recreational Areas,VI,0,0.06386989,TAS,Tasmania,147.8476488,-39.81840604
+TAS_50214,George III Monument,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,0,13.95951803,TAS,Tasmania,146.9998826,-43.47951511
+VIC_3591,Goulburn River,Heritage River,"Heritage, Coastal & Special-purpose Areas",V,0,8500.457547,VIC,Victoria,145.3122871,-36.25049524
+VIC_3586,Aberfeldy River,Heritage River,"Heritage, Coastal & Special-purpose Areas",II,0,0.62079933,VIC,Victoria,146.436825,-37.83567889
+WA_30393,Unnamed WA30393,Other,"Other, Proposed & Transitional",NAS,328.1175,328.0858451,WA,Western Australia,116.4832159,-31.80830092
+TAS_50205_a,Cape Sorell,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,0,68.84449183,TAS,Tasmania,145.1733807,-42.19973177
+NSW_FR165,Yambulla,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,180,181.9347188,NSW,New South Wales,149.639572,-37.30934032
+TAS_50231_b,Yorktown,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,0,1.56391268,TAS,Tasmania,146.7652164,-41.15242777
+SA_0219,Moorook,Game Reserve,"Forest, Flora & Wildlife Reserves",VI,1244.057961,1248.23174,SA,South Australia,140.3739979,-34.24690652
+TAS_50265_a,Killiecrankie,Nature Recreation Area,Parks & Recreational Areas,VI,0,866.2093911,TAS,Tasmania,147.8637352,-39.81578506
+TAS_50269_e,Meehan Range,Nature Recreation Area,Parks & Recreational Areas,V,0,495.0156768,TAS,Tasmania,147.4031185,-42.83977988
+TAS_50781_a,Gellibrand Point,Nature Recreation Area,Parks & Recreational Areas,V,0,146.5038001,TAS,Tasmania,147.4064297,-42.96869152
+SA_10150,Kangaroo Flat,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,1712.525,343.6928783,SA,South Australia,140.6478997,-37.71650313
+NSW_N1192,Edmondson,Regional Park,Parks & Recreational Areas,V,48.25,48.28212337,NSW,New South Wales,150.8428606,-33.97399246
+SA_10111,Whennen,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,246.7042426,245.5686429,SA,South Australia,140.5093224,-37.55703612
+TAS_50272_i,Mount Tanner,Nature Recreation Area,Parks & Recreational Areas,VI,0,0.03644848,TAS,Tasmania,147.7494609,-39.87684801
+SA_10142,Round Waterhole,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,471.4501551,117.3653944,SA,South Australia,140.9035941,-37.4369725
+SA_0235,Greenhill,Recreation Park,Parks & Recreational Areas,III,23.85364662,23.90737461,SA,South Australia,138.6750636,-34.94536593
+VIC_3346,Mount Samaria,State Park,Parks & Recreational Areas,II,7442.724,7045.440113,VIC,Victoria,146.0631289,-36.887351
+TAS_50231_c,Yorktown,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,0,17.14115604,TAS,Tasmania,146.7704406,-41.1529709
+CWTH_N7126,Barnong Pastoral Lease,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",II,0,145640.7344,WA,Western Australia,116.2117637,-28.64430393
+NT_PA48_d,Alice Springs Telegraph Station,Historical Reserve,"Heritage, Coastal & Special-purpose Areas",V,443,262.0376887,NT,Northern Territory,133.888771,-23.67206192
+TAS_50224,Ross Female Convict Station,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,0,1.11228316,TAS,Tasmania,147.4934859,-42.03388402
+CWTH_N7061,Northern Part Victoria Location 3721 & 3565,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",Ia,0,63.40689379,WA,Western Australia,114.6817686,-28.6098863
+SA_10104,Gillap North,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,12.81627914,12.76448149,SA,South Australia,140.2705257,-37.39160082
+TAS_50003,Diprose Lagoon (Forest Hall) Extension,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",NA,0,170.5735819,TAS,Tasmania,147.3908532,-41.79925179
+NT_PA75_b,Howard Springs,Nature Park,Parks & Recreational Areas,V,286,2.91169042,NT,Northern Territory,131.0589829,-12.46052931
+NSW_FR83,Bar,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,78.5,83.72653974,NSW,New South Wales,151.2716541,-33.06229727
+NSW_N1156,Tingha Plateau,CCA Zone 3 State Conservation Area,"Other, Proposed & Transitional",II,3414,3409.626804,NSW,New South Wales,151.2311529,-29.89157917
+TAS_50191_d,Actaeon Island,Game Reserve,"Forest, Flora & Wildlife Reserves",VI,0,0.63526537,TAS,Tasmania,146.993566,-43.53536291
+SA_10124,The Woolwash,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,534.37786,265.8092028,SA,South Australia,140.5871278,-37.71507943
+SA_10120,Mount Watch,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,51.13685784,50.87775929,SA,South Australia,140.5238621,-37.68838249
+SA_10110,Kay,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,510.9028835,254.2710296,SA,South Australia,140.4586655,-37.56208172
+SA_10128,Honan,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,2065.512534,1027.354658,SA,South Australia,140.6333695,-37.72973084
+TAS_50274_e,Recherche Bay,Nature Recreation Area,Parks & Recreational Areas,V,0,0.05981208,TAS,Tasmania,146.909373,-43.56267392
+TAS_50261,Gordons Hill,Nature Recreation Area,Parks & Recreational Areas,V,0,50.19206021,TAS,Tasmania,147.3648882,-42.85774227
+TAS_50191_b,Actaeon Island,Game Reserve,"Forest, Flora & Wildlife Reserves",VI,0,0.67052986,TAS,Tasmania,147.0007089,-43.52460617
+NSW_N1095,Pilliga,CCA Zone 3 State Conservation Area,"Other, Proposed & Transitional",II,33386,33154.34241,NSW,New South Wales,149.2854101,-30.52840694
+QLD_4189KWF001,Kuranda West,Forest Reserve,"Forest, Flora & Wildlife Reserves",VI,2413.5,2421.317174,QLD,Queensland,145.4795527,-16.79561872
+VIC_3589,Howqua River,Heritage River,"Heritage, Coastal & Special-purpose Areas",V,0,1266.512693,VIC,Victoria,146.3192416,-37.21286906
+NSW_N0640,Yellomundee,Regional Park,Parks & Recreational Areas,V,667.85,647.9885307,NSW,New South Wales,150.6478076,-33.71058602
+NSW_FR188,Tanja,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,44.8864975,0.06905232,NSW,New South Wales,149.9721754,-36.69241119
+NSW_FR194,Barrington Tops,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,163,2.69977242,NSW,New South Wales,151.6117275,-31.90170983
+NSW_N1080,Bobbiwaa,CCA Zone 3 State Conservation Area,"Other, Proposed & Transitional",II,2688,2657.159691,NSW,New South Wales,149.8971714,-30.13862203
+TAS_50265_b,Killiecrankie,Nature Recreation Area,Parks & Recreational Areas,VI,0,0.07444158,TAS,Tasmania,147.848631,-39.82049519
+SA_10115,Rock Shelter,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,12.17690074,12.11855263,SA,South Australia,140.4781119,-37.60869063
+TAS_50223,Richmond Gaol,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,0,0.78670932,TAS,Tasmania,147.4387475,-42.7362051
+TAS_50461_b,Pirates Bay,Nature Recreation Area,Parks & Recreational Areas,III,0,1.57725149,TAS,Tasmania,147.9237385,-43.01913794
+VIC_3338,Langi Ghiran,State Park,Parks & Recreational Areas,II,3042.382,3043.217868,VIC,Victoria,143.0981789,-37.3051818
+TAS_50267_b,Lake Barrington,Nature Recreation Area,Parks & Recreational Areas,V,0,177.8814733,TAS,Tasmania,146.1915482,-41.42196235
+QLD_4200CFV001,Connors,Forest Reserve,"Forest, Flora & Wildlife Reserves",VI,728.4,728.8877509,QLD,Queensland,149.1584728,-21.6055471
+NSW_N0630,Berowra Valley,Regional Park,Parks & Recreational Areas,V,8.7,8.81469423,NSW,New South Wales,151.0694556,-33.72665117
+SA_0233,Brownhill Creek,Recreation Park,Parks & Recreational Areas,III,50.69048893,50.79242584,SA,South Australia,138.6435971,-34.98742173
+CWTH_N7094,Wanna,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",II,0,289035.6083,WA,Western Australia,116.7577433,-23.71322958
+NSW_FR181,Mundaroo,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,1945,1944.781564,NSW,New South Wales,147.7784776,-35.78412957
+VIC_3339,Lerderderg,State Park,Parks & Recreational Areas,II,20560.209,1040.894933,VIC,Victoria,144.3773823,-37.56018904
+TAS_50200_b,Petrel Islands,Game Reserve,"Forest, Flora & Wildlife Reserves",VI,0,25.84914519,TAS,Tasmania,144.927538,-40.56941061
+CWTH_N7078,Boologoroo,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",Ia,0,14896.2044,WA,Western Australia,113.784343,-24.26778377
+NT_PA55_c,Yeperenye / Emily and Jessie Gaps,Nature Park,Parks & Recreational Areas,V,1213,0.81290463,NT,Northern Territory,133.9058762,-23.72902938
+VIC_3344,Mount Lawson,State Park,Parks & Recreational Areas,II,13358.242,11661.98244,VIC,Victoria,147.4560129,-36.05036929
+CWTH_N7042,Pimbee,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",II,0,4773.414538,WA,Western Australia,115.0255791,-25.68702953
+TAS_50272_k,Mount Tanner,Nature Recreation Area,Parks & Recreational Areas,VI,0,0.07365502,TAS,Tasmania,147.7475282,-39.87467934
+NT_PA47,N'Dhala Gorge,Nature Park,Parks & Recreational Areas,V,501,503.8712288,NT,Northern Territory,134.4541113,-23.63553333
+NT_PA63,Chamber's Pillar,Historical Reserve,"Heritage, Coastal & Special-purpose Areas",III,340,340.423677,NT,Northern Territory,133.8246689,-24.86980248
+VIC_3595,Snowy River,Heritage River,"Heritage, Coastal & Special-purpose Areas",V,0,3793.054867,VIC,Victoria,148.3779322,-37.67671127
+TAS_50265_h,Killiecrankie,Nature Recreation Area,Parks & Recreational Areas,VI,0,0.19954616,TAS,Tasmania,147.8568861,-39.79899666
+WA_1720,Kings Park,Botanic Gardens,Parks & Recreational Areas,NAS,400.5695,400.6396368,WA,Western Australia,115.8324272,-31.96228602
+TAS_50201,Sellars Lagoon,Game Reserve,"Forest, Flora & Wildlife Reserves",VI,0,7814.391771,TAS,Tasmania,148.2375291,-40.04893521
+CWTH_N6018,Fish River,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",II,0,178053.228,NT,Northern Territory,130.9593127,-14.09889144
+NT_PA46,Trephina Gorge,Nature Park,Parks & Recreational Areas,V,1772,1771.63305,NT,Northern Territory,134.3725747,-23.53081716
+TAS_50279_a,Trevallyn,Nature Recreation Area,Parks & Recreational Areas,III,0,1.08866243,TAS,Tasmania,147.097655,-41.43454182
+VIC_3598,Mitchell and Wonnangatta Rivers,Heritage River,"Heritage, Coastal & Special-purpose Areas",V,0,3367.61637,VIC,Victoria,147.1704695,-37.49126795
+TAS_50263_d,Humbug Point,Nature Recreation Area,Parks & Recreational Areas,V,0,1.93416977,TAS,Tasmania,148.3399902,-41.25009972
+SA_0717,Blackwood Forest,Recreation Park,Parks & Recreational Areas,III,20.75763893,20.80112449,SA,South Australia,138.6285239,-35.0286161
+CWTH_N7086,"Narloo, part Yuin & part Twin Peaks Pastoral Leases",NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",II,0,102259.843,WA,Western Australia,116.3482648,-27.81576407
+NSW_FR197,Wollemi,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,7190,7199.75451,NSW,New South Wales,150.6224161,-32.76360174
+CWTH_N7064,Cobra,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",II,0,18703.98209,WA,Western Australia,116.3540417,-24.2031672
+TAS_50212,Entally House,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,0,29.90055014,TAS,Tasmania,147.0577905,-41.51332558
+VIC_4731,Lake Eildon NP (Thornton),Proposed National Parks Act park or park addition,"Other, Proposed & Transitional",II,116.377,116.4090656,VIC,Victoria,145.9371647,-37.2460161
+NSW_FR83,Bar,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,78.5,5.39E-06,NSW,New South Wales,151.269453,-33.06104841
+TAS_50263_b,Humbug Point,Nature Recreation Area,Parks & Recreational Areas,V,0,0.30399337,TAS,Tasmania,148.3282855,-41.248313
+WA_36440,Unnamed WA36440,Management Area,"Other, Proposed & Transitional",NAS,1.808,1.66284812,WA,Western Australia,115.9414406,-31.92091637
+CWTH_N3023,Edmund Kennedy,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",II,0,1445.034432,QLD,Queensland,145.9393411,-18.13327864
+VIC_4048,Grampians N.P. (Mirranatwa Lot 188),Proposed National Parks Act park or park addition,"Other, Proposed & Transitional",II,0.103,0.10320496,VIC,Victoria,142.4333831,-37.41541156
+SA_10132,Warreanga,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,510.7558536,253.8231204,SA,South Australia,140.8556177,-37.97216448
+SA_10113,McRosties,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,114.5617914,114.0275824,SA,South Australia,140.5424265,-37.5758131
+TAS_50272_h,Mount Tanner,Nature Recreation Area,Parks & Recreational Areas,VI,0,0.04872157,TAS,Tasmania,147.7515261,-39.88159452
+SA_10129,Laslett,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,9.1424082,9.08790617,SA,South Australia,140.868138,-37.93456979
+NT_PA6_b,Casuarina,Coastal Reserve,"Heritage, Coastal & Special-purpose Areas",V,1360,2.53884564,NT,Northern Territory,130.8844414,-12.35860777
+TAS_50199,North East River,Game Reserve,"Forest, Flora & Wildlife Reserves",VI,0,2546.546126,TAS,Tasmania,147.992278,-39.79654906
+CWTH_OC11-00123,Avon Locations 27960 & 28278,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",Ia,0,858.709085,WA,Western Australia,118.4895919,-30.95317062
+NSW_FR137,Nicholii,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,40,39.73929874,NSW,New South Wales,152.3747246,-30.2354784
+QLD_4190RHF001,Ravenshoe 1,Forest Reserve,"Forest, Flora & Wildlife Reserves",VI,2241,2201.642275,QLD,Queensland,145.4544849,-17.69782418
+VIC_3356,Enfield,State Park,Parks & Recreational Areas,II,4322.232,4224.499784,VIC,Victoria,143.7429932,-37.76130163
+NSW_FR202,Koolewong,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,1874,1875.377445,NSW,New South Wales,151.1089106,-33.2387959
+NSW_FR196,Jellore,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,1400,1410.95828,NSW,New South Wales,150.3952854,-34.38386964
+TAS_50193,Bruny Island Neck,Game Reserve,"Forest, Flora & Wildlife Reserves",VI,0,2119.399637,TAS,Tasmania,147.349431,-43.25844684
+QLD_4170KOL001,Koombooloomba South,Forest Reserve,"Forest, Flora & Wildlife Reserves",VI,3019,3017.057101,QLD,Queensland,145.539083,-17.90942918
+TAS_50217,Low Head,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,0,15.96706675,TAS,Tasmania,146.7894414,-41.05630717
+TAS_22165,Harcus River Road,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",NA,0,109.9720756,TAS,Tasmania,144.7461812,-40.88556939
+TAS_50277,Snug Tiers,Nature Recreation Area,Parks & Recreational Areas,V,0,5579.685312,TAS,Tasmania,147.1576294,-43.07687232
+TAS_50208,D'Entrecasteaux Monument,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,0,0.49535321,TAS,Tasmania,147.2417856,-43.26841331
+VIC_3602,Aire River,Heritage River,"Heritage, Coastal & Special-purpose Areas",V,0,1003.061383,VIC,Victoria,143.4830508,-38.71196163
+WA_33618,Unnamed WA33618,Management Area,"Other, Proposed & Transitional",NAS,0.2791,0.25213625,WA,Western Australia,115.9933868,-31.87104682
+SA_10216,Knott Hill,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,243.121951,81.18634685,SA,South Australia,138.6921927,-35.18403953
+TAS_50278_b,South Arm,Nature Recreation Area,Parks & Recreational Areas,V,0,8.12000135,TAS,Tasmania,147.4534492,-43.03369096
+NSW_FR204,Corrabare South,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,56,56.10146659,NSW,New South Wales,151.2073185,-32.99121977
+NSW_FR159,Wells Crossing,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,260,225.3562876,NSW,New South Wales,153.0665973,-29.89166781
+NT_PA48_a,Alice Springs Telegraph Station,Historical Reserve,"Heritage, Coastal & Special-purpose Areas",V,0,1432.324641,NT,Northern Territory,133.9021276,-23.645401
+SA_10219,Springs Road,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,89.4762805,89.57118855,SA,South Australia,138.2838071,-35.54299769
+NSW_N0217,Mutawintji,Historic Site,"Heritage, Coastal & Special-purpose Areas",III,485.62,556.271824,NSW,New South Wales,142.3004991,-31.24364776
+NSW_FR116,Maxwells,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,508,507.5505564,NSW,New South Wales,149.8176646,-37.4104454
+QLD_4155MTF001,Mount Fisher,Forest Reserve,"Forest, Flora & Wildlife Reserves",VI,5.4,5.50427705,QLD,Queensland,145.5383933,-17.57502664
+NSW_FR171,Wallagaraugh,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,3080,3084.359032,NSW,New South Wales,149.6766006,-37.27752883
+NSW_FR100,Silvestris,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,57,56.80647279,NSW,New South Wales,150.0024099,-36.22023527
+NSW_N1088,Leard,CCA Zone 3 State Conservation Area,"Other, Proposed & Transitional",II,1176,1174.73702,NSW,New South Wales,150.0856755,-30.55904016
+TAS_50274_f,Recherche Bay,Nature Recreation Area,Parks & Recreational Areas,V,0,0.04434183,TAS,Tasmania,146.8946635,-43.57749443
+TAS_50256,Black Bluff,Nature Recreation Area,Parks & Recreational Areas,V,0,6697.861356,TAS,Tasmania,145.9329032,-41.46602953
+TAS_50262,Hope Island,Nature Recreation Area,Parks & Recreational Areas,V,0,30.29683527,TAS,Tasmania,147.042269,-43.33699447
+SA_10117,The Marshes,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,1224.866537,609.479231,SA,South Australia,140.5437448,-37.62085079
+NSW_N1123,Wianamatta,Regional Park,Parks & Recreational Areas,V,737.16,737.1184805,NSW,New South Wales,150.7689539,-33.72344657
+SA_10206,Watts Gully,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,687.3830996,344.5799265,SA,South Australia,138.9156914,-34.75099516
+WA_48325,Swan River,Management Area,"Other, Proposed & Transitional",NAS,3000,2998.87783,WA,Western Australia,115.8897296,-31.96130033
+SA_10204,Little Mt. Crawford,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,175.499,176.4751654,SA,South Australia,138.9653404,-34.71088405
+NSW_FR160,Coco Creek,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,70,64.39786839,NSW,New South Wales,151.7726961,-31.51503404
+CWTH_N7119,Thundelarra,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",II,0,74016.95172,WA,Western Australia,117.4102903,-29.012408
+NSW_N1092,Trinkey,CCA Zone 3 State Conservation Area,"Other, Proposed & Transitional",II,10229,10177.63333,NSW,New South Wales,149.9787639,-31.39394186
+NSW_N1085,Goonoowigal,CCA Zone 3 State Conservation Area,"Other, Proposed & Transitional",II,1055,1049.3677,NSW,New South Wales,151.1485648,-29.82349633
+CWTH_N7125,Lakeside Pastoral Lease,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",II,0,13021.21946,WA,Western Australia,117.7519918,-27.55710346
+VIC_3342,Mount Arapiles-Tooan,State Park,Parks & Recreational Areas,II,7455.103,7045.518999,VIC,Victoria,141.7254842,-36.78476883
+VIC_3588,Ovens River,Heritage River,"Heritage, Coastal & Special-purpose Areas",V,0,664.4381373,VIC,Victoria,146.1908749,-36.05126218
+TAS_50200_h,Petrel Islands,Game Reserve,"Forest, Flora & Wildlife Reserves",VI,0,0.22903807,TAS,Tasmania,144.9352527,-40.57732503
+NSW_FR189,Murrah,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,1.69628489,2.95603568,NSW,New South Wales,149.9406895,-36.52534638
+QLD_4196MYF001,Mount Stanley 1,Forest Reserve,"Forest, Flora & Wildlife Reserves",VI,3395,3401.513948,QLD,Queensland,152.2059513,-26.64325916
+VIC_3345,Mount Napier,State Park,Parks & Recreational Areas,II,2938.502,2938.676578,VIC,Victoria,142.0195887,-37.90600735
+VIC_3599,Thomson River,Heritage River,"Heritage, Coastal & Special-purpose Areas",V,0,611.5590324,VIC,Victoria,146.4085956,-37.85927641
+TAS_50205_d,Cape Sorell,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,0,0.27358463,TAS,Tasmania,145.1651599,-42.19608727
+VIC_3591,Goulburn River,Heritage River,"Heritage, Coastal & Special-purpose Areas",V,0,8104.256821,VIC,Victoria,145.4843034,-37.15610603
+NSW_N0212,Maroota,Historic Site,"Heritage, Coastal & Special-purpose Areas",II,32.62,33.09868985,NSW,New South Wales,150.9912008,-33.41861589
+QLD_4077MCH001,Maroochy 2,Forest Reserve,"Forest, Flora & Wildlife Reserves",VI,1.38,1.3706102,QLD,Queensland,152.9286933,-26.57037371
+TAS_50260_d,Emita,Nature Recreation Area,Parks & Recreational Areas,VI,0,0.0486037,TAS,Tasmania,147.8836555,-40.00737069
+SA_10214,Coralinga,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,1130.295584,377.6327902,SA,South Australia,138.7886668,-34.90231408
+NSW_FR65,Middle Creek,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,157,157.2561867,NSW,New South Wales,152.4147041,-30.08738691
+TAS_50200_g,Petrel Islands,Game Reserve,"Forest, Flora & Wildlife Reserves",VI,0,0.40591496,TAS,Tasmania,144.9357192,-40.57650787
+CWTH_01,Australian National,Botanic Gardens (Commonwealth),Parks & Recreational Areas,IV,0,84.41071924,ACT,Australian Capital Territory,149.1074388,-35.27528477
+NT_PA28_b,Giwining / Flora River,Nature Park,Parks & Recreational Areas,V,7824,80.60297518,NT,Northern Territory,131.5464771,-14.80004093
+TAS_50195,Lake Tiberias,Game Reserve,"Forest, Flora & Wildlife Reserves",VI,0,994.8481073,TAS,Tasmania,147.3570512,-42.42338728
+NSW_FR117,Strahorn,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,70,70.65239977,NSW,New South Wales,147.9078342,-32.57924879
+SA_10133,Pond Flat,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,38.16071826,37.90987849,SA,South Australia,140.8899245,-37.96581677
+NT_PA55_g,Yeperenye / Emily and Jessie Gaps,Nature Park,Parks & Recreational Areas,V,1213,1.54816379,NT,Northern Territory,133.9508312,-23.74338913
+TAS_50207,Currie Lightkeepers Residence,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,0,0.60885064,TAS,Tasmania,143.8439354,-39.93009282
+NSW_N0210,Tweed Heads,Historic Site,"Heritage, Coastal & Special-purpose Areas",II,8,8.55554891,NSW,New South Wales,153.5495208,-28.19739162
+VIC_3343,Mount Buangor,State Park,Parks & Recreational Areas,II,2498.305,2429.780473,VIC,Victoria,143.224428,-37.30682267
+VIC_3592,Wimmera River,Heritage River,"Heritage, Coastal & Special-purpose Areas",V,0,26736.42855,VIC,Victoria,141.9093358,-36.05462941
+TAS_50210_b,Eaglehawk Neck,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,0,8.2531602,TAS,Tasmania,147.9233728,-43.01694361
+TAS_50266,Knopwood Hill,Nature Recreation Area,Parks & Recreational Areas,V,0,41.71871782,TAS,Tasmania,147.4032362,-42.86933813
+TAS_50191_a,Actaeon Island,Game Reserve,"Forest, Flora & Wildlife Reserves",VI,0,23.1131356,TAS,Tasmania,146.9970972,-43.53336798
+CWTH_N7083,Esperance 827 and Part 373 & 826,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",Ia,0,90.66261251,WA,Western Australia,121.9087437,-33.79205464
+SA_0239,Sturt Gorge,Recreation Park,Parks & Recreational Areas,III,434.6962634,435.598663,SA,South Australia,138.5978836,-35.04218667
+TAS_50272_b,Mount Tanner,Nature Recreation Area,Parks & Recreational Areas,VI,0,0.18837459,TAS,Tasmania,147.7472496,-39.87347324
+VIC_3590,Big River,Heritage River,"Heritage, Coastal & Special-purpose Areas",V,0,1968.881607,VIC,Victoria,146.0574089,-37.36297664
+TAS_50200_d,Petrel Islands,Game Reserve,"Forest, Flora & Wildlife Reserves",VI,0,3.19748681,TAS,Tasmania,144.9216776,-40.57254791
+CWTH_N7105,Warriedar Station Nature Reserve,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",II,0,56570.14438,WA,Western Australia,117.0834229,-29.04067088
+TAS_50264,Kate Reed,Nature Recreation Area,Parks & Recreational Areas,V,0,110.2815921,TAS,Tasmania,147.1429765,-41.48141982
+TAS_50202_b,Stack Island,Game Reserve,"Forest, Flora & Wildlife Reserves",VI,0,0.91659948,TAS,Tasmania,144.7803468,-40.60063098
+NSW_N1093,Warialda,CCA Zone 3 State Conservation Area,"Other, Proposed & Transitional",II,2913,2887.866719,NSW,New South Wales,150.5825732,-29.64446899
+NSW_FR142,Helms,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,110,107.1402896,NSW,New South Wales,148.0863058,-35.58122597
+CWTH_N7110,Tamala Pastoral Lease (Part),NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",Ia,0,56260.54099,WA,Western Australia,113.9318511,-27.04639143
+CWTH_DERM003,Retreat Valley,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",II,0,5904.628468,QLD,Queensland,145.048098,-16.02897272
+NSW_FR12,Jerewarrah,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,242.8119965,262.6908875,NSW,New South Wales,152.4360742,-29.19571626
+TAS_50279_d,Trevallyn,Nature Recreation Area,Parks & Recreational Areas,III,0,338.9798595,TAS,Tasmania,147.0991392,-41.44709692
+CWTH_N7114,Dalgaranga and Noongal Pastoral Leases,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",II,0,53009.42127,WA,Western Australia,117.1643216,-27.81088641
+TAS_50225,Shot Tower,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,0,3.28578616,TAS,Tasmania,147.3400411,-42.95817291
+CWTH_N7087,Giralia,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",II,0,232889.7878,WA,Western Australia,114.5363041,-22.6532423
+SA_0216,Tolderol,Game Reserve,"Forest, Flora & Wildlife Reserves",VI,427.6022841,428.2137271,SA,South Australia,139.1508406,-35.37125005
+SA_10140,Comaum,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,163.7113634,163.1259252,SA,South Australia,140.9196332,-37.25052474
+NT_PA55_f,Yeperenye / Emily and Jessie Gaps,Nature Park,Parks & Recreational Areas,V,1213,627.7783645,NT,Northern Territory,133.9780085,-23.74261475
+TAS_50263_c,Humbug Point,Nature Recreation Area,Parks & Recreational Areas,V,0,0.03657976,TAS,Tasmania,148.3405961,-41.24909759
+NT_PA22,Butterfly Gorge,Nature Park,Parks & Recreational Areas,V,105,104.5098623,NT,Northern Territory,131.5712725,-13.74466708
+SA_10131,Hells Hole,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,4.67782266,4.64964423,SA,South Australia,140.856364,-37.95226086
+NSW_N1186,Yerranderie,Regional Park,Parks & Recreational Areas,V,470,478.737212,NSW,New South Wales,150.2227245,-34.12351347
+SA_0020,Bool Lagoon,Game Reserve,"Forest, Flora & Wildlife Reserves",VI,6206.462649,3093.414875,SA,South Australia,140.6897701,-37.1218863
+VIC_4268,Burrowa - Pine Mountain NP (VPC addition),Proposed National Parks Act park or park addition,"Other, Proposed & Transitional",II,6.345,6.34552703,VIC,Victoria,147.6786949,-36.12594778
+NSW_N0690,Bomaderry Creek,Regional Park,Parks & Recreational Areas,V,82,85.27808032,NSW,New South Wales,150.5883545,-34.84878615
+TAS_50229,Toll House,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,0,0.05037141,TAS,Tasmania,147.0567374,-42.77757337
+TAS_50222_d,Port Arthur,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,0,2.2380391,TAS,Tasmania,147.8440559,-43.1536484
+VIC_3600,Yarra River,Heritage River,"Heritage, Coastal & Special-purpose Areas",V,0,523.7283884,VIC,Victoria,145.6403143,-37.75793225
+QLD_4193BDY001,Baldy Mountain,Forest Reserve,"Forest, Flora & Wildlife Reserves",VI,7099.3077,7116.246097,QLD,Queensland,145.4027436,-17.29162859
+CWTH_N7076,Yaringga,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",Ia,0,19395.6239,WA,Western Australia,114.2744853,-26.06955465
+NSW_FR189,Murrah,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,1.69628489,4214.382225,NSW,New South Wales,149.9779222,-36.50490089
+CWTH_N3061,Redcliffe Vale,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",II,0,30945.39946,QLD,Queensland,148.0997248,-21.15841572
+NSW_FR61,Yarindury,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,48.56000137,48.55952553,NSW,New South Wales,148.9612404,-32.2242542
+NSW_FR190,Bermagui,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,103.9877319,549.0905611,NSW,New South Wales,150.0278107,-36.4291474
+NSW_N0645,Parramatta River,Regional Park,Parks & Recreational Areas,V,4.56,4.61474605,NSW,New South Wales,151.1318759,-33.84028049
+SA_10103,Konetta,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,1230.566919,240.2492123,SA,South Australia,140.2110169,-37.28745007
+TAS_50222_a,Port Arthur,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,0,144.2599195,TAS,Tasmania,147.8574346,-43.14390375
+TAS_50272_d,Mount Tanner,Nature Recreation Area,Parks & Recreational Areas,VI,0,0.20808451,TAS,Tasmania,147.7560572,-39.89120582
+NSW_FR207,Meryla,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,0,4050.786062,NSW,New South Wales,150.4114461,-34.64589084
+NSW_FR187,Mumbulla,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,4.0162158,4.18942911,NSW,New South Wales,149.9441982,-36.54712146
+NSW_FR185,The Hunter Lakes,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,934,4.1364521,NSW,New South Wales,151.4406854,-33.00972634
+NSW_N1078,Biddon,CCA Zone 3 State Conservation Area,"Other, Proposed & Transitional",II,3352,3327.337085,NSW,New South Wales,148.8387229,-31.5978897
+QLD_4195DSH001,Danbulla South,Forest Reserve,"Forest, Flora & Wildlife Reserves",VI,770.18,766.2865185,QLD,Queensland,145.6019938,-17.17423549
+WA_22503,Perth Zoo,Other,"Other, Proposed & Transitional",NAS,19.0466,19.05230984,WA,Western Australia,115.8543022,-31.97690639
+NSW_FR192,Paperbark,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,454.5300903,493.2339872,NSW,New South Wales,152.8085515,-31.37441347
+NSW_N1079,Bingara,CCA Zone 3 State Conservation Area,"Other, Proposed & Transitional",II,1993.72,1978.812497,NSW,New South Wales,150.4410074,-29.86485235
+CWTH_N7026,Meenthena Station,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",II,0,237769.8491,WA,Western Australia,120.3973374,-21.26158998
+SA_0232,Totness,Recreation Park,Parks & Recreational Areas,III,81.73632385,40.95137766,SA,South Australia,138.8355891,-35.05885342
+VIC_3343,Mount Buangor,State Park,Parks & Recreational Areas,II,2498.305,69.20086554,VIC,Victoria,143.2247662,-37.3002597
+CWTH_N7122,Port Gregory,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",Ia,0,672.1705594,WA,Western Australia,114.3573567,-28.24498706
+SA_0241,Onkaparinga River,Recreation Park,Parks & Recreational Areas,III,1878.160694,268.8031503,SA,South Australia,138.4852532,-35.16029554
+TAS_50265_w,Killiecrankie,Nature Recreation Area,Parks & Recreational Areas,VI,0,0.05944243,TAS,Tasmania,147.8482072,-39.81832263
+NSW_FR155,Pollack,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,710,721.9169383,NSW,New South Wales,144.1531952,-35.55940114
+SA_0274,Lake Robe,Game Reserve,"Forest, Flora & Wildlife Reserves",VI,405.6741483,404.2776852,SA,South Australia,139.7985987,-37.21368268
+NSW_N1141,Goolawah,Regional Park,Parks & Recreational Areas,V,65.7,65.18648761,NSW,New South Wales,152.9680505,-31.25701529
+NT_PA48_e,Alice Springs Telegraph Station,Historical Reserve,"Heritage, Coastal & Special-purpose Areas",V,2,1.75591839,NT,Northern Territory,133.880455,-23.67133018
+NSW_FR70,Micalong Swamp,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,526,541.7578534,NSW,New South Wales,148.5206484,-35.33708413
+VIC_3597,Upper Buchan River,Heritage River,"Heritage, Coastal & Special-purpose Areas",II,0,2126.106922,VIC,Victoria,148.1453752,-37.00962826
+SA_10133,Pond Flat,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,38.16071826,0.01907259,SA,South Australia,140.896183,-37.96838478
+NSW_FR92,Peach Tree Creek,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,30,34.89175557,NSW,New South Wales,150.0930156,-35.55515698
+NT_PA27_b,Cutta Cutta Caves,Nature Park,Parks & Recreational Areas,III,259,259.3923426,NT,Northern Territory,132.470068,-14.57572636
+NT_PA25,Umbrawarra Gorge,Nature Park,Parks & Recreational Areas,V,973,971.9527412,NT,Northern Territory,131.6892816,-13.97143745
+TAS_50270,Mount Dial,Nature Recreation Area,Parks & Recreational Areas,V,0,446.109297,TAS,Tasmania,146.0370055,-41.16130026
+CWTH_07,Norfolk Island,Botanic Gardens (Commonwealth),Parks & Recreational Areas,IV,5.48,5.80418823,EXT,External Territories,167.936987,-29.025054
+NSW_FR105,Nullo Mountain,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,50,52.41127184,NSW,New South Wales,150.2279276,-32.73694466
+SA_10101,Mount Benson,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,64.99831802,64.81123968,SA,South Australia,139.8103572,-37.02890906
+VIC_3341,Moondarra,State Park,Parks & Recreational Areas,II,6362.833,6362.659943,VIC,Victoria,146.3430053,-38.0204592
+CWTH_N7118,Dandarangan,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",Ia,0,767.0787117,WA,Western Australia,115.8545763,-30.66792826
+QLD_4217CIT001,Crediton,Forest Reserve,"Forest, Flora & Wildlife Reserves",VI,12813,12820.27616,QLD,Queensland,148.5992105,-21.20310252
+TAS_50205_b,Cape Sorell,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,0,0.01774179,TAS,Tasmania,145.1603058,-42.19393272
+SA_10102,Bagdad,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,457.5056355,453.8179997,SA,South Australia,139.8866696,-37.05363299
+SA_0244,Cobbler Creek,Recreation Park,Parks & Recreational Areas,III,1064.796636,266.8683693,SA,South Australia,138.6903419,-34.78043709
+SA_0217,Bucks Lake,Game Reserve,"Forest, Flora & Wildlife Reserves",VI,552.3564111,137.8826385,SA,South Australia,140.400313,-37.90674595
+NSW_FR168,Mount Poole,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,940,946.1331369,NSW,New South Wales,149.5373445,-37.1918946
+NSW_N1083,Goodiman,CCA Zone 3 State Conservation Area,"Other, Proposed & Transitional",II,569,564.856776,NSW,New South Wales,149.3745426,-32.22233108
+CWTH_N7069,Williams 15411 & 15065,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",Ia,0,98.32639676,WA,Western Australia,118.2840474,-33.39660889
+NSW_N1153,Corramy,Regional Park,Parks & Recreational Areas,IV,290.2,289.2679818,NSW,New South Wales,150.5421268,-35.09623569
+CWTH_N7098,Kadji Kadji,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",II,0,47375.15658,WA,Western Australia,116.3419268,-29.08666666
+SA_10114,Overland Track,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,145.2760561,144.5932549,SA,South Australia,140.523559,-37.58476398
+NSW_FR167,Letts Mountain,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,910,910.3756754,NSW,New South Wales,149.4971259,-37.09862421
+NT_PA48_c,Alice Springs Telegraph Station,Historical Reserve,"Heritage, Coastal & Special-purpose Areas",V,443,31.48992448,NT,Northern Territory,133.8830415,-23.66821957
+VIC_3603,Glenelg River,Heritage River,"Heritage, Coastal & Special-purpose Areas",V,0,2676.999324,VIC,Victoria,141.1187592,-38.02600892
+VIC_3354,Leaghur,State Park,Parks & Recreational Areas,II,2045.552,2045.441277,VIC,Victoria,143.8058727,-35.91198249
+NSW_FR34,Sandgate,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,16,14.64237359,NSW,New South Wales,148.1682667,-31.18718092
+TAS_50196,Little Dog Island,Game Reserve,"Forest, Flora & Wildlife Reserves",VI,0,54.33202092,TAS,Tasmania,148.2126813,-40.25292501
+NSW_N1086,Gwydir River,CCA Zone 3 State Conservation Area,"Other, Proposed & Transitional",II,3520.17,3411.840254,NSW,New South Wales,150.8434314,-29.89969873
+SA_10108,White Waterhole,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,59.87937784,59.62431528,SA,South Australia,140.3193678,-37.45523809
+TAS_50257,Briant Hill,Nature Recreation Area,Parks & Recreational Areas,V,0,164.0075351,TAS,Tasmania,145.154941,-40.84031637
+TAS_50209,D'Entrecasteaux Watering Place,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,0,1.93165822,TAS,Tasmania,146.8881114,-43.56793014
+NT_PA48_f,Alice Springs Telegraph Station,Historical Reserve,"Heritage, Coastal & Special-purpose Areas",V,443,149.7839562,NT,Northern Territory,133.8814412,-23.6849947
+QLD_4136ALC001,Alcock,Forest Reserve,"Forest, Flora & Wildlife Reserves",VI,5,0.11326003,QLD,Queensland,145.8788268,-17.92212734
+NSW_N1087,Killarney,CCA Zone 3 State Conservation Area,"Other, Proposed & Transitional",II,1858,1855.831924,NSW,New South Wales,149.8652316,-30.23545199
+NT_PA45,Ruby Gap,Nature Park,Parks & Recreational Areas,V,9257,9246.264905,NT,Northern Territory,135.0193329,-23.5011586
+CWTH_N7067,Lochada,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",II,0,114807.863,WA,Western Australia,116.5197549,-29.19862748
+NSW_FR173,Mount Allyn,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,2480,1.73368803,NSW,New South Wales,151.4162803,-32.11625241
+VIC_4495,Broken-Boosey,State Park,Parks & Recreational Areas,III,1010.835,1010.272068,VIC,Victoria,145.4600944,-36.1441053
+WA_48327,Canning River,Management Area,"Other, Proposed & Transitional",NAS,558,556.508899,WA,Western Australia,115.8790127,-32.02477542
+CWTH_N7084,Ravensthorpe Range,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",II,0,1219.903215,WA,Western Australia,120.1872572,-33.54911165
+TAS_50265_y,Killiecrankie,Nature Recreation Area,Parks & Recreational Areas,VI,0,0.11668692,TAS,Tasmania,147.8478292,-39.81888263
+NSW_N1002,Coffs Coast,Regional Park,Parks & Recreational Areas,V,517.31,525.0021384,NSW,New South Wales,153.151458,-30.21333637
+QLD_4206DIW001,Dinden West,Forest Reserve,"Forest, Flora & Wildlife Reserves",VI,4295,3964.236012,QLD,Queensland,145.5775551,-16.94666276
+SA_10127,Grundy Lane,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,584.2588755,290.6314205,SA,South Australia,140.7430192,-37.70531481
+VIC_3593,Genoa River,Heritage River,"Heritage, Coastal & Special-purpose Areas",II,0,1227.461225,VIC,Victoria,149.4069472,-37.32739522
+VIC_3344,Mount Lawson,State Park,Parks & Recreational Areas,II,13358.242,1704.118717,VIC,Victoria,147.4251049,-36.05366899
+QLD_4169TOS001,Tam O'Shanter,Forest Reserve,"Forest, Flora & Wildlife Reserves",VI,2,0.77954855,QLD,Queensland,146.068865,-17.92346742
+TAS_50272_g,Mount Tanner,Nature Recreation Area,Parks & Recreational Areas,VI,0,0.03884665,TAS,Tasmania,147.8385805,-39.90267316
+SA_10205,Tower Hill,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,129.181,0.29107435,SA,South Australia,138.9174701,-34.73110686
+QLD_4142GAF001,Gadgarra,Forest Reserve,"Forest, Flora & Wildlife Reserves",VI,1,0.94554777,QLD,Queensland,145.6645566,-17.27098179
+VIC_3595,Snowy River,Heritage River,"Heritage, Coastal & Special-purpose Areas",V,0,42166.01688,VIC,Victoria,148.3340299,-37.19265904
+SA_10145,Topperwein,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,703.1418646,174.0932779,SA,South Australia,140.9669636,-37.53842698
+NSW_N0638,William Howe,Regional Park,Parks & Recreational Areas,V,43.04,43.03668327,NSW,New South Wales,150.7434834,-34.0651894
+TAS_50191_e,Actaeon Island,Game Reserve,"Forest, Flora & Wildlife Reserves",VI,0,4.75874624,TAS,Tasmania,146.9934589,-43.55185755
+TAS_50265_ab,Killiecrankie,Nature Recreation Area,Parks & Recreational Areas,VI,0,0.06826035,TAS,Tasmania,147.8358393,-39.832661
+SA_10112,Mount McIntyre,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,63.45055865,63.15632029,SA,South Australia,140.5265122,-37.56661927
+SA_10119,Glencoe Hill,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,69.26083232,68.91154051,SA,South Australia,140.5136578,-37.68056581
+CWTH_N7082,Karara,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",II,0,109962.4519,WA,Western Australia,116.7871242,-29.17527825
+NSW_FR89,Paddys Brush,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,70,72.47540869,NSW,New South Wales,151.4275941,-31.91329622
+TAS_50269_b,Meehan Range,Nature Recreation Area,Parks & Recreational Areas,V,0,242.7012521,TAS,Tasmania,147.3658672,-42.80180011
+QLD_8074KBC001,Koala Bushland,Coordinated Conservation Area,"Other, Proposed & Transitional",VI,1170,850.7686311,QLD,Queensland,153.1632444,-27.6254551
+CWTH_N7038,Cane River (Mount Minnie and Nanutarra),NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",II,0,180995.1751,WA,Western Australia,115.321017,-22.05036474
+CWTH_N7054,Lake Mason,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",II,0,149175.1472,WA,Western Australia,119.5608281,-27.70595182
+NSW_FR96,Broad Creek,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,15.39999962,15.83050035,NSW,New South Wales,150.1840944,-35.36648767
+SA_10103,Konetta,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,1230.566919,4.9556963,SA,South Australia,140.214688,-37.29521366
+TAS_50265_f,Killiecrankie,Nature Recreation Area,Parks & Recreational Areas,VI,0,0.06198777,TAS,Tasmania,147.847538,-39.8185654
+SA_10215,Mount Panorama,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,65.09289509,65.18658565,SA,South Australia,138.6738449,-35.17067166
+SA_10143,Nangwarry,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,6674.972304,2215.314195,SA,South Australia,140.863886,-37.4882328
+TAS_50222_c,Port Arthur,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,0,0.88407209,TAS,Tasmania,147.8439099,-43.1530816
+VIC_3351,Warrandyte,State Park,Parks & Recreational Areas,III,687.622,687.7200568,VIC,Victoria,145.2469889,-37.72138637
+VIC_3598,Mitchell and Wonnangatta Rivers,Heritage River,"Heritage, Coastal & Special-purpose Areas",V,0,9908.25502,VIC,Victoria,147.3527132,-37.62392165
+TAS_50198,New Year Island,Game Reserve,"Forest, Flora & Wildlife Reserves",VI,0,118.1022493,TAS,Tasmania,143.8239205,-39.67122169
+TAS_50216,Kangaroo Bluff,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,0,3.10078413,TAS,Tasmania,147.3672103,-42.88142741
+NSW_N0219,Innes Ruins,Historic Site,"Heritage, Coastal & Special-purpose Areas",II,422.3,440.3750644,NSW,New South Wales,152.8772321,-31.4906765
+SA_0215,Mud Islands,Game Reserve,"Forest, Flora & Wildlife Reserves",VI,1254.837301,125.6119619,SA,South Australia,138.9923933,-35.5688773
+CWTH_N7115,Nerren Nerren,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",Ia,0,104310.6385,WA,Western Australia,114.3286254,-27.07156124
+TAS_50206,Coal Mines,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,0,217.3871595,TAS,Tasmania,147.7147173,-42.98391022
+TAS_50263_a,Humbug Point,Nature Recreation Area,Parks & Recreational Areas,V,0,1610.188107,TAS,Tasmania,148.3043905,-41.27585933
+VIC_3596,Suggan Buggan and Berrima Rivers,Heritage River,"Heritage, Coastal & Special-purpose Areas",II,0,1406.217976,VIC,Victoria,148.2418368,-36.87719943
+TAS_50197_b,Moulting Lagoon,Game Reserve,"Forest, Flora & Wildlife Reserves",VI,0,4589.305755,TAS,Tasmania,148.1822763,-42.02653025
+TAS_50220,Mount Direction,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,0,181.408673,TAS,Tasmania,147.0299458,-41.24291048
+CWTH_N7121,Credo,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",II,0,202111.8019,WA,Western Australia,120.6976712,-30.36161409
+TAS_50228,Tasman Monument,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,0,0.00819767,TAS,Tasmania,147.8146535,-42.88832614
+TAS_50274_d,Recherche Bay,Nature Recreation Area,Parks & Recreational Areas,V,0,0.32608058,TAS,Tasmania,146.9085072,-43.56286468
+TAS_50272_j,Mount Tanner,Nature Recreation Area,Parks & Recreational Areas,VI,0,0.07347211,TAS,Tasmania,147.7452864,-39.87483842
+CWTH_N3004,Silver Plains,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",II,0,1.83E-05,QLD,Queensland,143.5097837,-13.84108144
+VIC_3342,Mount Arapiles-Tooan,State Park,Parks & Recreational Areas,II,7455.103,411.7502193,VIC,Victoria,141.6833591,-36.78042163
+TAS_50215,Highfield,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,0,3.85067593,TAS,Tasmania,145.2923145,-40.74814255
+TAS_50781_b,Gellibrand Point,Nature Recreation Area,Parks & Recreational Areas,V,0,1.24960012,TAS,Tasmania,147.4041695,-42.98552142
+NSW_N0644,Wolli Creek,Regional Park,Parks & Recreational Areas,V,44.8212,43.8494717,NSW,New South Wales,151.1279056,-33.93004768
+TAS_50230,Waubadebars Grave,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,0,0.00050993,TAS,Tasmania,148.3037974,-41.87169331
+NSW_FR127,Watergums Creek,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,238,241.7146019,NSW,New South Wales,149.851324,-37.32693025
+SA_10121,Windy Hill,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,291.8449418,145.1729334,SA,South Australia,140.5324696,-37.70558288
+TAS_50260_c,Emita,Nature Recreation Area,Parks & Recreational Areas,VI,0,0.00867151,TAS,Tasmania,147.8831275,-40.00926988
+NSW_N1084,Goonoo,CCA Zone 3 State Conservation Area,"Other, Proposed & Transitional",II,54522,54408.01848,NSW,New South Wales,148.9067249,-31.96075976
+VIC_3351,Warrandyte,State Park,Parks & Recreational Areas,III,687.622,7.56E-06,VIC,Victoria,145.2464926,-37.7310737
+NT_PA8_b,Holmes Jungle,Nature Park,Parks & Recreational Areas,V,257,58.82326982,NT,Northern Territory,130.927742,-12.39874867
+SA_10146,Island Swamp,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,43.1963047,42.99344325,SA,South Australia,140.8529023,-37.58304468
+TAS_50265_e,Killiecrankie,Nature Recreation Area,Parks & Recreational Areas,VI,0,1.67038861,TAS,Tasmania,147.8538091,-39.79847539
+CWTH_N7031,Barnong Pastoral Lease - Western Part,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",II,0,22539.63212,WA,Western Australia,116.1625076,-28.51454506
+NSW_FR48,Wallaroo,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,491,487.2293934,NSW,New South Wales,151.9192549,-32.61941534
+NSW_FR91,Stingray Swamp,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,265,288.5467125,NSW,New South Wales,150.2263377,-34.6449074
+TAS_50211,Eddystone Point Lighthouse,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,0,13.42411641,TAS,Tasmania,148.3463946,-40.99222086
+NSW_FR68,Laurel Hill,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,136.5,139.871409,NSW,New South Wales,148.0523871,-35.6243406
+QLD_4074MAP001,Mapleton,Forest Reserve,"Forest, Flora & Wildlife Reserves",VI,127,120.4117438,QLD,Queensland,152.8625586,-26.59697855
+TAS_50260_b,Emita,Nature Recreation Area,Parks & Recreational Areas,VI,0,0.01585388,TAS,Tasmania,147.8904318,-39.99735048
+QLD_8074KBC001,Koala Bushland,Coordinated Conservation Area,"Other, Proposed & Transitional",VI,1170,296.024183,QLD,Queensland,153.1738195,-27.61547605
+SA_10211,Kersbrook,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,2516.411572,837.1819214,SA,South Australia,138.8465237,-34.72367627
+SA_0242,Anstey Hill,Recreation Park,Parks & Recreational Areas,III,722.3204267,362.0457346,SA,South Australia,138.7376656,-34.83249277
+VIC_3330,Cape Nelson,State Park,Parks & Recreational Areas,III,229.032,228.9598592,VIC,Victoria,141.5337502,-38.41982079
+TAS_50005,Seventeen Mile Plain,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",NA,0,2039.386137,TAS,Tasmania,144.8724024,-40.87422544
+CWTH_OC11-00373,Sceale Bay Coastlink,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",III,0,259.3975483,SA,South Australia,134.2103692,-32.97928561
+NSW_FR80,Warrawolong,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,621,623.8706467,NSW,New South Wales,151.265519,-33.04406231
+NSW_N1110,Worimi,Regional Park,Parks & Recreational Areas,V,1568,1336.067969,NSW,New South Wales,151.9364105,-32.81400104
+QLD_4152MNT001,Malbon Thompson,Forest Reserve,"Forest, Flora & Wildlife Reserves",VI,5934,2670.219115,QLD,Queensland,145.9111339,-17.14826607
+CWTH_N7127,Wickepin,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",Ia,0,84.63135868,WA,Western Australia,117.328743,-32.64086538
+VIC_3368,Reef Hills,State Park,Parks & Recreational Areas,II,2004.772,1889.392749,VIC,Victoria,145.9363792,-36.59453072
+VIC_3587,Mitta Mitta River,Heritage River,"Heritage, Coastal & Special-purpose Areas",V,0,631.2545259,VIC,Victoria,147.6504798,-36.83522582
+NT_PA8_c,Holmes Jungle,Nature Park,Parks & Recreational Areas,V,257,115.5196926,NT,Northern Territory,130.93088,-12.40598726
+VIC_3594,"Bemm, Goolengook, Arte and Errinundra Rivers",Heritage River,"Heritage, Coastal & Special-purpose Areas",V,0,2999.166598,VIC,Victoria,148.9774945,-37.76328439
+NT_PA55_a,Yeperenye / Emily and Jessie Gaps,Nature Park,Parks & Recreational Areas,V,1213,330.6111644,NT,Northern Territory,133.8864572,-23.72827149
+WA_48326,Helena River,Management Area,"Other, Proposed & Transitional",NAS,36,37.07710743,WA,Western Australia,116.0817688,-31.94912169
+NSW_FR198,Chaelundi,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,274,273.1837082,NSW,New South Wales,152.5154223,-29.9789334
+CWTH_N7102,Sussex Location 2561,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",Ia,0,51.22282057,WA,Western Australia,115.2000512,-33.75467446
+SA_10144,Muddy Flat,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,127.7491002,63.59274185,SA,South Australia,140.8185398,-37.49718793
+TAS_50279_e,Trevallyn,Nature Recreation Area,Parks & Recreational Areas,III,0,32.4790497,TAS,Tasmania,147.0852616,-41.44334649
+VIC_3600,Yarra River,Heritage River,"Heritage, Coastal & Special-purpose Areas",V,0,184.1942601,VIC,Victoria,145.2562129,-37.7154539
+VIC_3596,Suggan Buggan and Berrima Rivers,Heritage River,"Heritage, Coastal & Special-purpose Areas",II,0,89.85734744,VIC,Victoria,148.3181223,-36.94707953
+TAS_50197_a,Moulting Lagoon,Game Reserve,"Forest, Flora & Wildlife Reserves",VI,0,210.8286279,TAS,Tasmania,148.2269577,-41.9669528
+SA_10116,Burr Slopes South,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,142.0273878,141.3433846,SA,South Australia,140.4917089,-37.61634093
+VIC_3368,Reef Hills,State Park,Parks & Recreational Areas,II,2004.772,115.8879078,VIC,Victoria,145.9490969,-36.61785836
+NSW_FR23,Boshes Creek,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,165.5169983,177.3357923,NSW,New South Wales,149.1658834,-33.05692299
+NT_PA48_b,Alice Springs Telegraph Station,Historical Reserve,"Heritage, Coastal & Special-purpose Areas",V,0,126.092005,NT,Northern Territory,133.8819467,-23.66252422
+QLD_4147JPN001,Japoon,Forest Reserve,"Forest, Flora & Wildlife Reserves",VI,3.5,3.26675754,QLD,Queensland,145.9801724,-17.84015805
+NT_PA6_a,Casuarina,Coastal Reserve,"Heritage, Coastal & Special-purpose Areas",V,1360,1363.206446,NT,Northern Territory,130.8767777,-12.34476602
+CWTH_N2020,Hexham Swamp,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",IV,0,766.1360641,NSW,New South Wales,151.6593057,-32.85896701
+SA_0220,Loch Luna,Game Reserve,"Forest, Flora & Wildlife Reserves",VI,4125.302089,2069.690276,SA,South Australia,140.3837276,-34.20900898
+TAS_50260_e,Emita,Nature Recreation Area,Parks & Recreational Areas,VI,0,0.04734558,TAS,Tasmania,147.8839884,-40.00722392
+CWTH_N7044,Moolgoolool,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",II,0,401844.7022,WA,Western Australia,119.5784264,-25.9291194
+CWTH_N3025,Tarangau Station,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",II,0,62.31021292,QLD,Queensland,152.9974968,-26.17500248
+NSW_FR194,Barrington Tops,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,163,163.1867841,NSW,New South Wales,151.6135491,-31.90484135
+TAS_50205_c,Cape Sorell,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,0,0.44369272,TAS,Tasmania,145.1662111,-42.19609813
+NSW_FR207,Meryla,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,0,0.47967709,NSW,New South Wales,150.3921127,-34.67869667
+TAS_50204,Callington Mill,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,0,0.4593979,TAS,Tasmania,147.3763759,-42.29914033
+NSW_FR201,Dampier,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,263,260.5740863,NSW,New South Wales,149.7105117,-36.10700075
+TAS_50265_p,Killiecrankie,Nature Recreation Area,Parks & Recreational Areas,VI,0,0.23766607,TAS,Tasmania,147.8426715,-39.80604114
+TAS_50265_q,Killiecrankie,Nature Recreation Area,Parks & Recreational Areas,VI,0,0.21294079,TAS,Tasmania,147.8405391,-39.80756402
+NSW_N1094,Wondoba,CCA Zone 3 State Conservation Area,"Other, Proposed & Transitional",II,1663,1626.127907,NSW,New South Wales,150.1376757,-31.10678564
+VIC_3347,Mount Worth,State Park,Parks & Recreational Areas,III,1032.062,1031.859348,VIC,Victoria,145.990941,-38.27936962
+NSW_N0214,Clybucca,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,467.1,483.4423617,NSW,New South Wales,152.9814118,-30.92812892
+TAS_50202_c,Stack Island,Game Reserve,"Forest, Flora & Wildlife Reserves",VI,0,35.27392119,TAS,Tasmania,144.7760306,-40.60689547
+VIC_3603,Glenelg River,Heritage River,"Heritage, Coastal & Special-purpose Areas",V,0,333.7676189,VIC,Victoria,141.2626037,-37.9628233
+QLD_4186DBW001,Danbulla West,Forest Reserve,"Forest, Flora & Wildlife Reserves",VI,25.72,25.77401738,QLD,Queensland,145.5194344,-17.15743423
+TAS_50271,Mount Montgomery,Nature Recreation Area,Parks & Recreational Areas,V,0,76.10718798,TAS,Tasmania,146.062036,-41.15561185
+CWTH_N7049,Kennedy Range National Park Addition,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",II,0,13507.18797,WA,Western Australia,114.8437755,-24.16523526
+SA_10205,Tower Hill,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,129.181,129.8613773,SA,South Australia,138.9216407,-34.72676062
+VIC_3601,Lerderderg River,Heritage River,"Heritage, Coastal & Special-purpose Areas",V,0,380.9289064,VIC,Victoria,144.2806602,-37.46549784
+NSW_N1204,Ngula Bulgarabang,Regional Park,Parks & Recreational Areas,V,306.14,305.5326416,NSW,New South Wales,150.2739013,-33.70745545
+TAS_50269_d,Meehan Range,Nature Recreation Area,Parks & Recreational Areas,V,0,2.6950408,TAS,Tasmania,147.3790592,-42.81586299
+SA_10147,The Heath,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,205.7268973,204.7662482,SA,South Australia,140.9188814,-37.57649595
+NSW_N1082,Durridgere,CCA Zone 3 State Conservation Area,"Other, Proposed & Transitional",II,6172.2,6143.041904,NSW,New South Wales,149.8684084,-32.11867575
+NSW_FR201,Dampier,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,263,3.98194964,NSW,New South Wales,149.7130547,-36.09793301
+NSW_N1163,Adelyne,CCA Zone 3 State Conservation Area,"Other, Proposed & Transitional",II,147.7,145.4558765,NSW,New South Wales,149.2569219,-31.95693429
+TAS_50219,Macquarie Harbour,Historic Site,"Heritage, Coastal & Special-purpose Areas",II,0,15231.31915,TAS,Tasmania,145.4493462,-42.36635987
+TAS_50213,Cascades Female Factory,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,0,0.71703495,TAS,Tasmania,147.2992534,-42.89381468
+NT_PA44_c,Arltunga,Historical Reserve,"Heritage, Coastal & Special-purpose Areas",V,5439,101.1552318,NT,Northern Territory,134.721077,-23.48187041
+SA_10217,Christmas Hill,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,2334.664021,315.5407023,SA,South Australia,138.6807107,-35.25585654
+VIC_3348,Paddys Ranges,State Park,Parks & Recreational Areas,II,2014.697,2015.216741,VIC,Victoria,143.6977859,-37.08349871
+VIC_1992,Phillip Island Nature Park,Other,"Other, Proposed & Transitional",III,1925.186,1959.793214,VIC,Victoria,145.116365,-38.51823852
+SA_10137,Cave Range,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,47.57187453,47.3833776,SA,South Australia,140.7901546,-37.02519827
+TAS_50218,Lyons Cottage,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,0,0.10098956,TAS,Tasmania,145.2987206,-40.76563053
+SA_10102,Bagdad,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,457.5056355,2.33781544,SA,South Australia,139.8901205,-37.0460684
+SA_0240,Long Island,Recreation Park,Parks & Recreational Areas,III,7.50699547,7.52131461,SA,South Australia,139.3011628,-35.1309024
+TAS_50267_a,Lake Barrington,Nature Recreation Area,Parks & Recreational Areas,V,0,57.14326409,TAS,Tasmania,146.1819487,-41.41483249
+TAS_50461_a,Pirates Bay,Nature Recreation Area,Parks & Recreational Areas,III,0,49.71037939,TAS,Tasmania,147.9282213,-43.02788839
+TAS_50494,Cemetery Point,Historic Site,"Heritage, Coastal & Special-purpose Areas",IV,0,0.64247136,TAS,Tasmania,147.7228583,-43.01286532
+TAS_50265_aa,Killiecrankie,Nature Recreation Area,Parks & Recreational Areas,VI,0,2.66326037,TAS,Tasmania,147.8335017,-39.8323627
+NSW_FR202,Koolewong,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,1874,6.45E-05,NSW,New South Wales,151.0961936,-33.28447981
+TAS_50259,Donaldson River,Nature Recreation Area,Parks & Recreational Areas,V,0,30663.79822,TAS,Tasmania,145.1708543,-41.29987734
+NSW_FR3,Bruxner Park,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,406.6560059,428.2605934,NSW,New South Wales,153.1043979,-30.25405616
+NT_PA8_a,Holmes Jungle,Nature Park,Parks & Recreational Areas,V,257,76.34835759,NT,Northern Territory,130.9341278,-12.39921436
+SA_0254,Chowilla,Game Reserve,"Forest, Flora & Wildlife Reserves",VI,86747.40796,63.5960403,SA,South Australia,140.8137289,-34.03414738
+TAS_50200_f,Petrel Islands,Game Reserve,"Forest, Flora & Wildlife Reserves",VI,0,0.16006198,TAS,Tasmania,144.9367889,-40.57631327
+SA_10126,Wandilo,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,428.7647634,426.5765622,SA,South Australia,140.6943242,-37.69618291
+SA_10213,Cudlee Creek,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,701.068992,351.3653559,SA,South Australia,138.8094252,-34.87744646
+VIC_3590,Big River,Heritage River,"Heritage, Coastal & Special-purpose Areas",V,0,14.6176175,VIC,Victoria,146.0581307,-37.37052304
+NT_PA37P,Iytwelepenty / Davenport Ranges,Proposed National Parks Act park or park addition,"Other, Proposed & Transitional",V,5,5.80307359,NT,Northern Territory,134.778082,-20.63331223
+TAS_50279_c,Trevallyn,Nature Recreation Area,Parks & Recreational Areas,III,0,3.93321792,TAS,Tasmania,147.0953616,-41.43676741
+VIC_3334,Holey Plains,State Park,Parks & Recreational Areas,II,10747.188,10745.6732,VIC,Victoria,146.9268151,-38.22873137
+SA_10138,Deadmans Swamp,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,1081.886114,539.1682923,SA,South Australia,140.8533381,-37.15539258
+SA_0009,Caratoola,Recreation Park,Parks & Recreational Areas,III,53.83589386,54.09409186,SA,South Australia,134.213408,-32.49703544
+NSW_FR185,The Hunter Lakes,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,934,927.762612,NSW,New South Wales,151.4436934,-32.96742733
+NSW_FR168,Mount Poole,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,940,0.00388927,NSW,New South Wales,149.5135106,-37.1776484
+NSW_FR56,Tirrill Creek,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,187,179.7253226,NSW,New South Wales,152.1412812,-31.5329127
+VIC_3592,Wimmera River,Heritage River,"Heritage, Coastal & Special-purpose Areas",V,0,21907.3695,VIC,Victoria,141.9790882,-35.44209665
+SA_10137,Cave Range,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,47.57187453,0.05156035,SA,South Australia,140.7934211,-37.02873408
+TAS_50279_f,Trevallyn,Nature Recreation Area,Parks & Recreational Areas,III,0,58.84809495,TAS,Tasmania,147.1046808,-41.46132155
+QLD_4083MBF001,Mount Binga,Forest Reserve,"Forest, Flora & Wildlife Reserves",VI,1.3,1.53812419,QLD,Queensland,151.9823236,-27.00637397
+NSW_FR114,Nethercote Falls,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,146,149.7716619,NSW,New South Wales,149.8206313,-36.99219908
+CWTH_N3004,Silver Plains,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",II,0,152218.9118,QLD,Queensland,143.44295,-14.22260007
+CWTH_N7085,Bulga Downs & Cashmere Downs Pastoral leases portions,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",II,0,163924.7859,WA,Western Australia,120.1170046,-28.58783982
+NSW_FR179,Murraguldrie,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,1520,1520.932825,NSW,New South Wales,147.6479044,-35.50456364
+VIC_3328,Black Range,State Park,Parks & Recreational Areas,II,11727.469,11730.97485,VIC,Victoria,142.0819063,-37.15770144
+CWTH_N7111,Part Murchison house,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",II,0,46211.64158,WA,Western Australia,114.1491905,-27.19560908
+VIC_3396,Deep Lead Nature Conservation Reserve (No. 1),National Parks Act Schedule 4 park or reserve,"Other, Proposed & Transitional",Ia,1168.512,1168.863809,VIC,Victoria,142.7491461,-37.01047924
+NSW_FR195,Kilprotay,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,1490,7.63E-05,NSW,New South Wales,152.5394953,-30.62003592
+NSW_FR180,Carabost,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,2800,2801.990967,NSW,New South Wales,147.6732188,-35.62675949
+NSW_FR19,Mobong Creek,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,13.60000038,13.64616774,NSW,New South Wales,152.7827302,-30.19962682
+SA_10141,Boolara,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,86.70552973,86.39014402,SA,South Australia,140.9414019,-37.26525874
+VIC_3337,Kooyoora,State Park,Parks & Recreational Areas,II,11455.62,10814.15812,VIC,Victoria,143.7026913,-36.59400374
+VIC_3332,Cathedral Range,State Park,Parks & Recreational Areas,II,3598.421,3599.355989,VIC,Victoria,145.7669295,-37.37774731
+VIC_3339,Lerderderg,State Park,Parks & Recreational Areas,II,20560.209,19503.95434,VIC,Victoria,144.3949131,-37.54612092
+SA_10106,Kennion,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,30.80265579,30.67491797,SA,South Australia,140.3138771,-37.42223961
+BHA_34,Pullen Pullen,Special Wildlife Reserve,"Forest, Flora & Wildlife Reserves",IV,56391.61,56031.81916,QLD,Queensland,141.6866636,-23.38788783
+NSW_FR197,Wollemi,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,7190,0.50809694,NSW,New South Wales,150.6217889,-32.80853706
+CWTH_N7117,Kadathinni - Part lot 3 on Plan 15105,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",Ia,0,130.7418175,WA,Western Australia,115.4525033,-29.59698392
+NSW_FR173,Mount Allyn,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,2480,2480.189079,NSW,New South Wales,151.4170447,-32.12371304
+SA_10109,Malone Heath,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,313.7135094,156.1634235,SA,South Australia,140.4032494,-37.50225443
+NSW_FR120,Paddys River,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,120,125.7911072,NSW,New South Wales,148.1667223,-35.7128179
+VIC_3587,Mitta Mitta River,Heritage River,"Heritage, Coastal & Special-purpose Areas",V,0,1719.368425,VIC,Victoria,147.5284295,-36.99398761
+NT_PA55_d,Yeperenye / Emily and Jessie Gaps,Nature Park,Parks & Recreational Areas,V,1213,1.79590179,NT,Northern Territory,133.9057388,-23.72908598
+NSW_N1090,Pilliga East,CCA Zone 3 State Conservation Area,"Other, Proposed & Transitional",II,24710.64,24548.297,NSW,New South Wales,149.6451469,-30.79270663
+NSW_FR210,Yuraarla,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,120.9688187,120.8868944,NSW,New South Wales,153.0332712,-30.3338459
+NSW_N1172,Woodsreef,CCA Zone 3 State Conservation Area,"Other, Proposed & Transitional",II,330.6,330.2334315,NSW,New South Wales,150.7382909,-30.38320627
+NSW_FR111,Twelve Sixty,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,300,307.8000049,NSW,New South Wales,152.9257442,-30.11747251
+SA_10139,Wombat Flat,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,454.1742236,150.8710541,SA,South Australia,140.9017263,-37.20580165
+NT_PA27_a,Cutta Cutta Caves,Nature Park,Parks & Recreational Areas,III,1240,1238.813374,NT,Northern Territory,132.4495293,-14.56624434
+NT_PA9,Howard Springs,Hunting Reserve,"Forest, Flora & Wildlife Reserves",VI,1605,1605.39841,NT,Northern Territory,131.0701447,-12.43150283
+SA_1279_1,Ballaparudda Creek ,Recreation Park,Parks & Recreational Areas,Ia,2.59342023,2.59575136,SA,South Australia,138.3958261,-35.61663296
+TAS_50274_g,Recherche Bay,Nature Recreation Area,Parks & Recreational Areas,V,0,0.1877854,TAS,Tasmania,146.8891121,-43.57851543
+TAS_50210_a,Eaglehawk Neck,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,0,9.83063498,TAS,Tasmania,147.9260857,-43.0160586
+NSW_FR199,Guy Fawkes River,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,1304,1302.243208,NSW,New South Wales,152.3537872,-29.98970374
+TAS_50265_o,Killiecrankie,Nature Recreation Area,Parks & Recreational Areas,VI,0,0.13745665,TAS,Tasmania,147.8431174,-39.80589168
+NSW_N0209,Mount Grenfell,Historic Site,"Heritage, Coastal & Special-purpose Areas",II,1357,1370.030988,NSW,New South Wales,145.3157949,-31.30366223
+TAS_50274_c,Recherche Bay,Nature Recreation Area,Parks & Recreational Areas,V,0,0.06608955,TAS,Tasmania,146.9043644,-43.56023108
+NSW_N0633,Leacock,Regional Park,Parks & Recreational Areas,V,38.4943,38.4570587,NSW,New South Wales,150.9087454,-33.95564114
+TAS_50269_c,Meehan Range,Nature Recreation Area,Parks & Recreational Areas,V,0,89.51712746,TAS,Tasmania,147.3800431,-42.80999868
+SA_0221,Poocher Swamp,Game Reserve,"Forest, Flora & Wildlife Reserves",VI,77.17258449,77.11259684,SA,South Australia,140.6841612,-36.30258676
+SA_10214,Coralinga,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,1130.295584,0.01065044,SA,South Australia,138.7917175,-34.88719354
+NSW_FR138,Jingera,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,470,472.6397899,NSW,New South Wales,149.7679666,-36.95984542
+SA_10125,Hacket Hill,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,498.8530661,496.3507177,SA,South Australia,140.6568866,-37.67415389
+SA_10130,Snow Gum,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,390.9006427,194.2828167,SA,South Australia,140.9405539,-37.93633639
+TAS_50274_a,Recherche Bay,Nature Recreation Area,Parks & Recreational Areas,V,0,468.664058,TAS,Tasmania,146.8842089,-43.54908122
+VIC_3602,Aire River,Heritage River,"Heritage, Coastal & Special-purpose Areas",V,0,80.83390838,VIC,Victoria,143.4723116,-38.7889077
+NSW_FR66,Richters Caves,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,22,23.52630432,NSW,New South Wales,151.3139767,-33.27658606
+NSW_FR40,Lanes Mill,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,690,732.1141284,NSW,New South Wales,149.4106031,-30.62175251
+NSW_FR64,Grange,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,58,54.31078721,NSW,New South Wales,152.545661,-29.45668496
+VIC_3601,Lerderderg River,Heritage River,"Heritage, Coastal & Special-purpose Areas",V,0,4786.399619,VIC,Victoria,144.3716178,-37.53156617
+QLD_4212EVF001,Elgin Vale,Forest Reserve,"Forest, Flora & Wildlife Reserves",VI,2098,2128.407403,QLD,Queensland,152.1856343,-26.51390654
+TAS_50222_b,Port Arthur,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,0,1.38054704,TAS,Tasmania,147.8675699,-43.14923486
+QLD_4151LMF001,Little Mulgrave,Forest Reserve,"Forest, Flora & Wildlife Reserves",VI,1,1.26516343,QLD,Queensland,145.7237128,-17.04347011
+TAS_50265_c,Killiecrankie,Nature Recreation Area,Parks & Recreational Areas,VI,0,0.34906582,TAS,Tasmania,147.8600301,-39.79559228
+NSW_N1130,Murray Valley,Regional Park,Parks & Recreational Areas,V,10266.52,10511.48127,NSW,New South Wales,144.9916238,-35.83279116
+TAS_50258,Coningham,Nature Recreation Area,Parks & Recreational Areas,V,0,492.5822532,TAS,Tasmania,147.2848992,-43.0868743
+NT_PA28_a,Giwining / Flora River,Nature Park,Parks & Recreational Areas,V,7824,7734.799455,NT,Northern Territory,131.6041537,-14.74717163
+NSW_FR196,Jellore,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,1400,0.38423639,NSW,New South Wales,150.4045735,-34.36749875
+TAS_50274_b,Recherche Bay,Nature Recreation Area,Parks & Recreational Areas,V,0,0.94751829,TAS,Tasmania,146.9017083,-43.51634839
+NSW_FR26,Bago,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,27.09000015,23.34542214,NSW,New South Wales,148.2259021,-35.72413084
+NSW_N0632,Rouse Hill,Regional Park,Parks & Recreational Areas,V,45.393,45.71903193,NSW,New South Wales,150.909961,-33.6797649
+QLD_4152MNT001,Malbon Thompson,Forest Reserve,"Forest, Flora & Wildlife Reserves",VI,5934,3287.544126,QLD,Queensland,145.8373615,-16.98906293
+NT_PA55_e,Yeperenye / Emily and Jessie Gaps,Nature Park,Parks & Recreational Areas,V,1213,0.81382578,NT,Northern Territory,133.9056702,-23.72924181
+TAS_50231_a,Yorktown,Historic Site,"Heritage, Coastal & Special-purpose Areas",V,0,0.1645289,TAS,Tasmania,146.7650242,-41.15140614
+VIC_3599,Thomson River,Heritage River,"Heritage, Coastal & Special-purpose Areas",V,0,2485.118982,VIC,Victoria,146.5494751,-37.96993813
+NT_PA75_c,Howard Springs,Nature Park,Parks & Recreational Areas,V,286,56.59820235,NT,Northern Territory,131.0627823,-12.46371603
+NSW_FR170,Narrabarba Hill,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,125,125.0181095,NSW,New South Wales,149.8398307,-37.25521661
+NT_PA44_b,Arltunga,Historical Reserve,"Heritage, Coastal & Special-purpose Areas",V,5439,2868.917374,NT,Northern Territory,134.7395172,-23.45853718
+NSW_FR191,Forest Land,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,730.5377197,726.3617393,NSW,New South Wales,152.1609542,-29.23515258
+NSW_FR71,White Beech,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,100,102.4283879,NSW,New South Wales,152.3098112,-28.95642655
+NSW_N1141,Goolawah,Regional Park,Parks & Recreational Areas,V,65.7,0.00140627,NSW,New South Wales,152.9657913,-31.26810751
+CWTH_N3026,Lonesome Holding,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",II,0,0.01149654,QLD,Queensland,149.002173,-25.57551106
+NSW_FR128,Arandin,Flora Reserve,"Forest, Flora & Wildlife Reserves",Ia,20,21.38416515,NSW,New South Wales,153.0110617,-29.7909394
+TAS_50004,Marneys Hill (Brushy Rivulet),NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",NA,0,74.58316717,TAS,Tasmania,146.8290923,-41.47930563
+VIC_4269,Lake Eildon NP (VPC addition),Proposed National Parks Act park or park addition,"Other, Proposed & Transitional",II,6.212,6.21363127,VIC,Victoria,146.0321276,-37.18567332
+VIC_3593,Genoa River,Heritage River,"Heritage, Coastal & Special-purpose Areas",II,0,0.42194001,VIC,Victoria,149.3561411,-37.26276206
+SA_10220,Congeratinga,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,156.9229229,78.53987962,SA,South Australia,138.2786855,-35.56914622
+TAS_50272_e,Mount Tanner,Nature Recreation Area,Parks & Recreational Areas,VI,0,0.02319495,TAS,Tasmania,147.8383614,-39.9033281
+NSW_N1091,Pilliga West,CCA Zone 3 State Conservation Area,"Other, Proposed & Transitional",II,36894.83,36474.79995,NSW,New South Wales,148.8314163,-30.53775534
+CWTH_N7116,Woolgorong,NRS Addition - Gazettal in Progress,"Other, Proposed & Transitional",II,0,116036.8772,WA,Western Australia,115.6491907,-27.64058912
+SA_10107,Rocky Reserve,Forest Reserve,"Forest, Flora & Wildlife Reserves",IV,131.5516266,130.9972991,SA,South Australia,140.315606,-37.44185449
+NT_PA55_h,Yeperenye / Emily and Jessie Gaps,Nature Park,Parks & Recreational Areas,V,1213,39.64262771,NT,Northern Territory,134.0153094,-23.75019932

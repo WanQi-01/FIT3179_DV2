@@ -22,6 +22,7 @@ const excelData = [
     "chart1.xlsx",
     "reserve_cat_m.csv",
     "reserve_cat_t.csv",
+    "reserve_cat_t2.csv",
     "reserve_cat_marine_park.csv"
 
 ]

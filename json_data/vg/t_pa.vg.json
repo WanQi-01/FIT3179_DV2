@@ -4,11 +4,14 @@
     "title": { "text": "Terrestrial Protected Areas Coverage" },
 
     "data": {
-        "url": "../t_pa.json"
+        "url": "json_data/t_pa.json"
     },
     "width": 600,
     "height": 800,
-    "mark": "line",
+    "mark": {
+        "type": "line",
+        "strokeWidth": 3
+    },
     "encoding": {
         "x": {
             "field": "Year",
@@ -32,7 +35,7 @@
             "field": "State Full Name",
             "type": "nominal",
             "legend": {
-                "title": "State/Territories",
+                "title": "Jurisdiction",
                 "orient": "right"
             }
         },

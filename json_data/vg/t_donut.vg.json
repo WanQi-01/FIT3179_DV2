@@ -2,7 +2,7 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": { "text": "Proportion of Protected Terrestrial Areas Under Categories of International Union for Conservation of Nature" },
     "data": {
-        "url": "../TCAPAD_2024.json"
+        "url": "json_data/TCAPAD_2024.json"
     },
     "width": 400,
     "height": 400,

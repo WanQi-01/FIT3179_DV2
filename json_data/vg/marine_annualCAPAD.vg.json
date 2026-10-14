@@ -2,10 +2,11 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": {
-    "text": "Percentage of Marine Protected Areas by International Union for Conservation of Nature Category Over Time"
+    "text": "Marine Protected Areas Coverage for Each Category (%)",
+    "fontSize": 15
   },
   "data": {
-    "url": "../marine_annualCAPAD.json"
+    "url": "json_data/marine_annualCAPAD.json"
   },
   "width": 600,
   "height": 300,
@@ -20,14 +21,22 @@
       "type": "ordinal",
       "title": "Year",
       "axis": {
-        "labelAngle": -45
+        "labelAngle": -45,
+        "labelFontSize": 11,
+        "titleFontSize": 13
       }
     },
     "y": {
       "field": "IUCN Category",
       "type": "ordinal",
-      "title": "International Union for Conservation of Nature Category",
-      "sort": ["Ia", "Ib", "II", "III", "IV", "V", "VI"]
+      "title": "Categories",
+      "sort": ["Ia", "Ib", "II", "III", "IV", "V", "VI"],
+      "axis": {
+        "labelExpr": "datum.label === 'Ia' ? 'Ia - Strict Nature Reserve' : datum.label === 'Ib' ? 'Ib - Wilderness Area' : datum.label === 'II' ? 'II - National Park' : datum.label === 'III' ? 'III - Natural Monument' : datum.label === 'IV' ? 'IV - Habitat/Species Management Area' : datum.label === 'V' ? 'V - Protected Landscape/Seascape' : datum.label === 'VI' ? 'VI - Managed Resource Protected Area' : datum.label",
+        "labelFontSize": 11,
+        "titleFontSize": 13
+
+      }
     },
     "color": {
       "field": "Percentage of protected area",
