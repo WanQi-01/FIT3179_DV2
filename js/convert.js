@@ -15,7 +15,11 @@ const excelData = [
     "m_pa.xlsx",
     "t_pa.xlsx",
     "MCAPAD_2024.xlsx",
-    "TCAPAD_2024.xlsx"
+    "TCAPAD_2024.xlsx",
+    "marine_annualCAPAD.xlsx",
+    "ter_annualCAPAD.xlsx",
+    "PA_INFO.xlsx",
+    "chart1.xlsx"
 ]
 
 for (const fileName of excelData) {

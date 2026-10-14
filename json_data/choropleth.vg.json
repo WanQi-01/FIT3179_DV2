@@ -1,0 +1,83 @@
+
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Australian Protected Areas by GIS Area",
+  "width": 800,
+  "height": 600,
+  "projection": {
+    "type": "equalEarth"
+  },
+  "data": {
+    "url": "../data/spatial_data/PA_INFO.topojson",
+    "format": {
+      "type": "topojson",
+      "feature": "REPLACE_WITH_TOPOJSON_OBJECT_NAME"
+    }
+  },
+  "transform": [
+    {
+      "lookup": "properties.PA_PID",
+      "from": {
+        "data": {
+          "url": "../json_data/chart1.json",
+          "format": {
+            "type": "json"
+          }
+        },
+        "key": "PA_PID",
+        "fields": [
+          "GIS_AREA",
+          "IUCN",
+          "State Full Name",
+          "Terrestrial/Marine",
+          "NAME"
+        ]
+      }
+    }
+  ],
+  "mark": {
+    "type": "geoshape",
+    "stroke": "white",
+    "strokeWidth": 0.2
+  },
+  "encoding": {
+    "color": {
+      "field": "GIS_AREA",
+      "type": "quantitative",
+      "scale": {
+        "scheme": "greens"
+      },
+      "legend": {
+        "title": "GIS Area (ha)"
+      }
+    },
+    "tooltip": [
+      {
+        "field": "properties.PA_PID",
+        "type": "nominal",
+        "title": "Protected Area ID"
+      },
+      {
+        "field": "NAME",
+        "type": "nominal",
+        "title": "Protected Area"
+      },
+      {
+        "field": "GIS_AREA",
+        "type": "quantitative",
+        "title": "GIS Area (ha)",
+        "format": ",.2f"
+      },
+      {
+        "field": "IUCN",
+        "type": "nominal",
+        "title": "IUCN Category"
+      },
+      {
+        "field": "State Full Name",
+        "type": "nominal",
+        "title": "State"
+      }
+    ]
+  }
+}
