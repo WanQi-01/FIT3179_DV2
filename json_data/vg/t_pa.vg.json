@@ -34,6 +34,30 @@
         "color": {
             "field": "State Full Name",
             "type": "nominal",
+            "scale": {
+                "domain": [
+                    "Australian Capital Territory",
+                    "External Territories",
+                    "New South Wales",
+                    "Northern Territory",
+                    "Queensland",
+                    "South Australia",
+                    "Tasmania",
+                    "Victoria",
+                    "Western Australia"
+                ],
+                "range": [
+                    "#e45756",
+                    "#ff9da6",
+                    "#4c78a8",
+                    "#f58518",
+                    "#72b7b2",
+                    "#b279a2",
+                    "#eecb3b",
+                    "#663518",
+                    "#7611ad"
+                ]
+            },
             "legend": {
                 "title": "Jurisdiction",
                 "orient": "right"
