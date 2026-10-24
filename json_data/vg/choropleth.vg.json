@@ -1,83 +1,95 @@
 
 {
-  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Australian Protected Areas by GIS Area",
-  "width": 800,
-  "height": 600,
-  "projection": {
-    "type": "equalEarth"
-  },
-  "data": {
-    "url": "https://github.com/WanQi-01/FIT3179_DV2/blob/main/data/spatial_data/PA_INFO.topojson",
-    "format": {
-      "type": "topojson",
-      "feature": "Protected Areas Information"
-    }
-  },
-  "transform": [
-    {
-      "lookup": "properties.PA_PID",
-      "from": {
-        "data": {
-          "url": "https://github.com/WanQi-01/FIT3179_DV2/blob/main/json_data/chart1.json",
-          "format": {
-            "type": "json"
-          }
-        },
-        "key": "PA_PID",
-        "fields": [
-          "GIS_AREA",
-          "IUCN",
-          "State Full Name",
-          "Terrestrial/Marine",
-          "NAME"
-        ]
-      }
-    }
-  ],
-  "mark": {
-    "type": "geoshape",
-    "stroke": "white",
-    "strokeWidth": 0.2
-  },
-  "encoding": {
-    "color": {
-      "field": "GIS_AREA",
-      "type": "quantitative",
-      "scale": {
-        "scheme": "greens"
-      },
-      "legend": {
-        "title": "GIS Area (ha)"
-      }
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+    "title": {
+        "text": "Terrestrial Protected Areas by GIS Area"
     },
-    "tooltip": [
-      {
-        "field": "properties.PA_PID",
-        "type": "nominal",
-        "title": "Protected Area ID"
-      },
-      {
-        "field": "NAME",
-        "type": "nominal",
-        "title": "Protected Area"
-      },
-      {
-        "field": "GIS_AREA",
-        "type": "quantitative",
-        "title": "GIS Area (ha)",
-        "format": ",.2f"
-      },
-      {
-        "field": "IUCN",
-        "type": "nominal",
-        "title": "IUCN Category"
-      },
-      {
-        "field": "State Full Name",
-        "type": "nominal",
-        "title": "State"
-      }
-    ]
-  }
+
+    "width": 700,
+    "height": 600,
+
+    "data": {
+        "url": "data/spatial_data/terrestrial.topojson",
+        "format": {
+            "type": "topojson",
+            "feature": "Collaborative_Australian_Protected_Areas_Database_(CAPAD)_2024_-_Terrestrial__"
+        }
+    },
+
+    "transform": [
+        {
+            "calculate": "toNumber(datum.properties.GIS_AREA)",
+            "as": "GIS_AREA"
+        },
+        {
+            "calculate": "datum.properties.PA_PID",
+            "as": "PA_PID"
+        },
+        {
+            "calculate": "datum.properties.NAME",
+            "as": "NAME"
+        },
+        {
+            "calculate": "datum.properties.STATE",
+            "as": "STATE"
+        },
+        {
+            "calculate": "datum.properties.IUCN",
+            "as": "IUCN"
+        }
+    ],
+    "projection": {
+        "type": "mercator",
+        "center": [134, -27],
+        "scale": 500
+    },
+
+    "mark": {
+        "type": "geoshape",
+        "stroke": "white",
+        "strokeWidth": 0.25
+    },
+
+    "encoding": {
+        "color": {
+            "field": "GIS_AREA",
+            "type": "quantitative",
+            "scale": {
+                "scheme": "blues"
+            },
+            "legend": {
+                "title": "GIS Area"
+            }
+        },
+
+        "tooltip": [
+            {
+                "field": "PA_PID",
+                "type": "nominal",
+                "title": "Protected Area ID"
+            },
+            {
+                "field": "NAME",
+                "type": "nominal",
+                "title": "Protected Area"
+            },
+            {
+                "field": "STATE",
+                "type": "nominal",
+                "title": "State"
+            },
+            {
+                "field": "GIS_AREA",
+                "type": "quantitative",
+                "title": "GIS Area",
+                "format": ",.3f"
+            },
+            {
+                "field": "IUCN",
+                "type": "nominal",
+                "title": "IUCN Category"
+            }
+        ]
+    }
 }

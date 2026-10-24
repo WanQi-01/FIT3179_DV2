@@ -1,0 +1,320 @@
+
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Australia's Most Protected Bioregions",
+    "subtitle": "Top 5 IBRA bioregions by percentage of area protected",
+    "fontSize": 24,
+    "subtitleFontSize": 14,
+    "anchor": "start",
+    "offset": 16
+  },
+  "data": {
+    "url": "json_data/IBRA_bioregion.json",
+    "format": {
+      "type": "json"
+    }
+  },
+  "transform": [
+    {
+      "window": [
+        {
+          "op": "rank",
+          "as": "rank"
+        }
+      ],
+      "sort": [
+        {
+          "field": "% IBRA Region Protected",
+          "order": "descending"
+        }
+      ]
+    },
+    {
+      "filter": "datum.rank <= 5"
+    }
+  ],
+  "hconcat": [
+    {
+      "width": 600,
+      "height": 430,
+      "title": {
+        "text": "Protected-Area Coverage by Bioregion",
+        "fontSize": 18,
+        "anchor": "middle"
+      },
+      "layer": [
+        {
+          "params": [
+            {
+              "name": "regionSelect",
+              "select": {
+                "type": "point",
+                "fields": ["IBRA Region Name"],
+                "on": "click",
+                "toggle": true,
+                "clear": "dblclick"
+              }
+            }
+          ],
+          "mark": {
+            "type": "arc",
+            "innerRadius": 65,
+            "stroke": "white",
+            "strokeWidth": 2,
+            "cornerRadius": 3,
+            "cursor": "pointer"
+          },
+          "encoding": {
+            "theta": {
+              "field": "IBRA Region Name",
+              "type": "nominal",
+              "sort": {
+                "field": "% IBRA Region Protected",
+                "order": "descending"
+              }
+            },
+            "radius": {
+              "field": "% IBRA Region Protected",
+              "type": "quantitative",
+              "scale": {
+                "type": "sqrt",
+                "zero": true,
+                "domain": [0, 100],
+                "range": [75, 185]
+              }
+            },
+            "color": {
+              "field": "IBRA Region Name",
+              "type": "nominal",
+              "title": "IBRA Region",
+              "scale": {
+                "domain": [
+                  "Arnhem Plateau",
+                  "Australian Alps",
+                  "Central Ranges",
+                  "Northern Kimberley",
+                  "Tasmanian West"
+                ],
+                "range": [
+                  "#bece9f",
+                  "#f7c387",
+                  "#819b8e",
+                  "#e8cad4",
+                  "#bacdf2"
+                ]
+              }
+
+            },
+            "opacity": {
+              "condition": {
+                "param": "regionSelect",
+                "value": 1,
+                "empty": true
+              },
+              "value": 0.25
+            },
+            "tooltip": [
+              {
+                "field": "IBRA Region Name",
+                "type": "nominal",
+                "title": "Bioregion"
+              },
+              {
+                "field": "% IBRA Region Protected",
+                "type": "quantitative",
+                "title": "Area protected (%)",
+                "format": ".2f"
+              },
+              {
+                "field": "Area Protected (ha)",
+                "type": "quantitative",
+                "title": "Protected area (ha)",
+                "format": ",.0f"
+              }
+            ]
+          }
+        },
+        {
+          "mark": {
+            "type": "text",
+            "radiusOffset": 50,
+            "fontSize": 12,
+            "fontWeight": "bold"
+          },
+          "encoding": {
+            "theta": {
+              "field": "IBRA Region Name",
+              "type": "nominal",
+              "sort": {
+                "field": "% IBRA Region Protected",
+                "order": "descending"
+              }
+            },
+            "radius": {
+              "field": "% IBRA Region Protected",
+              "type": "quantitative",
+              "scale": {
+                "type": "sqrt",
+                "zero": true,
+                "domain": [0, 100],
+                "range": [75, 185]
+              }
+            },
+            "text": {
+              "field": "IBRA Region Name",
+              "type": "nominal"
+            },
+
+            "opacity": {
+              "condition": {
+                "param": "regionSelect",
+                "value": 1,
+                "empty": true
+              },
+              "value": 0.25
+            }
+          }
+        }
+      ]
+    },
+    {
+      "width": 650,
+      "height": 250,
+      "title": {
+        "text": "Exact Coverage Comparison",
+        "fontSize": 18,
+        "anchor": "middle"
+      },
+      "layer": [
+        {
+          "mark": {
+            "type": "bar",
+            "cornerRadiusEnd": 5
+          },
+          "encoding": {
+            "y": {
+              "field": "IBRA Region Name",
+              "type": "nominal",
+              "sort": {
+                "field": "% IBRA Region Protected",
+                "order": "descending"
+              },
+              "axis": {
+                "title": null,
+                "labelLimit": 180
+              }
+            },
+            "x": {
+              "field": "% IBRA Region Protected",
+              "type": "quantitative",
+              "title": "Area protected (%)",
+              "scale": {
+                "domain": [0, 100]
+              },
+              "axis": {
+                "format": ".0f",
+                "tickCount": 6
+              }
+            },
+            "color": {
+              "field": "IBRA Region Name",
+              "type": "nominal",
+              "title": "IBRA Region",
+              "scale": {
+                "domain": [
+                  "Arnhem Plateau",
+                  "Australian Alps",
+                  "Central Ranges",
+                  "Northern Kimberley",
+                  "Tasmanian West"
+                ],
+                "range": [
+                  "#bece9f",
+                  "#f7c387",
+                  "#819b8e",
+                  "#e8cad4",
+                  "#bacdf2"
+                ]
+              },
+              "legend": null
+            },
+            "opacity": {
+              "condition": {
+                "param": "regionSelect",
+                "value": 1,
+                "empty": true
+              },
+              "value": 0.25
+            },
+            "tooltip": [
+              {
+                "field": "IBRA Region Name",
+                "type": "nominal",
+                "title": "Bioregion"
+              },
+              {
+                "field": "% IBRA Region Protected",
+                "type": "quantitative",
+                "title": "Area protected (%)",
+                "format": ".2f"
+              }
+            ]
+          }
+        },
+        {
+          "mark": {
+            "type": "text",
+            "align": "left",
+            "baseline": "middle",
+            "dx": 5,
+            "fontSize": 12,
+            "fontWeight": "bold"
+          },
+          "encoding": {
+            "y": {
+              "field": "IBRA Region Name",
+              "type": "nominal",
+              "sort": {
+                "field": "% IBRA Region Protected",
+                "order": "descending"
+              }
+            },
+            "x": {
+              "field": "% IBRA Region Protected",
+              "type": "quantitative"
+            },
+            "text": {
+              "field": "% IBRA Region Protected",
+              "type": "quantitative",
+              "format": ".2f"
+            },
+            "opacity": {
+              "condition": {
+                "param": "regionSelect",
+                "value": 1,
+                "empty": true
+              },
+              "value": 0.25
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "spacing": 30,
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelFontSize": 12,
+      "titleFontSize": 13,
+      "gridColor": "#e5e7eb"
+    },
+    "legend": {
+      "labelFontSize": 12,
+      "titleFontSize": 13
+    }
+  }
+}

@@ -1,36 +1,66 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 
-    "title": { "text": "Terrestrial Protected Areas Coverage" },
+    "title": { "text": "Terrestrial Protected Areas Coverage Rankings" },
 
     "data": {
         "url": "json_data/t_pa.json"
     },
     "width": 600,
-    "height": 800,
+    "height": 500,
+
+"transform": [
+    {
+        "window": [
+            {
+                "op": "row_number",
+                "as": "Rank"
+            }
+        ],
+        "sort": [
+            {
+                "field": "Percentage of Protected Area/Assigned area",
+                "order": "descending"
+            },
+            {
+                "field": "State Full Name",
+                "order": "ascending"
+            }
+        ],
+        "groupby": ["Year"]
+    }
+],
+
     "mark": {
         "type": "line",
-        "strokeWidth": 3
+        "strokeWidth": 3,
+        "point": {
+            "filled": true,
+            "size": 70
+        }
     },
     "encoding": {
         "x": {
             "field": "Year",
             "type": "ordinal",
-            "title":"Year"
-        },
-        "y": {
-            "field": "Percentage of Protected Area/Assigned area",
-            "type": "quantitative",
-            "scale": {
-                "zero": true,
-                "nice": true
-            },
+            "title":"Year",
             "axis": {
-                "title": "Coverage of Protected Areas",
-                "format": ".2f",
-                "tickCount": 10
+                "labelAngle": 0
             }
         },
+        "y": {
+            "field": "Rank",
+            "type": "quantitative",
+            "scale": {
+                "reverse": true,
+                "zero": false
+            },
+            "axis": {
+                "title": "Rank",
+                "tickMinStep": 1
+            }
+        },
+
         "color": {
             "field": "State Full Name",
             "type": "nominal",
@@ -51,11 +81,12 @@
                     "#ff9da6",
                     "#4c78a8",
                     "#f58518",
-                    "#72b7b2",
+                    "#6b705c",
                     "#b279a2",
                     "#eecb3b",
                     "#663518",
-                    "#6b705c"
+                    "#72b7b2"
+
                 ]
             },
             "legend": {
@@ -66,16 +97,21 @@
         "detail": {"field": "State Full Name"},
         "order": {
             "field": "Year",
-            "type": "quantitative"
+            "type": "ordinal"
         },
         "tooltip": [
             {"field": "State Full Name", "type": "nominal", "title": "State"},
-            {"field": "Year", "type": "quantitative", "title": "Year", "format": "d"},
+            {"field": "Year", "type": "ordinal", "title": "Year", "format": "d"},
             {
                 "field": "Percentage of Protected Area/Assigned area",
                 "type": "quantitative",
                 "title": "Percentage of coverage",
                 "format": ".3f"
+            },
+            {
+                "field": "Rank",
+                "type": "quantitative",
+                "title": "Rank"
             }
         ]
     }

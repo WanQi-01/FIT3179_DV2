@@ -1,9 +1,9 @@
 
 
 
-var chart1_choro = "";
-var chart2_choro = "";
-var chart3_choro = "";
+var chart1_choro = "json_data/vg/choropleth.vg.json";
+var chart2_radbartop5 = "json_data/vg/IBRA_biore_top5.vg.json";
+var chart3_radbarlowest5 = "json_data/vg/IBRA_biore_lowest5.vg.json";
 
 
 
@@ -32,6 +32,12 @@ var chart10 = "json_data/vg/m_donut.vg.json";
 var chart11 = "json_data/vg/t_donut.vg.json";
 
 // call the vis
+vegaEmbed("#choropleth_t", chart1_choro).then(function(result) {}).catch(console.error);
+
+vegaEmbed("#IBRA_top5", chart2_radbartop5).then(function(result) {}).catch(console.error);
+vegaEmbed("#IBRA_lowest5", chart3_radbarlowest5).then(function(result) {}).catch(console.error);
+
+
 vegaEmbed("#heatmap_m", chart4).then(function(result) {
 
 }).catch(console.error);

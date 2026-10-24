@@ -1,0 +1,714 @@
+[
+  {
+    "IBRA Region Name": "Arnhem Coast",
+    "IBRA Region Code": "ARC",
+    "IBRA Area (ha)": 3335668.563999999,
+    "Area Protected (ha)": 1809069.229053661,
+    "% IBRA Region Protected": 54.23408214406944,
+    "Contribution to NRS (%)": 1.043914707092517
+  },
+  {
+    "IBRA Region Name": "Arnhem Plateau",
+    "IBRA Region Code": "ARP",
+    "IBRA Area (ha)": 2306022.605,
+    "Area Protected (ha)": 1728646.654232366,
+    "% IBRA Region Protected": 74.96225971437804,
+    "Contribution to NRS (%)": 0.9975072466759158
+  },
+  {
+    "IBRA Region Name": "Australian Alps",
+    "IBRA Region Code": "AUA",
+    "IBRA Area (ha)": 1232986.28,
+    "Area Protected (ha)": 789186.7194381033,
+    "% IBRA Region Protected": 64.00612336400883,
+    "Contribution to NRS (%)": 0.4553964048653302
+  },
+  {
+    "IBRA Region Name": "Avon Wheatbelt",
+    "IBRA Region Code": "AVW",
+    "IBRA Area (ha)": 9517104.300999999,
+    "Area Protected (ha)": 425499.2515990164,
+    "% IBRA Region Protected": 4.470889864623082,
+    "Contribution to NRS (%)": 0.2455322988570366
+  },
+  {
+    "IBRA Region Name": "Ben Lomond",
+    "IBRA Region Code": "BEL",
+    "IBRA Area (ha)": 657499.644,
+    "Area Protected (ha)": 107167.5140203818,
+    "% IBRA Region Protected": 16.29925050124921,
+    "Contribution to NRS (%)": 0.06184049908744626
+  },
+  {
+    "IBRA Region Name": "Brigalow Belt North",
+    "IBRA Region Code": "BBN",
+    "IBRA Area (ha)": 13674532.531,
+    "Area Protected (ha)": 329113.005750548,
+    "% IBRA Region Protected": 2.406758732003839,
+    "Contribution to NRS (%)": 0.1899130787704257
+  },
+  {
+    "IBRA Region Name": "Brigalow Belt South",
+    "IBRA Region Code": "BBS",
+    "IBRA Area (ha)": 27219895.217,
+    "Area Protected (ha)": 1501809.318211809,
+    "% IBRA Region Protected": 5.517322187463326,
+    "Contribution to NRS (%)": 0.8666118517476538
+  },
+  {
+    "IBRA Region Name": "Broken Hill Complex",
+    "IBRA Region Code": "BHC",
+    "IBRA Area (ha)": 5635422.247,
+    "Area Protected (ha)": 328109.8033521458,
+    "% IBRA Region Protected": 5.822275403175229,
+    "Contribution to NRS (%)": 0.1893341856462358
+  },
+  {
+    "IBRA Region Name": "Burt Plain",
+    "IBRA Region Code": "BRT",
+    "IBRA Area (ha)": 7379719.218999999,
+    "Area Protected (ha)": 493241.275255257,
+    "% IBRA Region Protected": 6.683740405533946,
+    "Contribution to NRS (%)": 0.284622508146568
+  },
+  {
+    "IBRA Region Name": "Cape York Peninsula",
+    "IBRA Region Code": "CYP",
+    "IBRA Area (ha)": 12256457.235,
+    "Area Protected (ha)": 4752326.347900632,
+    "% IBRA Region Protected": 38.77406216806036,
+    "Contribution to NRS (%)": 2.742307086872452
+  },
+  {
+    "IBRA Region Name": "Carnarvon",
+    "IBRA Region Code": "CAR",
+    "IBRA Area (ha)": 8430171.732,
+    "Area Protected (ha)": 1230854.846310506,
+    "% IBRA Region Protected": 14.60059042022023,
+    "Contribution to NRS (%)": 0.7102588755167664
+  },
+  {
+    "IBRA Region Name": "Central Arnhem",
+    "IBRA Region Code": "CEA",
+    "IBRA Area (ha)": 3462433.034,
+    "Area Protected (ha)": 1179902.476470755,
+    "% IBRA Region Protected": 34.07726488525512,
+    "Contribution to NRS (%)": 0.68085705529745
+  },
+  {
+    "IBRA Region Name": "Central Kimberley",
+    "IBRA Region Code": "CEK",
+    "IBRA Area (ha)": 7675587.489,
+    "Area Protected (ha)": 2385269.587155493,
+    "% IBRA Region Protected": 31.07605236177502,
+    "Contribution to NRS (%)": 1.376408355425217
+  },
+  {
+    "IBRA Region Name": "Central Mackay Coast",
+    "IBRA Region Code": "CMC",
+    "IBRA Area (ha)": 1464207.903,
+    "Area Protected (ha)": 219669.7877411229,
+    "% IBRA Region Protected": 15.00263639412435,
+    "Contribution to NRS (%)": 0.1267593956295454
+  },
+  {
+    "IBRA Region Name": "Central Ranges",
+    "IBRA Region Code": "CER",
+    "IBRA Area (ha)": 10164043.99,
+    "Area Protected (ha)": 8265172.546130496,
+    "% IBRA Region Protected": 81.31775653728252,
+    "Contribution to NRS (%)": 4.769378108363701
+  },
+  {
+    "IBRA Region Name": "Channel Country",
+    "IBRA Region Code": "CHC",
+    "IBRA Area (ha)": 30409436.97600001,
+    "Area Protected (ha)": 3357358.941522954,
+    "% IBRA Region Protected": 11.040516613881,
+    "Contribution to NRS (%)": 1.937347847034999
+  },
+  {
+    "IBRA Region Name": "Cobar Peneplain",
+    "IBRA Region Code": "COP",
+    "IBRA Area (ha)": 7385346.396,
+    "Area Protected (ha)": 240526.8555202211,
+    "% IBRA Region Protected": 3.256812106342007,
+    "Contribution to NRS (%)": 0.1387948663853084
+  },
+  {
+    "IBRA Region Name": "Coolgardie",
+    "IBRA Region Code": "COO",
+    "IBRA Area (ha)": 12912208.812,
+    "Area Protected (ha)": 4857338.067308347,
+    "% IBRA Region Protected": 37.61818088624903,
+    "Contribution to NRS (%)": 2.802903595036007
+  },
+  {
+    "IBRA Region Name": "Coral Sea",
+    "IBRA Region Code": "COS",
+    "IBRA Area (ha)": 17167.103,
+    "Area Protected (ha)": 0,
+    "% IBRA Region Protected": 0,
+    "Contribution to NRS (%)": 0
+  },
+  {
+    "IBRA Region Name": "Daly Basin",
+    "IBRA Region Code": "DAB",
+    "IBRA Area (ha)": 2092228.955,
+    "Area Protected (ha)": 219031.4058783966,
+    "% IBRA Region Protected": 10.46880674100969,
+    "Contribution to NRS (%)": 0.1263910204427154
+  },
+  {
+    "IBRA Region Name": "Dampierland",
+    "IBRA Region Code": "DAL",
+    "IBRA Area (ha)": 8360871.27,
+    "Area Protected (ha)": 1237418.617226077,
+    "% IBRA Region Protected": 14.80011564902466,
+    "Contribution to NRS (%)": 0.7140464679884678
+  },
+  {
+    "IBRA Region Name": "Darling Riverine Plains",
+    "IBRA Region Code": "DRP",
+    "IBRA Area (ha)": 10699767.931,
+    "Area Protected (ha)": 325635.1914693044,
+    "% IBRA Region Protected": 3.043385553492752,
+    "Contribution to NRS (%)": 0.1879062227483232
+  },
+  {
+    "IBRA Region Name": "Darwin Coastal",
+    "IBRA Region Code": "DAC",
+    "IBRA Area (ha)": 2843199.435,
+    "Area Protected (ha)": 878565.5159442143,
+    "% IBRA Region Protected": 30.90059406769031,
+    "Contribution to NRS (%)": 0.5069720099756811
+  },
+  {
+    "IBRA Region Name": "Davenport Murchison Ranges",
+    "IBRA Region Code": "DMR",
+    "IBRA Area (ha)": 5805108.121,
+    "Area Protected (ha)": 129828.9759000611,
+    "% IBRA Region Protected": 2.236460944291533,
+    "Contribution to NRS (%)": 0.07491718678987798
+  },
+  {
+    "IBRA Region Name": "Desert Uplands",
+    "IBRA Region Code": "DEU",
+    "IBRA Area (ha)": 6941095.455999999,
+    "Area Protected (ha)": 233814.8910628851,
+    "% IBRA Region Protected": 3.368558933457277,
+    "Contribution to NRS (%)": 0.1349217595423157
+  },
+  {
+    "IBRA Region Name": "Einasleigh Uplands",
+    "IBRA Region Code": "EIU",
+    "IBRA Area (ha)": 11625726.308,
+    "Area Protected (ha)": 937043.1981650536,
+    "% IBRA Region Protected": 8.060083072145325,
+    "Contribution to NRS (%)": 0.5407162755497246
+  },
+  {
+    "IBRA Region Name": "Esperance Plains",
+    "IBRA Region Code": "ESP",
+    "IBRA Area (ha)": 2921327.487,
+    "Area Protected (ha)": 855728.7909607985,
+    "% IBRA Region Protected": 29.29246360665892,
+    "Contribution to NRS (%)": 0.4937941875412762
+  },
+  {
+    "IBRA Region Name": "Eyre Yorke Block",
+    "IBRA Region Code": "EYB",
+    "IBRA Area (ha)": 6120408.651000001,
+    "Area Protected (ha)": 928334.9666559001,
+    "% IBRA Region Protected": 15.16785920012418,
+    "Contribution to NRS (%)": 0.5356912323953908
+  },
+  {
+    "IBRA Region Name": "Finke",
+    "IBRA Region Code": "FIN",
+    "IBRA Area (ha)": 7267416.172999999,
+    "Area Protected (ha)": 334543.9414463222,
+    "% IBRA Region Protected": 4.603340905248062,
+    "Contribution to NRS (%)": 0.1930469741211625
+  },
+  {
+    "IBRA Region Name": "Flinders Lofty Block",
+    "IBRA Region Code": "FLB",
+    "IBRA Area (ha)": 6615765.033,
+    "Area Protected (ha)": 602444.37162473,
+    "% IBRA Region Protected": 9.106193593933371,
+    "Contribution to NRS (%)": 0.3476376302487597
+  },
+  {
+    "IBRA Region Name": "Furneaux",
+    "IBRA Region Code": "FUR",
+    "IBRA Area (ha)": 537542.625,
+    "Area Protected (ha)": 184954.1527667465,
+    "% IBRA Region Protected": 34.40734635076548,
+    "Contribution to NRS (%)": 0.106726905256159
+  },
+  {
+    "IBRA Region Name": "Gascoyne",
+    "IBRA Region Code": "GAS",
+    "IBRA Area (ha)": 18075257.304,
+    "Area Protected (ha)": 2908907.66437261,
+    "% IBRA Region Protected": 16.09331261762386,
+    "Contribution to NRS (%)": 1.678571192104797
+  },
+  {
+    "IBRA Region Name": "Gawler",
+    "IBRA Region Code": "GAW",
+    "IBRA Area (ha)": 12002882.873,
+    "Area Protected (ha)": 1963876.217458663,
+    "% IBRA Region Protected": 16.36170441916352,
+    "Contribution to NRS (%)": 1.133245335993446
+  },
+  {
+    "IBRA Region Name": "Geraldton Sandplains",
+    "IBRA Region Code": "GES",
+    "IBRA Area (ha)": 3142149.443,
+    "Area Protected (ha)": 599425.9034732718,
+    "% IBRA Region Protected": 19.07693807526111,
+    "Contribution to NRS (%)": 0.345895837703957
+  },
+  {
+    "IBRA Region Name": "Gibson Desert",
+    "IBRA Region Code": "GID",
+    "IBRA Area (ha)": 15628918.477,
+    "Area Protected (ha)": 9127291.641470961,
+    "% IBRA Region Protected": 58.40002080056254,
+    "Contribution to NRS (%)": 5.266859790345541
+  },
+  {
+    "IBRA Region Name": "Great Sandy Desert",
+    "IBRA Region Code": "GSD",
+    "IBRA Area (ha)": 39486135.498,
+    "Area Protected (ha)": 19709622.34069515,
+    "% IBRA Region Protected": 49.91529834995742,
+    "Contribution to NRS (%)": 11.3733428783452
+  },
+  {
+    "IBRA Region Name": "Great Victoria Desert",
+    "IBRA Region Code": "GVD",
+    "IBRA Area (ha)": 42246564.192,
+    "Area Protected (ha)": 18151680.41448583,
+    "% IBRA Region Protected": 42.96605123197952,
+    "Contribution to NRS (%)": 10.47433997483735
+  },
+  {
+    "IBRA Region Name": "Gulf Coastal",
+    "IBRA Region Code": "GUC",
+    "IBRA Area (ha)": 2711718.443,
+    "Area Protected (ha)": 717328.9188899081,
+    "% IBRA Region Protected": 26.45292769024797,
+    "Contribution to NRS (%)": 0.4139312062942275
+  },
+  {
+    "IBRA Region Name": "Gulf Fall and Uplands",
+    "IBRA Region Code": "GFU",
+    "IBRA Area (ha)": 11847908.986,
+    "Area Protected (ha)": 2890527.578077396,
+    "% IBRA Region Protected": 24.3969427980327,
+    "Contribution to NRS (%)": 1.667965051613844
+  },
+  {
+    "IBRA Region Name": "Gulf Plains",
+    "IBRA Region Code": "GUP",
+    "IBRA Area (ha)": 22041825.129,
+    "Area Protected (ha)": 1644177.032426942,
+    "% IBRA Region Protected": 7.459350679013103,
+    "Contribution to NRS (%)": 0.9487644572408473
+  },
+  {
+    "IBRA Region Name": "Hampton",
+    "IBRA Region Code": "HAM",
+    "IBRA Area (ha)": 1088197.581,
+    "Area Protected (ha)": 159317.1309200773,
+    "% IBRA Region Protected": 14.64045994052593,
+    "Contribution to NRS (%)": 0.09193318497062301
+  },
+  {
+    "IBRA Region Name": "Indian Tropical Islands",
+    "IBRA Region Code": "ITI",
+    "IBRA Area (ha)": 27329.15,
+    "Area Protected (ha)": 8670.23966266331,
+    "% IBRA Region Protected": 31.72524451972824,
+    "Contribution to NRS (%)": 0.005003120141845395
+  },
+  {
+    "IBRA Region Name": "Jarrah Forest",
+    "IBRA Region Code": "JAF",
+    "IBRA Area (ha)": 4509074.139,
+    "Area Protected (ha)": 673978.0631847862,
+    "% IBRA Region Protected": 14.94714973425249,
+    "Contribution to NRS (%)": 0.3889158032854133
+  },
+  {
+    "IBRA Region Name": "Kanmantoo",
+    "IBRA Region Code": "KAN",
+    "IBRA Area (ha)": 812414.86,
+    "Area Protected (ha)": 166964.8841855219,
+    "% IBRA Region Protected": 20.55167777033546,
+    "Contribution to NRS (%)": 0.09634628424941004
+  },
+  {
+    "IBRA Region Name": "King",
+    "IBRA Region Code": "KIN",
+    "IBRA Area (ha)": 425566.536,
+    "Area Protected (ha)": 84576.60362743677,
+    "% IBRA Region Protected": 19.87388492112001,
+    "Contribution to NRS (%)": 0.0488045227814754
+  },
+  {
+    "IBRA Region Name": "Little Sandy Desert",
+    "IBRA Region Code": "LSD",
+    "IBRA Area (ha)": 11089856.834,
+    "Area Protected (ha)": 5250145.019897512,
+    "% IBRA Region Protected": 47.34186471913035,
+    "Contribution to NRS (%)": 3.029570959817026
+  },
+  {
+    "IBRA Region Name": "MacDonnell Ranges",
+    "IBRA Region Code": "MAC",
+    "IBRA Area (ha)": 3929443.543,
+    "Area Protected (ha)": 579747.8053584056,
+    "% IBRA Region Protected": 14.75394159539921,
+    "Contribution to NRS (%)": 0.3345406857286707
+  },
+  {
+    "IBRA Region Name": "Mallee",
+    "IBRA Region Code": "MAL",
+    "IBRA Area (ha)": 7397559.257,
+    "Area Protected (ha)": 2356860.616434805,
+    "% IBRA Region Protected": 31.85997616990504,
+    "Contribution to NRS (%)": 1.360015095359542
+  },
+  {
+    "IBRA Region Name": "Mitchell Grass Downs",
+    "IBRA Region Code": "MGD",
+    "IBRA Area (ha)": 33468761.924,
+    "Area Protected (ha)": 522717.7090710061,
+    "% IBRA Region Protected": 1.561807724641802,
+    "Contribution to NRS (%)": 0.3016317426627043
+  },
+  {
+    "IBRA Region Name": "Mount Isa Inlier",
+    "IBRA Region Code": "MII",
+    "IBRA Area (ha)": 6778261.447,
+    "Area Protected (ha)": 437409.6500587168,
+    "% IBRA Region Protected": 6.453124499237345,
+    "Contribution to NRS (%)": 0.2524051370656205
+  },
+  {
+    "IBRA Region Name": "Mulga Lands",
+    "IBRA Region Code": "MUL",
+    "IBRA Area (ha)": 25188333.429,
+    "Area Protected (ha)": 1252463.593874426,
+    "% IBRA Region Protected": 4.972395642628866,
+    "Contribution to NRS (%)": 0.7227280994809735
+  },
+  {
+    "IBRA Region Name": "Murchison",
+    "IBRA Region Code": "MUR",
+    "IBRA Area (ha)": 28120554.324,
+    "Area Protected (ha)": 1967617.737339869,
+    "% IBRA Region Protected": 6.997080195039292,
+    "Contribution to NRS (%)": 1.135404362065054
+  },
+  {
+    "IBRA Region Name": "Murray Darling Depression",
+    "IBRA Region Code": "MDD",
+    "IBRA Area (ha)": 19958366.568,
+    "Area Protected (ha)": 3473087.703259796,
+    "% IBRA Region Protected": 17.40166306409227,
+    "Contribution to NRS (%)": 2.004128572985378
+  },
+  {
+    "IBRA Region Name": "NSW North Coast",
+    "IBRA Region Code": "NNC",
+    "IBRA Area (ha)": 3996472.867,
+    "Area Protected (ha)": 1060807.313892711,
+    "% IBRA Region Protected": 26.54358853908645,
+    "Contribution to NRS (%)": 0.6121337639152679
+  },
+  {
+    "IBRA Region Name": "NSW South Western Slopes",
+    "IBRA Region Code": "NSS",
+    "IBRA Area (ha)": 8681087.613,
+    "Area Protected (ha)": 289691.3358036173,
+    "% IBRA Region Protected": 3.337039651227596,
+    "Contribution to NRS (%)": 0.1671649935259071
+  },
+  {
+    "IBRA Region Name": "Nandewar",
+    "IBRA Region Code": "NAN",
+    "IBRA Area (ha)": 2701960.996,
+    "Area Protected (ha)": 123944.7880109545,
+    "% IBRA Region Protected": 4.587216032890301,
+    "Contribution to NRS (%)": 0.07152174443859366
+  },
+  {
+    "IBRA Region Name": "Naracoorte Coastal Plain",
+    "IBRA Region Code": "NCP",
+    "IBRA Area (ha)": 2458214.72,
+    "Area Protected (ha)": 237676.8036060812,
+    "% IBRA Region Protected": 9.668675468922473,
+    "Contribution to NRS (%)": 0.1371502576211075
+  },
+  {
+    "IBRA Region Name": "New England Tablelands",
+    "IBRA Region Code": "NET",
+    "IBRA Area (ha)": 3002228.965000001,
+    "Area Protected (ha)": 322108.5301173538,
+    "% IBRA Region Protected": 10.72897949731671,
+    "Contribution to NRS (%)": 0.1858711797587512
+  },
+  {
+    "IBRA Region Name": "Northern Kimberley",
+    "IBRA Region Code": "NOK",
+    "IBRA Area (ha)": 8420100.389,
+    "Area Protected (ha)": 5199177.570120863,
+    "% IBRA Region Protected": 61.74721594665375,
+    "Contribution to NRS (%)": 3.000160437792573
+  },
+  {
+    "IBRA Region Name": "Nullarbor",
+    "IBRA Region Code": "NUL",
+    "IBRA Area (ha)": 19722773.667,
+    "Area Protected (ha)": 10834532.23689635,
+    "% IBRA Region Protected": 54.93412042254791,
+    "Contribution to NRS (%)": 6.252014773630641
+  },
+  {
+    "IBRA Region Name": "Ord Victoria Plain",
+    "IBRA Region Code": "OVP",
+    "IBRA Area (ha)": 12540703.269,
+    "Area Protected (ha)": 1487820.187725315,
+    "% IBRA Region Protected": 11.86392944487518,
+    "Contribution to NRS (%)": 0.8585394912101154
+  },
+  {
+    "IBRA Region Name": "Pacific Subtropical Islands",
+    "IBRA Region Code": "PSI",
+    "IBRA Area (ha)": 5816.52,
+    "Area Protected (ha)": 1983.24832560618,
+    "% IBRA Region Protected": 34.09681950042602,
+    "Contribution to NRS (%)": 0.001144423917928178
+  },
+  {
+    "IBRA Region Name": "Pilbara",
+    "IBRA Region Code": "PIL",
+    "IBRA Area (ha)": 17823125.773,
+    "Area Protected (ha)": 1565212.581606551,
+    "% IBRA Region Protected": 8.781919633747234,
+    "Contribution to NRS (%)": 0.9031984002735243
+  },
+  {
+    "IBRA Region Name": "Pine Creek",
+    "IBRA Region Code": "PCK",
+    "IBRA Area (ha)": 2851777.206,
+    "Area Protected (ha)": 1217058.910735803,
+    "% IBRA Region Protected": 42.67720873058284,
+    "Contribution to NRS (%)": 0.7022979971748873
+  },
+  {
+    "IBRA Region Name": "Riverina",
+    "IBRA Region Code": "RIV",
+    "IBRA Area (ha)": 9704502.651,
+    "Area Protected (ha)": 627711.0891915015,
+    "% IBRA Region Protected": 6.468245841808483,
+    "Contribution to NRS (%)": 0.362217668228679
+  },
+  {
+    "IBRA Region Name": "Simpson Strzelecki Dunefields",
+    "IBRA Region Code": "SSD",
+    "IBRA Area (ha)": 27984282.69,
+    "Area Protected (ha)": 8640901.570370698,
+    "% IBRA Region Protected": 30.87769540528,
+    "Contribution to NRS (%)": 4.986190736640533
+  },
+  {
+    "IBRA Region Name": "South East Coastal Plain",
+    "IBRA Region Code": "SCP",
+    "IBRA Area (ha)": 1749236.993,
+    "Area Protected (ha)": 162453.0653640191,
+    "% IBRA Region Protected": 9.28708151120259,
+    "Contribution to NRS (%)": 0.09374276087514569
+  },
+  {
+    "IBRA Region Name": "South East Corner",
+    "IBRA Region Code": "SEC",
+    "IBRA Area (ha)": 2532053.089,
+    "Area Protected (ha)": 932854.98126962,
+    "% IBRA Region Protected": 36.84184132324171,
+    "Contribution to NRS (%)": 0.5382994851121781
+  },
+  {
+    "IBRA Region Name": "South Eastern Highlands",
+    "IBRA Region Code": "SEH",
+    "IBRA Area (ha)": 8375942.925,
+    "Area Protected (ha)": 1584083.489405262,
+    "% IBRA Region Protected": 18.91230042503259,
+    "Contribution to NRS (%)": 0.9140877669549565
+  },
+  {
+    "IBRA Region Name": "South Eastern Queensland",
+    "IBRA Region Code": "SEQ",
+    "IBRA Area (ha)": 7804921.058999998,
+    "Area Protected (ha)": 1155826.813840255,
+    "% IBRA Region Protected": 14.80894944488196,
+    "Contribution to NRS (%)": 0.6669643098461752
+  },
+  {
+    "IBRA Region Name": "Southern Volcanic Plain",
+    "IBRA Region Code": "SVP",
+    "IBRA Area (ha)": 2440340.375,
+    "Area Protected (ha)": 55928.26788543472,
+    "% IBRA Region Protected": 2.291822421920742,
+    "Contribution to NRS (%)": 0.03227313828026179
+  },
+  {
+    "IBRA Region Name": "Stony Plains",
+    "IBRA Region Code": "STP",
+    "IBRA Area (ha)": 13166371.956,
+    "Area Protected (ha)": 1175979.440370271,
+    "% IBRA Region Protected": 8.9316893393276,
+    "Contribution to NRS (%)": 0.6785932861635883
+  },
+  {
+    "IBRA Region Name": "Sturt Plateau",
+    "IBRA Region Code": "STU",
+    "IBRA Area (ha)": 9857530.832,
+    "Area Protected (ha)": 68871.72200138262,
+    "% IBRA Region Protected": 0.6986711294658886,
+    "Contribution to NRS (%)": 0.03974209629204742
+  },
+  {
+    "IBRA Region Name": "Subantarctic Islands",
+    "IBRA Region Code": "SAI",
+    "IBRA Area (ha)": 49163.837,
+    "Area Protected (ha)": 0,
+    "% IBRA Region Protected": 0,
+    "Contribution to NRS (%)": 0
+  },
+  {
+    "IBRA Region Name": "Swan Coastal Plain",
+    "IBRA Region Code": "SWA",
+    "IBRA Area (ha)": 1525798.377,
+    "Area Protected (ha)": 176391.2662621961,
+    "% IBRA Region Protected": 11.5605881433046,
+    "Contribution to NRS (%)": 0.1017857327384328
+  },
+  {
+    "IBRA Region Name": "Sydney Basin",
+    "IBRA Region Code": "SYB",
+    "IBRA Area (ha)": 3629596.617,
+    "Area Protected (ha)": 1549185.336232935,
+    "% IBRA Region Protected": 42.68202502109989,
+    "Contribution to NRS (%)": 0.8939499553323375
+  },
+  {
+    "IBRA Region Name": "Tanami",
+    "IBRA Region Code": "TAN",
+    "IBRA Area (ha)": 25997277.47,
+    "Area Protected (ha)": 11608907.58758115,
+    "% IBRA Region Protected": 44.65432044173644,
+    "Contribution to NRS (%)": 6.698864349316952
+  },
+  {
+    "IBRA Region Name": "Tasmanian Central Highlands",
+    "IBRA Region Code": "TCH",
+    "IBRA Area (ha)": 767849.44,
+    "Area Protected (ha)": 467482.1928200769,
+    "% IBRA Region Protected": 60.88201260133457,
+    "Contribution to NRS (%)": 0.2697583533848624
+  },
+  {
+    "IBRA Region Name": "Tasmanian Northern Midlands",
+    "IBRA Region Code": "TNM",
+    "IBRA Area (ha)": 415444.516,
+    "Area Protected (ha)": 28003.71670457159,
+    "% IBRA Region Protected": 6.740663464329276,
+    "Contribution to NRS (%)": 0.01615941018268657
+  },
+  {
+    "IBRA Region Name": "Tasmanian Northern Slopes",
+    "IBRA Region Code": "TNS",
+    "IBRA Area (ha)": 623103.45,
+    "Area Protected (ha)": 101950.1571582189,
+    "% IBRA Region Protected": 16.36167431880195,
+    "Contribution to NRS (%)": 0.05882984837652185
+  },
+  {
+    "IBRA Region Name": "Tasmanian South East",
+    "IBRA Region Code": "TSE",
+    "IBRA Area (ha)": 1106928.274,
+    "Area Protected (ha)": 176205.3124195755,
+    "% IBRA Region Protected": 15.91840379890554,
+    "Contribution to NRS (%)": 0.1016784289669494
+  },
+  {
+    "IBRA Region Name": "Tasmanian Southern Ranges",
+    "IBRA Region Code": "TSR",
+    "IBRA Area (ha)": 782121.343,
+    "Area Protected (ha)": 425194.5198746981,
+    "% IBRA Region Protected": 54.36426504406211,
+    "Contribution to NRS (%)": 0.2453564548795787
+  },
+  {
+    "IBRA Region Name": "Tasmanian West",
+    "IBRA Region Code": "TWE",
+    "IBRA Area (ha)": 1565077.425,
+    "Area Protected (ha)": 1350553.630456916,
+    "% IBRA Region Protected": 86.29308741431217,
+    "Contribution to NRS (%)": 0.7793304838249211
+  },
+  {
+    "IBRA Region Name": "Tiwi Cobourg",
+    "IBRA Region Code": "TIW",
+    "IBRA Area (ha)": 1010579.627,
+    "Area Protected (ha)": 204361.1699341752,
+    "% IBRA Region Protected": 20.22217393604505,
+    "Contribution to NRS (%)": 0.117925631273114
+  },
+  {
+    "IBRA Region Name": "Victoria Bonaparte",
+    "IBRA Region Code": "VIB",
+    "IBRA Area (ha)": 7301242.120999999,
+    "Area Protected (ha)": 1275388.519017367,
+    "% IBRA Region Protected": 17.46810334297866,
+    "Contribution to NRS (%)": 0.7359568173936814
+  },
+  {
+    "IBRA Region Name": "Victorian Midlands",
+    "IBRA Region Code": "VIM",
+    "IBRA Area (ha)": 3469788.616,
+    "Area Protected (ha)": 403912.1156698558,
+    "% IBRA Region Protected": 11.64082773824674,
+    "Contribution to NRS (%)": 0.2330755457828359
+  },
+  {
+    "IBRA Region Name": "Warren",
+    "IBRA Region Code": "WAR",
+    "IBRA Area (ha)": 844771.083,
+    "Area Protected (ha)": 396540.4824581945,
+    "% IBRA Region Protected": 46.94058431190341,
+    "Contribution to NRS (%)": 0.2288217802544872
+  },
+  {
+    "IBRA Region Name": "Wet Tropics",
+    "IBRA Region Code": "WET",
+    "IBRA Area (ha)": 1989106.737,
+    "Area Protected (ha)": 1064943.590226487,
+    "% IBRA Region Protected": 53.53878554715724,
+    "Contribution to NRS (%)": 0.614520582301254
+  },
+  {
+    "IBRA Region Name": "Yalgoo",
+    "IBRA Region Code": "YAL",
+    "IBRA Area (ha)": 5087577.33,
+    "Area Protected (ha)": 1809006.968978194,
+    "% IBRA Region Protected": 35.55733606860368,
+    "Contribution to NRS (%)": 1.043878780215092
+  }
+]
