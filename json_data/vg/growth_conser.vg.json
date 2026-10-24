@@ -1,0 +1,83 @@
+
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Growth in protected area coverage over time for marine and terrestrial areas.",
+  "data": {
+    "url": "json_data/final_annual_growth_conser.json"
+  },
+  "mark": {
+    "type": "line",
+    "point": {
+      "filled": true,
+      "size": 70
+    },
+    "strokeWidth": 2,
+    "tooltip": true
+  },
+  "encoding": {
+    "x": {
+      "field": "Year",
+      "type": "quantitative",
+      "axis": {
+        "title": "Year",
+        "format": "d",
+        "tickMinStep": 1
+      },
+      "scale": {
+        "zero": false
+      }
+    },
+    "y": {
+      "field": "Growth in Coverage (%)",
+      "type": "quantitative",
+      "axis": {
+        "title": "Growth in Coverage (%)",
+        "format": ",.1f"
+      }
+    },
+    "color": {
+      "field": "Marine/Terrestrial",
+      "type": "nominal",
+      "scale": {
+        "domain": ["M", "T"],
+        "range": ["#2878B5", "#E07A3F"]
+      },
+      "legend": {
+        "title": "Protected Area Type",
+        "labelExpr": "datum.label === 'M' ? 'Marine' : 'Terrestrial'"
+      }
+    },
+    "detail": {
+      "field": "Marine/Terrestrial"
+    },
+    "order": {
+      "field": "Year",
+      "type": "quantitative"
+    },
+    "tooltip": [
+      {
+        "field": "Year",
+        "type": "quantitative",
+        "title": "Year",
+        "format": "d"
+      },
+      {
+        "field": "Marine/Terrestrial",
+        "type": "nominal",
+        "title": "Type"
+      },
+      {
+        "field": "Growth in coverage",
+        "type": "quantitative",
+        "title": "Growth in Coverage (ha)",
+        "format": ",.0f"
+      },
+      {
+        "field": "Growth in Coverage (%)",
+        "type": "quantitative",
+        "title": "Growth (%)",
+        "format": ".2%"
+      }
+    ]
+  }
+}

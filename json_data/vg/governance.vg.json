@@ -1,0 +1,44 @@
+
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "100% normalised stacked bar chart of protected areas by state and IUCN category.",
+  "data": {
+    "url": "json_data/final_governance.json"
+  },
+  "mark": {
+    "type": "bar",
+    "tooltip": true
+  },
+  "encoding": {
+    "x": {
+      "field": "Governance",
+      "type": "nominal",
+      "axis": {
+        "title": "Governance Type",
+        "labelAngle": -45
+      }
+    },
+    "y": {
+      "field": "Contribution to National Reserve System (NRS) (%)",
+      "type": "quantitative",
+      "axis": {
+        "title": "Contribution to National Reserve System (NRS) (%)",
+        "format": "%"
+      }
+    },
+
+    "tooltip": [
+      {
+        "field": "Governance",
+        "type": "nominal",
+        "title": "Type of Governance"
+      },
+      {
+        "field": "Contribution to National Reserve System (NRS) (%)",
+        "type": "quantitative",
+        "title": "Contribution to NRS (%)",
+        "format": ",.2f"
+      }
+    ]
+  }
+}

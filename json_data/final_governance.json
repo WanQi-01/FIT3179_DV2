@@ -1,0 +1,34 @@
+[
+  {
+    "Governance": "Community",
+    "Number": 83,
+    "Protected Area (ha)": 85858982.42572829,
+    "% of Australia": 11.1675025489292,
+    "Contribution to National Reserve System (NRS) (%)": 49.47671379886395,
+    "Year": 2024
+  },
+  {
+    "Governance": "Government",
+    "Number": 7299,
+    "Protected Area (ha)": 66509385.46062222,
+    "% of Australia": 8.656028184114101,
+    "Contribution to National Reserve System (NRS) (%)": 38.3498304319956,
+    "Year": 2024
+  },
+  {
+    "Governance": "Joint",
+    "Number": 283,
+    "Protected Area (ha)": 10521598.33745534,
+    "% of Australia": 1.368522814185275,
+    "Contribution to National Reserve System (NRS) (%)": 6.063129272457892,
+    "Year": 2024
+  },
+  {
+    "Governance": "Private",
+    "Number": 6770,
+    "Protected Area (ha)": 10603501.62759142,
+    "% of Australia": 1.379175807914284,
+    "Contribution to National Reserve System (NRS) (%)": 6.110326496682547,
+    "Year": 2024
+  }
+]
