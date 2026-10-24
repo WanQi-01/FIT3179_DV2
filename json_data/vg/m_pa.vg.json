@@ -1,36 +1,68 @@
+
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 
-    "title": { "text": "Marine Protected Areas Coverage" },
+    "title": {
+        "text": "Marine Protected Areas Coverage Rankings"
+    },
 
     "data": {
         "url": "json_data/m_pa.json"
     },
+
     "width": 600,
-    "height": 800,
+    "height": 500,
+
+    "transform": [
+        {
+            "window": [
+                {
+                    "op": "rank",
+                    "as": "Rank"
+                }
+            ],
+            "sort": [
+                {
+                    "field": "Percentage of coverage",
+                    "order": "descending"
+                }
+            ],
+            "groupby": ["Year"]
+        }
+    ],
+
     "mark": {
         "type": "line",
-        "strokeWidth": 3
-        },
+        "strokeWidth": 3,
+        "point": {
+            "filled": true,
+            "size": 70
+        }
+    },
+
     "encoding": {
         "x": {
             "field": "Year",
             "type": "ordinal",
-            "title":"Year"
-        },
-        "y": {
-            "field": "Percentage of coverage",
-            "type": "quantitative",
-            "scale": {
-                "zero": true,
-                "nice": true
-            },
+            "title": "Year",
             "axis": {
-                "title": "Coverage of Protected Areas",
-                "format": ".2f",
-                "tickCount": 10
+                "labelAngle": 0
             }
         },
+
+        "y": {
+            "field": "Rank",
+            "type": "quantitative",
+            "scale": {
+                "reverse": true,
+                "zero": false
+            },
+            "axis": {
+                "title": "Rank",
+                "tickMinStep": 1
+            }
+        },
+
         "color": {
             "field": "State Full Name",
             "type": "nominal",
@@ -39,19 +71,37 @@
                 "orient": "right"
             }
         },
-        "detail": {"field": "State Full Name"},
+
+        "detail": {
+            "field": "State Full Name"
+        },
+
         "order": {
             "field": "Year",
-            "type": "quantitative"
+            "type": "ordinal"
         },
+
         "tooltip": [
-            {"field": "State Full Name", "type": "nominal", "title": "State"},
-            {"field": "Year", "type": "quantitative", "title": "Year", "format": "d"},
+            {
+                "field": "State Full Name",
+                "type": "nominal",
+                "title": "State"
+            },
+            {
+                "field": "Year",
+                "type": "ordinal",
+                "title": "Year"
+            },
             {
                 "field": "Percentage of coverage",
                 "type": "quantitative",
-                "title": "Percentage of coverage",
+                "title": "Coverage (%)",
                 "format": ".3f"
+            },
+            {
+                "field": "Rank",
+                "type": "quantitative",
+                "title": "Rank"
             }
         ]
     }
