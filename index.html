@@ -16,10 +16,150 @@
 </head>
 
 <body>
+    <h1>
+        Title: Is Australia Protecting Enough of its Natural Environment?
+    </h1>
+
 
     <h1>
         Bigger or More? How Has Australia's Protected-Area Network Grown??
     </h1>
+
+    <h2>
+        I - The Growth: How has Australia's Conservation Network Changed?
+    </h2>
+
+    <h3>
+        1. Australia's Protected Area Footprint
+    </h3>
+    <p>
+        Where are Australia's terrestrial and marine protected areas located?
+        Choropleth:
+        - Terrestrial: t_choro
+        - Marine: m_choro
+    </p>
+
+
+    <h3>
+        2. A Growing Conservation Network
+    </h3>
+    <p>
+        How has the total area under protection changed over time?
+        - Difference of protected area each year (dual axis/butterfly/population chart)
+        - butterfly_chart
+
+        Different states:
+        Most increase
+
+        Land vs Sea: Which Has Grown Faster?
+        How does the expansion of terrestrial protection compare with marine protection?
+    </p>
+
+    <h2>
+        II - The Growth: How has Australia's Conservation Network Changed?
+    </h2>
+
+    <h3>
+        1. State of Protection
+    </h3>
+
+    <p>
+        Which states and territories have the highest protected-area coverage?
+        - Choropleth map (percentage of coverage) #state_choro
+        take data from 2024
+    </p>
+
+    <h3>
+        2. Growth in 10 years - Land
+    </h3>
+    <p>
+        Proportional Symbol Map:
+        data:
+        final_state_growth
+
+        id:
+
+        #growth_prop_sym_m/// remove
+        #growth_prop_sym_t
+        - show the difference between states from 2016-2024 (m)
+        - 2014 - 2024 (t)
+
+    </p>
+
+    <h3>
+        Who Protects the Land?
+    </h3>
+    <p>
+        Governance in 10 years
+        data: final_gover
+        #stack_bar
+    </p>
+
+
+
+    <h3>
+        3. Terrestrial vs Marine Protection Protection by Jurisdiction
+    </h3>
+    <p>
+        Bumpchart
+        #bumpchart_m
+        #bumpchart_t
+        Are protected areas distributed evenly across Australia, or concentrated in particular regions?
+        Do states and territories show similar patterns of protection on land and at sea?
+    </p>
+
+    <h2>
+        III. What Kind of Protection does Australia Use?
+    </h2>
+
+    <h3>
+        1. How's Australia's Ocean Protected?
+    </h3>
+
+    <h3>
+        2. How's Australia's Land Protected?
+    </h3>
+
+    <p>
+        Which marine IUCN categories account for the most protected water?
+        Which IUCN management categories dominate terrestrial protection?
+        #heatmap_m
+        #heatmap_t
+    </p>
+
+    <h3>
+        3. Types of Conservations
+    </h3>
+
+    <p>
+        Which reserve types account for the largest share of protected land?
+        protected marine areas
+        waffle_m
+        waffle_t
+
+    </p>
+
+    <h3>
+        Are the Ecosystems Equally Protected?
+    </h3>
+
+    <p>
+        IBRA bioregions
+
+        The Protection Gaps: Which bioregions have the lowest representation in the protected-area network?
+
+        where should the proctection expand next?: Which bioregions combine low protection with large areas of unprotected land?
+
+
+        #IBRA_lowest5
+        #IBRA_top5
+
+    </p>
+
+
+
+
+
 
     <!-- <div id="choropleth_t">
 
