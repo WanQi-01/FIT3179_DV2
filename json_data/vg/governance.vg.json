@@ -18,6 +18,12 @@
       }
     }
   ],
+  "transform": [
+    {
+      "calculate": "datum['Contribution to National Reserve System (NRS) (%)'] / 100",
+      "as": "NRS Share"
+    }
+  ],
   "width": 700,
   "height": 400,
   "mark": {
@@ -36,7 +42,7 @@
       }
     },
     "y": {
-      "field": "Contribution to National Reserve System (NRS) (%)",
+      "field": "NRS Share",
       "type": "quantitative",
       "stack": "normalize",
       "axis": {

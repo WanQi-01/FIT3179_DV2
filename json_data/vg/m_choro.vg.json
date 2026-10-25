@@ -2,7 +2,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": {
-    "text": "Marine Protected Area Coverage by State",
+    "text": "",
     "fontSize": 15
   },
   "width": 600,
@@ -65,7 +65,8 @@
 
         },
         "legend": {
-          "title": "Protected Sea area (%)"
+          "title": "Protected Sea area (%)",
+          "orient": "top-right"
         }
       },
       "value": "#D3D3D3"

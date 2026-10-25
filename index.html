@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+    <link rel="stylesheet" href="css/style.css">
     <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
@@ -16,313 +17,500 @@
 </head>
 
 <body>
+    <main>
+        <header class="page-header">
+            <h1>
+            Bigger or More? How Has Australia's Protected-Area Network Grown??
+            </h1>
+            <p>
+                for the main title and introduction
+            </p>
 
-    <h1>
-        Bigger or More? How Has Australia's Protected-Area Network Grown??
-    </h1>
+        </header>
 
-    <h2>
-        I - The Growth: How has Australia's Conservation Network Changed?
-    </h2>
+        <section class="story-section">
+            <h2>I - The Growth: How has Australia's Conservation Network Changed? </h2>
 
-    <h3>
-        1. Australia's Protected Area Footprint
-    </h3>
+            <section class="subsection">
+                <h3>1. A Growing Conservation Network</h3>
+                <p class="section-intro">
+                    This section introduces the growth of protected areas under terrestrial and marine.
 
-    <div id="t_choro"></div>
-    <p>
-        The protected areas are being allocated under different jurisdictions
-        for different states and territories.
+                </p>
 
-        For the protected terrestrial areas
-        It can be observed that the Australian Capital Territory has the highest protected land coverage
-        of 55.93%, but compare to the other states it has the smallest allocated area.
-        From the data we can observe that the Northern Territory has the highest absolute value
-        of protected area in hectares which is 33294785.24 ha, but it has a relatively large allocated area,
-        hence having a lower coverage than other smaller states.
-        But we can observed that although with a large land area, Western Australia has a relatively good
-        coverage of 31.34% of protected area.
-    </p>
+                <div class="chart-grid single">
+                    <article class="chart-card">
+                        <h4>Percentage Growth in Protected Area Coverage Across Reporting Years</h4>
+                        <div id="growth_line" class="chart"></div>
 
-    <div id="m_choro"></div>
+                        <div class="desc">
+                            <p>
+                            It can be observed that the protected area coverage is always a positive value, which
+                            indicates that the authorities have been putting effort in conserving their land/ocean.
+                            The growth may seem insignificant in percentage, but its compared against the whole land/ocean
+                            area of Australia, hence, they make up a small number.
+                            Although in year 2020, it seems that the growth has dropped to 0, but there is a 0.0005% of growth
+                            in marine protected area and a 0.0047% for terrestrial, it's just the growth is too small compared to
+                                the total sea/land area. From year 2022 to 2024, we can observe a steep increase in growth of
+                                protected areas under marine.
 
-    <p>
-        For the protected marine areas:
-        It can be observed that Queensland Jurisdiction has the highest coverage
+                            <br>
+                            Land vs Sea: Which Has Grown Faster?
 
+                            How does the expansion of terrestrial protection compare with marine protection?
+                            It can be observed that the expansion of terrestrial protection has a more steady flow
+                            compared to the expansion of marine protection.
+                            It's growth is always within 0 to 0.10%, while the expansion of marine's protection area ranges from approximately 0% to 0.4%
+                            </p>
 
+                        </div>
 
-    </p>
 
+                        <p class="extra-info">
+                            Note:
+                            <br>
+                            - There isn't data in 2016 for marine protected areas.
+                        </p>
 
-    <h3>
-        2. A Growing Conservation Network
-    </h3>
-    <div id="growth_line">
+                    </article>
 
-    </div>
+                </div>
+            </section>
 
-    <p>
-        How has the total area under protection changed over time?
-        - Difference of protected area each year (dual axis/butterfly/population chart)
-        - no data for 2014 for marine
-        the percentage is low altho a significant amount due to comparison is with the total area of the state
+            <p>
+                <br>
+            </p>
 
-        Different states:
-        Most increase
+            <section class="subsection">
+                <h3>2. Past VS Present: Did the Coverage Increase?</h3>
+                <p class="section-intro">
+                    The difference between the change in protection coverage of marine and terrestrial areas.
 
-        Land vs Sea: Which Has Grown Faster?
-        How does the expansion of terrestrial protection compare with marine protection?
-    </p>
+                </p>
 
-    <h2>
-        II - The Growth: How has Australia's Conservation Network Changed?
-    </h2>
+                <div class="chart-grid">
+                    <article class="chart-card">
+                        <h4>Difference in Coverage of Protected Terrestrial Areas, 2014 to 2024</h4>
+                        <div id="state_growth_t" class="chart"></div>
 
-    <h3>
-        1. State of Protection
-    </h3>
+                        <div class="desc">
+                            <p>
+                            It can be observed that all states excepte Tasmania increased in protected terrestrial area coverage
+                            with Western Australia having the most increase, of approximately 9.62% compared to 10 years before
 
-    <div id="state_choro">
+                            Tasmania decreased in their coverage protected terrestrial area by approximately 1.28%.
+                            </p>
+                        </div>
 
-    </div>
+                    </article>
 
-    <p>
-        Which states and territories have the highest protected-area coverage?
-        - Choropleth map (percentage of coverage) #state_choro
-        take data from 2024
-    </p>
+                    <article class="chart-card">
+                        <h4>Difference in Coverage of Protected Marine Areas, 2016 to 2024</h4>
 
-    <h3>
-        2. Growth in 10 years - Land
-    </h3>
+                        <div id="state_growth_m" class="chart"></div>
 
-    <div id="state_growth_m"></div>
-    <div id="state_growth_t"></div>
+                        <div class="desc">
 
+                        <p>
+                            It can be observed that the 3 states shows an increase in coverage which are Western Australia,
+                            Queensland, and the Northern Territory. They all show a large increase in civerage by having an
+                            increase ranging from approximately 16% to 24%
 
-    <p>
-        Proportional Symbol Map:
-        data:
-        final_state_growth
+                            While the other states shows a decrease in coverage ranging from 0.49% to 1.4%,
+                            overall the protection of all states is still positive/increasing, despite the slight
+                            decrease in coverage of some states, but the increase outweighs them.
 
-        id:
+                        </p>
+                        </div>
 
-        #growth_prop_sym_m/// remove
-        #growth_prop_sym_t
-        - show the difference between states from 2016-2024 (m)
-        - 2014 - 2024 (t)
+                    </article>
 
-    </p>
+                </div>
+            </section>
+        </section>
 
+        <section class="story-section">
+            <h2>II. Where is Australia Protecting Its Environment? </h2>
 
-    <h3>
-        3. Terrestrial vs Marine Protection Protection by Jurisdiction
-    </h3>
-    <p>
-        Bumpchart
-        #bumpchart_m
-        #bumpchart_t
-        Are protected areas distributed evenly across Australia, or concentrated in particular regions?
-        Do states and territories show similar patterns of protection on land and at sea?
-    </p>
-
-    <h3>VII. Protected Marine Areas of Different Jurisdictions</h3>
-    <div id="bumpchart_m"></div>
-
-    <h3>VIII. Protected Terrestrial Areas of Different Jurisdiction</h3>
-
-    <div id="bumpchart_t"></div>
-
-
-    <div>
-        <p>
-            The visualisation stands
-            The line for External territories is always at 0 due to they are not assigned any areas
-        </p>
-    </div>
-
-
-    <h3>
-        Who Protects the Land?
-    </h3>
-    <p>
-        Governance in 10 years
-        data: final_gover
-        #governance
-    </p>
-
-    <div id="governance"></div>
-
-
-
-    <h2>
-        III. What Kind of Protection does Australia Use?
-    </h2>
-
-    <h3>
-        1. How's Australia's Ocean Protected?
-    </h3>
-
-    <h3>
-        2. How's Australia's Land Protected?
-    </h3>
-
-    <p>
-        Which marine IUCN categories account for the most protected water?
-        Which IUCN management categories dominate terrestrial protection?
-        #heatmap_m
-        #heatmap_t
-    </p>
-
-    <h3>
-        I. Protected Marine Areas Under Categories of International Union for Conservation of Nature (IUCN)
-    </h3>
-    <div id="heatmap_m">
-
-    </div>
-    <div>
-        <p>
-            For marine protected areas, it can be observed that
-            the National Park category has the highest percentage
-            over the 10-year period, reaching 20.30%.
-        </p>
-    </div>
-
-    <h3>
-        II. Protected Terrestrial Areas Under Categories of International Union for Conservation of Nature (IUCN)
-    </h3>
-
-    <div id="heatmap_t">
-
-    </div>
-    <div>
-        <p>
-            For terrestrial protected areas, the National Park category
-            maintains relatively stable coverage throughout the decade,
-            remaining at around 5%. Meanwhile, the percentage of
-            terrestrial protected areas under the Managed Resource
-            Protected Area category shows an increasing trend, rising
-            approximately every two years.
-
-        </p>
-    </div>
-
-    <h3>
-        3. Types of Conservations
-    </h3>
-
-    <p>
-        Which reserve types account for the largest share of protected land?
-        protected marine areas
-        waffle_m
-        waffle_t
-
-    </p>
-    <div id="waffle_m"></div>
+            <section class="subsection">
+                <h3>1. State of Protection</h3>
+                <p class="section-intro">
+                    This section introduces the total protection area of different states and territories.
+                    Combining marine and terrestrial datasets.
 
-    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
-    <script src="js/waffle_chart_m.js"></script>
+                </p>
 
+                <div class="chart-grid single">
+                    <article class="chart-card">
+                        <h4>Percentage Growth in Protected Area Coverage Across Reporting Years</h4>
+                        <div id="state_choro" class="chart"></div>
 
-    <h3>
-        V. Distribution of Different Conservation Types among Marine Protected Areas
-    </h3>
-    <h4>
-        Protected Area of each Conservation Type
-    </h4>
-        <div>
-        <p>
-            Looking into year 2024, we can first look at the graph on the top,
-            the percentage of total protected area is quite similar among the 5 conservation types,
-            where each type has between 0% to 0.8% of protected areas.
+                        <div class="desc">
+                            <p>
+                            It can be observed that the Australian Capital Territory has the highest protected land
+                            coverage of 55.93%, but compare to the other states it has
+                            the smallest allocated area.
+                            Besides, it does not have allocated marine area under it, so it only has terrestrial protected areas,
 
-            Yet, taking the conservation type with the most percentage - Indigenous Protected Area,
-            and compare it with the Marine Parks & Reserves type, we can observe that the
-            Marine Parks & Reserves type outweighs the Indigenous Protected Area a lot by
-            having a value of 57% which is approximately 76 times more.
+                            Three states has a coverage around the 30% mark, which are Tasmania, South Australia and West Australia.
 
-            Categories:
-            Marine Parks & Reserves
+                            Alternatively, we can see that Queensland has a lesser covergae after combining the total land and ocean area of Queensland state
 
-            Others:
-            Nature & General Conservation Areas
-            National Parks & Conservation Parks
-            Aquatic Wildlife Protection
-            Indigenous Protected Area
-            Special-purpose & Other Reserves
+                            <br>
 
+                            </p>
 
-        </p>
-    </div>
+                        </div>
 
-    <div id="waffle_t"></div>
 
-    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
-    <script src="js/waffle_chart_t.js"></script>
+                        <p class="extra-info">
+                            Note:
+                            <br>
+                            - There isn't data in 2016 for marine protected areas.
+                        </p>
 
-    <h3>
-        VI. Distribution of Different Conservation Types among Terrestrial Protected Areas
-    </h3>
-    <h4>
-        Protected Area of each Conservation Type
-    </h4>
+                    </article>
 
-    <div>
-        <p>
-            Main cat:
-            Indigenous & Aboriginal Protected Areas
-            National Parks & Wilderness
-            Nature & Conservation Reserves
-            Private & Agreement-based Areas
+                </div>
+            </section>
 
-            Other cat:
-            Other, Proposed & Transitional
-            Parks & Recreational Areas
-            Heritage, Coastal & Special-purpose
-            Forest, Flora & Wildlife Reserves
+            <p>
+                <br>
+            </p>
 
-            Looking into Terrestrial Areas, the visualisation is splitted due to the difference
-            in values are too large to compare directly in the same visualisation.
-            In the chart above, the percentage of total protected area ranges from 1% to 12%.
-            Alternatively, the chart below compares the difference among the types that are below 1%.
+            <section class="subsection">
+                <h3>2. Australia's Protected Area Footprint</h3>
+                <p class="section-intro">
+                    Are protected areas distributed evenly across Australia, or concentrated in particular regions?
+            Do states and territories show similar patterns of protection on land and at sea?
+                    How is protection distributed across Australia's terrestrial and marine environments?
+                    Areas are allocated under different jurisdictions, different jurisdictions have a range of
+                    coverage of protected areas.
+                    The protected areas are being allocated under different jurisdictions
+                            for different states and territories.
 
-        </p>
-    </div>
+                </p>
 
+                <div class="chart-grid">
+                    <article class="chart-card">
+                        <h4>Coverage of Protected Terrestrial Areas</h4>
+                        <div id="t_choro" class="chart"></div>
 
-    <h3>
-        Are the Ecosystems Equally Protected?
-    </h3>
+                        <div class="desc">
+                            <p>
+                            For protected terrestrial areas, it can be observed that the
+                            Australian Capital Territory has the highest protected land
+                            coverage of 55.93%, but compare to the other states it has
+                            the smallest allocated area.
+                            <br>
+                            From the data we can observe that the Northern Territory has the
 
-    <p>
-        IBRA bioregions
+                            </p>
 
-        The Protection Gaps: Which bioregions have the lowest representation in the protected-area network?
+                        </div>
 
-        where should the proctection expand next?: Which bioregions combine low protection with large areas of unprotected land?
+                    </article>
 
+                    <article class="chart-card">
+                        <h4>Coverage of Protected Marine Areas</h4>
 
-        #IBRA_lowest5
-        #IBRA_top5
+                        <div id="m_choro" class="chart"></div>
 
-    </p>
+                        <div class="desc">
 
+                        <p>
+                            Explore how marine protection is distributed across
+                            jurisdictions and compare the extent of protected
+                            waters.
+                        </p>
+                        <p>
+                            It can be observed that Queensland Jurisdiction has the highest coverage of
+                            99.35% despite it having a large allocated area.
+                            where Tasmania has only 6.49%
+                        </p>
+                        </div>
 
-    <div id="IBRA_top5">
+                    </article>
 
-    </div>
+                </div>
+            </section>
 
-    <div id="IBRA_lowest5">
+            <p>
+                <br>
+            </p>
 
-    </div>
+            <section class="subsection">
+                <h3>3. Who Did The Best? Protection Coverage by Jurisdiction</h3>
+                <p class="section-intro">
+                    Are protected areas distributed evenly across Australia, or concentrated in particular regions?
+                    Do states and territories show similar patterns of protection on land and at sea?
+                    This section shows the rankings of each jurisdictions throughout the years reported by their coverage
+                    of protected area.
 
+                </p>
 
+                <div class="chart-grid">
+                    <article class="chart-card">
+                        <h4>Terrestrial Coverage Ranking</h4>
+                        <div id="bumpchart_t" class="chart"></div>
 
-</body>
+                        <div class="desc">
+                            <p>
+                                As observed, most states hold their rankings, except Wa, SA and Nt,
+                                Western Australia exceed? 超过 South Australia at 2024 and ranked top 3
+                                with a coverage of 31.13%, only a 0.7% difference with SA.
+
+                            </p>
+
+                        </div>
+
+                        <p class="extra-info">
+                            External Territories is always 0 as reported but they are always included in the CAPAD report.
+                            Hence, they are also included in the rankigns. They are not assigned any areas.
+                        </p>
+
+                    </article>
+
+                    <article class="chart-card">
+                        <h4>Marine Coverage Ranking</h4>
+
+                        <div id="bumpchart_m" class="chart"></div>
+
+                        <div class="desc">
+
+                        <p>
+                            The marine coverage of different jurisdictions has more chanes in rankings throughout
+                            the years.
+                            Queensland dominates the chart by having the most marine protected area coverage,
+                            year 2022 to 2024 has the most changes by having 5 states change their rankings. while year
+                            2018 to 2020 is the most stable by having no change in rankings.
+                        </p>
+
+
+                        </div>
+
+                    </article>
+
+                </div>
+            </section>
+
+            <p>
+                <br>
+            </p>
+
+            <section class="subsection">
+                <h3>4. Who Protects the Land?</h3>
+                <p class="section-intro">
+                    This section introduces the governance that protects the land throughout a decade.
+
+                </p>
+
+                <div class="chart-grid single">
+                    <article class="chart-card">
+                        <h4>Governance Contribution to the National Reserve System</h4>
+                        <div id="governance" class="chart"></div>
+
+                        <div class="desc">
+                            <p>
+                            The Community and the Government both contributed a fair and large share
+                            to the National Reserve System (NRS) by protecting the terrestrial areas.
+
+                            Although the percentage of contribution is somewhat the same, but the Government contributed
+                            to more number of areas, while the Community contributed lesser number of areas. Which indicates
+                            that the Government may took responsibility of protecting small areas of land reserves, while
+                            the Community may took responsibilyt in protecting the public land reserves.
+
+                            </p>
+
+                        </div>
+
+
+                        <p class="extra-info">
+                            Note:
+                            <br>
+                            - There isn't governance data for marine protected areas.
+                        </p>
+
+                    </article>
+
+                </div>
+            </section>
+
+        </section>
+
+        <section class="story-section">
+            <h2>III. What Kind of Protection Does Australia Use?</h2>
+
+            <section class="subsection">
+                <h3>1. International Union for Conservation of Nature (IUCN)</h3>
+                <p class="section-intro">
+                    Australia categorises conservation levels under the International Union for Conservation of Nature (IUCN).
+
+                </p>
+
+                <div class="chart-grid single">
+                    <article class="chart-card">
+                        <h4>Protected Terrestrial Areas Under Different Categories
+                            Which IUCN management categories dominate terrestrial protection?
+
+                        </h4>
+                        <div id="heatmap_t" class="chart"></div>
+
+                        <div class="desc">
+                            <p>
+                            Only the category VI - Managed Resource Protected shows an increasing pattern over the decade
+                            for terrestrial coverage.
+                            Categories Ia - Strict Nature Reserve and II - National Park shows that they have a slightly more
+                            coverage than the other categories.
+
+                            For terrestrial protected areas, the National Park category
+                maintains relatively stable coverage throughout the decade,
+                remaining at around 5%. Meanwhile, the percentage of
+                terrestrial protected areas under the Managed Resource
+                Protected Area category shows an increasing trend, rising
+                approximately every two years.
+                            </p>
+
+                        </div>
+
+                    </article>
+
+                    <article class="chart-card">
+                        <h4>Protected Marine Areas Under Different Categories
+                            Which marine IUCN categories account for the most protected water?
+                        </h4>
+                        <div id="heatmap_m" class="chart"></div>
+
+                        <div class="desc">
+                            <p>
+                            For marine protected areas, it can be observed that
+                the National Park category has the highest percentage
+                over the 10-year period, reaching 20.30%.
+                            </p>
+
+                        </div>
+
+                    </article>
+
+                </div>
+            </section>
+
+            <p>
+                <br>
+            </p>
+
+            <section class="subsection">
+                <h3>2. Which Conservation Type Accounts for the Largest Share of Protected Areas?</h3>
+                <p class="section-intro">
+                    This section introduces the conservation types that contributed to the protected areas.
+
+                </p>
+
+                <div class="chart-grid">
+                    <article class="chart-card">
+                        <h4>Protected Terrestial Area </h4>
+                        <div id="waffle_t" class="chart"></div>
+
+                        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+                        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+                        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+                        <script src="js/waffle_chart_t.js"></script>
+
+                        <div class="desc">
+                            <p>
+                            Main cat:
+                            Indigenous & Aboriginal Protected Areas
+                            National Parks & Wilderness
+                            Nature & Conservation Reserves
+                            Private & Agreement-based Areas
+
+                            Other cat:
+                            Other, Proposed & Transitional
+                            Parks & Recreational Areas
+                            Heritage, Coastal & Special-purpose
+                            Forest, Flora & Wildlife Reserves
+
+                            Looking into Terrestrial Areas, the visualisation is splitted due to the difference
+                            in values are too large to compare directly in the same visualisation.
+                            In the chart above, the percentage of total protected area ranges from 1% to 12%.
+                            Alternatively, the chart below compares the difference among the types that are below 1%.
+                            </p>
+                        </div>
+
+                    </article>
+
+                    <article class="chart-card">
+                        <h4>Protected Marine Area </h4>
+
+                        <div id="waffle_m" class="chart"></div>
+                        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+                        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+                        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+                        <script src="js/waffle_chart_m.js"></script>
+
+                        <div class="desc">
+
+                        <p>
+                            Looking into year 2024, we can first look at the graph on the top,
+                            the percentage of total protected area is quite similar among the 5 conservation types,
+                            where each type has between 0% to 0.8% of protected areas.
+
+                            Yet, taking the conservation type with the most percentage - Indigenous Protected Area,
+                            and compare it with the Marine Parks & Reserves type, we can observe that the
+                            Marine Parks & Reserves type outweighs the Indigenous Protected Area a lot by
+                            having a value of 57% which is approximately 76 times more.
+
+                            Categories:
+                            Marine Parks & Reserves
+
+                            Others:
+                            Nature & General Conservation Areas
+                            National Parks & Conservation Parks
+                            Aquatic Wildlife Protection
+                            Indigenous Protected Area
+                            Special-purpose & Other Reserves
+                        </p>
+                        </div>
+
+                    </article>
+
+                </div>
+            </section>
+        </section>
+
+        <section class="story-section">
+            <h2>IV. Are the Ecosystems Equally Protected?</h2>
+
+            <section class="subsection">
+                <h3>Interim Biogeographic Regionalisation for Australia</h3>
+                <p class="section-intro">
+                    The Interim Biogeographic Regionalisation for Australia (IBRA) classifies Australia's landscapes into distinct bioregions
+                    with similar climate, geology, landforms, vegetation, and species.
+                    the following section compares the 5 most protected and 5 least protected bioregions,
+                    highlighting how conservation outcomes differ across the country.
+
+                    The Protection Gaps: Which bioregions have the lowest representation in the protected-area network?
+
+            where should the proctection expand next?: Which bioregions combine low protection with large areas of unprotected land?
+                </p>
+
+                <div class="chart-grid single">
+                    <article class="chart-card">
+                        <h4>5 Most Protected Bioregions</h4>
+                        <div id="IBRA_top5" class="chart"></div>
+                    </article>
+
+                    <article class="chart-card">
+                        <h4>5 Least Protected Bioregions</h4>
+                        <div id="IBRA_lowest5" class="chart"></div>
+
+                    </article>
+
+                </div>
+            </section>
+        </section>
+
+    </body>
+    </main>
 
 </html>

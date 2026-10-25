@@ -2,7 +2,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": {
-    "text": "Terrestrial Protected Area Coverage by State",
+    "text": "",
     "fontSize": 15
   },
   "width": 600,
@@ -67,7 +67,9 @@
 
         },
         "legend": {
-          "title": "Protected land area (%)"
+          "title": "Protected land area (%)",
+          "orient": "top-right"
+
         }
       },
       "value": "#D3D3D3"
