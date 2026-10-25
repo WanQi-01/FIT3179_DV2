@@ -18,14 +18,21 @@ vegaEmbed("#growth_line", growth_line).then(function(result) {}).catch(console.e
 // vegaEmbed("#state_growth_m", state_growth_m).then(function(result) {}).catch(console.error);
 // vegaEmbed("#state_growth_t", state_growth_t).then(function(result) {}).catch(console.error);
 
-var bumpchart_m = "json_data/vg/m_pa.vg.json";
-var bumpchart_t = "json_data/vg/t_pa.vg.json";
+// var bumpchart_m = "json_data/vg/m_pa.vg.json";
+// var bumpchart_t = "json_data/vg/t_pa.vg.json";
 
-vegaEmbed("#bumpchart_m", bumpchart_m).then(function(result) {}).catch(console.error);
-vegaEmbed("#bumpchart_t", bumpchart_t).then(function(result) {}).catch(console.error);
+// vegaEmbed("#bumpchart_m", bumpchart_m).then(function(result) {}).catch(console.error);
+// vegaEmbed("#bumpchart_t", bumpchart_t).then(function(result) {}).catch(console.error);
 
-var governance = "json_data/vg/governance.vg.json"
-vegaEmbed("#governance", governance).then(function(result) {}).catch(console.error);
+// var governance = "json_data/vg/governance.vg.json"
+// vegaEmbed("#governance", governance).then(function(result) {}).catch(console.error);
+
+var heatmap_m  = "json_data/vg/final_heatmap_m.vg.json";
+var heatmap_t  = "json_data/vg/final_heatmap_t.vg.json";
+
+
+vegaEmbed("#heatmap_m", heatmap_m).then(function(result) {}).catch(console.error);
+vegaEmbed("#heatmap_t", heatmap_t).then(function(result) {}).catch(console.error);
 
 
 var chart2_radbartop5 = "json_data/vg/IBRA_biore_top5.vg.json";
@@ -34,8 +41,7 @@ var chart3_radbarlowest5 = "json_data/vg/IBRA_biore_lowest5.vg.json";
 
 var line_growth_conserv = "json_data/vg/growth_conser.vg.json";
 // the percentage of protected areas of each cat over time - heatmap
-var chart4  = "json_data/vg/marine_annualCAPAD.vg.json";
-var chart5  = "json_data/vg/ter_annualCAPAD.vg.json";
+
 
 // var chart4 = "https://raw.githubusercontent.com/WanQi-01/FIT3179_DV2/main/json_data/vg/marine_annualCAPAD.vg.json";
 // var chart5 = "https://raw.githubusercontent.com/WanQi-01/FIT3179_DV2/main/json_data/vg/ter_annualCAPAD.vg.json";
@@ -64,13 +70,6 @@ vegaEmbed("#IBRA_lowest5", chart3_radbarlowest5).then(function(result) {}).catch
 
 vegaEmbed("#line_growth_in_consv", line_growth_conserv).then(function(result) {}).catch(console.error);
 
-vegaEmbed("#heatmap_m", chart4).then(function(result) {
-
-}).catch(console.error);
-
-vegaEmbed("#heatmap_t", chart5).then(function(result) {
-
-}).catch(console.error);
 
 // vegaEmbed("#bar_chart_m1", chart6_1).then(function(result) {
 

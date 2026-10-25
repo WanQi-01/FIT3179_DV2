@@ -31,7 +31,10 @@ const excelData = [
     // "final_t_choro.csv"
     // "final_state_growth_m.xlsx",
     // "final_state_growth_t.xlsx"
-    "final_governance.xlsx"
+    // "final_governance.xlsx"
+    // "final_heatmap_m.xlsx",
+    // "final_heatmap_t.xlsx"
+
 
 
 ]

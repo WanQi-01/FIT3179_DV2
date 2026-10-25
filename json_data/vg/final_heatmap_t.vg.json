@@ -2,11 +2,12 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": {
-    "text": "Marine Protected Areas Coverage for Each Category (%)",
+    "text": "Terrestrial Protected Areas Coverage for Each Category (%)",
     "fontSize": 15
+
   },
   "data": {
-    "url": "json_data/marine_annualCAPAD.json"
+    "url": "json_data/final_heatmap_t.json"
   },
   "width": 600,
   "height": 300,
@@ -24,12 +25,13 @@
         "labelAngle": -45,
         "labelFontSize": 11,
         "titleFontSize": 13
+
       }
     },
     "y": {
       "field": "IUCN Category",
       "type": "ordinal",
-      "title": "Categories",
+      "title": "International Union for Conservation of Nature Category",
       "sort": ["Ia", "Ib", "II", "III", "IV", "V", "VI"],
       "axis": {
         "labelExpr": "datum.label === 'Ia' ? 'Ia - Strict Nature Reserve' : datum.label === 'Ib' ? 'Ib - Wilderness Area' : datum.label === 'II' ? 'II - National Park' : datum.label === 'III' ? 'III - Natural Monument' : datum.label === 'IV' ? 'IV - Habitat/Species Management Area' : datum.label === 'V' ? 'V - Protected Landscape/Seascape' : datum.label === 'VI' ? 'VI - Managed Resource Protected Area' : datum.label",
@@ -39,10 +41,10 @@
       }
     },
     "color": {
-      "field": "Percentage of protected area",
+      "field": "Percentage of Coverage of Australia",
       "type": "quantitative",
       "scale": {
-        "scheme": "purples",
+        "scheme": "greens",
         "zero": true
       },
       "legend": {
@@ -61,7 +63,7 @@
         "title": "International Union for Conservation of Nature Category"
       },
       {
-        "field": "Percentage of protected area",
+        "field": "Percentage of Coverage of Australia",
         "type": "quantitative",
         "title": "Protected Area (%)",
         "format": ".2f"
