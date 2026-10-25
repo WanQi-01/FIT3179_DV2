@@ -43,10 +43,12 @@
       "type": "quantitative",
       "scale": {
         "scheme": "blues",
-        "zero": true
+        "zero": true,
+        "domain": [0, 5, 10, 15, 20]
       },
       "legend": {
-        "title": "Protected Area (%)"
+        "title": "Protected Area (%)",
+        "values": [0, 5, 10, 15, 20]
       }
     },
     "tooltip": [

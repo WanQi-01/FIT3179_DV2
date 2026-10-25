@@ -50,9 +50,8 @@
         },
         "y": {
             "field": "Rank",
-            "type": "quantitative",
+            "type": "ordinal",
             "scale": {
-                "reverse": true,
                 "zero": false
             },
             "axis": {
@@ -89,10 +88,7 @@
 
                 ]
             },
-            "legend": {
-                "title": "Jurisdiction",
-                "orient": "right"
-            }
+            "legend": null
         },
         "detail": {"field": "State Full Name"},
         "order": {
@@ -110,7 +106,7 @@
             },
             {
                 "field": "Rank",
-                "type": "quantitative",
+                "type": "ordinal",
                 "title": "Rank"
             }
         ]

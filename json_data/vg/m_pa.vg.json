@@ -46,15 +46,17 @@
             "type": "ordinal",
             "title": "Year",
             "axis": {
-                "labelAngle": 0
+                "labelAngle": 0,
+                "domain": true,
+                "domainColor": "#666666",
+                "domainWidth": 1
             }
         },
 
         "y": {
             "field": "Rank",
-            "type": "quantitative",
+            "type": "ordinal",
             "scale": {
-                "reverse": true,
                 "zero": false
             },
             "axis": {
@@ -68,6 +70,8 @@
             "type": "nominal",
             "scale": {
                 "domain": [
+                    "Australian Capital Territory",
+                    "External Territories",
                     "Commonwealth",
                     "New South Wales",
                     "Northern Territory",
@@ -78,6 +82,8 @@
                     "Western Australia"
                 ],
                 "range": [
+                    "#e45756",
+                    "#ff9da6",
                     "#54a24b",
                     "#4c78a8",
                     "#f58518",
@@ -122,7 +128,7 @@
             },
             {
                 "field": "Rank",
-                "type": "quantitative",
+                "type": "ordinal",
                 "title": "Rank"
             }
         ]

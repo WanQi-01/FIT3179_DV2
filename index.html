@@ -10,16 +10,12 @@
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
 
-    <script src="js/main.js"></script>
+    <script src="js/main.js" defer></script>
 
-    <title>Bigger or More? How Has Australia's Protected-Area Network Grown?? </title>
+    <title> Bigger or More? How Has Australia's Protected-Area Network Grown?? </title>
 </head>
 
 <body>
-    <h1>
-        Title: Is Australia Protecting Enough of its Natural Environment?
-    </h1>
-
 
     <h1>
         Bigger or More? How Has Australia's Protected-Area Network Grown??
@@ -33,19 +29,29 @@
         1. Australia's Protected Area Footprint
     </h3>
 
-    <!-- <div id="t_choro">
+    <div id="t_choro"></div>
+    <p>
+        The protected areas are being allocated under different jurisdictions
+        for different states and territories.
 
-    </div>
+        For the protected terrestrial areas
+        It can be observed that the Australian Capital Territory has the highest protected land coverage
+        of 55.93%, but compare to the other states it has the smallest allocated area.
+        From the data we can observe that the Northern Territory has the highest absolute value
+        of protected area in hectares which is 33294785.24 ha, but it has a relatively large allocated area,
+        hence having a lower coverage than other smaller states.
+        But we can observed that although with a large land area, Western Australia has a relatively good
+        coverage of 31.34% of protected area.
+    </p>
 
-    <div id="m_choro">
-
-    </div> -->
+    <div id="m_choro"></div>
 
     <p>
-        Where are Australia's terrestrial and marine protected areas located?
-        Choropleth:
-        - Terrestrial: t_choro
-        - Marine: m_choro
+        For the protected marine areas:
+        It can be observed that Queensland Jurisdiction has the highest coverage
+
+
+
     </p>
 
 
@@ -77,9 +83,9 @@
         1. State of Protection
     </h3>
 
-    <!-- <div id="state_choro">
+    <div id="state_choro">
 
-    </div> -->
+    </div>
 
     <p>
         Which states and territories have the highest protected-area coverage?
@@ -93,8 +99,6 @@
 
     <div id="state_growth_m"></div>
     <div id="state_growth_t"></div>
-
-
 
 
     <p>
@@ -149,8 +153,6 @@
     </p>
 
     <div id="governance"></div>
-
-
 
 
 
@@ -217,40 +219,13 @@
         waffle_t
 
     </p>
-
-    <h3>
-        Are the Ecosystems Equally Protected?
-    </h3>
-
-    <p>
-        IBRA bioregions
-
-        The Protection Gaps: Which bioregions have the lowest representation in the protected-area network?
-
-        where should the proctection expand next?: Which bioregions combine low protection with large areas of unprotected land?
-
-
-        #IBRA_lowest5
-        #IBRA_top5
-
-    </p>
-
-
-
-
-
-
-
-    <div id="line_growth_in_consv">
-
-    </div>
-
     <div id="waffle_m"></div>
 
     <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
     <script src="js/waffle_chart_m.js"></script>
+
 
     <h3>
         V. Distribution of Different Conservation Types among Marine Protected Areas
@@ -282,8 +257,6 @@
 
         </p>
     </div>
-
-
 
     <div id="waffle_t"></div>
 
@@ -322,6 +295,24 @@
     </div>
 
 
+    <h3>
+        Are the Ecosystems Equally Protected?
+    </h3>
+
+    <p>
+        IBRA bioregions
+
+        The Protection Gaps: Which bioregions have the lowest representation in the protected-area network?
+
+        where should the proctection expand next?: Which bioregions combine low protection with large areas of unprotected land?
+
+
+        #IBRA_lowest5
+        #IBRA_top5
+
+    </p>
+
+
     <div id="IBRA_top5">
 
     </div>
@@ -329,28 +320,6 @@
     <div id="IBRA_lowest5">
 
     </div>
-
-
-
-    <h3>
-        III. Proportion of Protected Marine Areas under each IUCN Category - 2024
-    </h3>
-    <div id="pie_chart_m">
-    </div>
-
-    <h3>
-        IV. Proportion of Protected Terrestrial Areas under each IUCN Category - 2024
-    </h3>
-    <div id="pie_chart_t">
-    </div>
-
-
-
-
-
-
-
-
 
 
 
