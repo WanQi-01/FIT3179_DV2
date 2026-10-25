@@ -1,0 +1,107 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Marine vs Terrestrial Protected-Area Growth",
+    "subtitle": "Percentage growth in protected-area coverage across reporting years"
+  },
+  "data": {
+    "url": "json_data/final_annual_growth_conser.json"
+  },
+  "transform": [
+    {
+      "calculate": "datum['Marine/Terrestrial'] === 'M' ? 'Marine' : 'Terrestrial'",
+      "as": "Environment"
+    }
+  ],
+  "width": 800,
+  "height": 350,
+  "mark": {
+    "type": "line",
+    "point": {
+      "filled": true,
+      "size": 80
+    },
+    "strokeWidth": 2,
+    "tooltip": true
+  },
+  "encoding": {
+    "x": {
+      "field": "Year",
+      "type": "quantitative",
+      "scale": {
+        "domain": [2016, 2024]
+      },
+      "axis": {
+        "title": "Year",
+        "format": "d",
+        "tickMinStep": 2
+      }
+    },
+"y": {
+  "field": "Growth in Coverage (%)",
+  "type": "quantitative",
+  "scale": {
+    "domain": [0, 0.45],
+    "nice": false
+  },
+  "axis": {
+    "title": "Growth in Coverage (%)",
+    "values": [0, 0.05, 0.10, 0.15, 0.20, 0.25, 0.30, 0.35, 0.40, 0.45],
+    "format": ".2f",
+    "grid": true
+  }
+},
+    "color": {
+      "field": "Environment",
+      "type": "nominal",
+      "scale": {
+        "domain": ["Marine", "Terrestrial"],
+        "range": ["#58a1ce", "#5cb76a"]
+      },
+      "legend": {
+        "title": "Protected-area type",
+        "orient": "top"
+      }
+    },
+    "detail": {
+      "field": "Environment"
+    },
+    "order": {
+      "field": "Year",
+      "type": "quantitative"
+    },
+    "tooltip": [
+      {
+        "field": "Year",
+        "type": "quantitative",
+        "title": "Year",
+        "format": "d"
+      },
+      {
+        "field": "Environment",
+        "type": "nominal",
+        "title": "Protected-area type"
+      },
+      {
+        "field": "Growth in coverage",
+        "type": "quantitative",
+        "title": "Growth in Coverage (ha)",
+        "format": ".0f"
+      },
+      {
+        "field": "Growth in Coverage (%)",
+        "type": "quantitative",
+        "title": "Growth (%)",
+        "format": ".4f"
+      }
+    ]
+  },
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "gridOpacity": 0.2
+    }
+  }
+}

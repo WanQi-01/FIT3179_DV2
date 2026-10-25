@@ -1,43 +1,94 @@
-
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "description": "100% normalised stacked bar chart of protected areas by state and IUCN category.",
+  "title": {
+    "text": "Governance Contribution to the National Reserve System",
+    "subtitle": "Proportion of NRS contribution by governance type over time"
+  },
   "data": {
     "url": "json_data/final_governance.json"
   },
+  "params": [
+    {
+      "name": "governanceSelect",
+      "select": {
+        "type": "point",
+        "fields": ["Governance"],
+        "on": "click",
+        "clear": "dblclick"
+      }
+    }
+  ],
+  "width": 700,
+  "height": 400,
   "mark": {
     "type": "bar",
+    "cursor": "pointer",
     "tooltip": true
   },
   "encoding": {
     "x": {
-      "field": "Governance",
-      "type": "nominal",
+      "field": "Year",
+      "type": "ordinal",
+      "sort": "ascending",
       "axis": {
-        "title": "Governance Type",
-        "labelAngle": -45
+        "title": "Year",
+        "labelAngle": 0
       }
     },
     "y": {
       "field": "Contribution to National Reserve System (NRS) (%)",
       "type": "quantitative",
+      "stack": "normalize",
       "axis": {
-        "title": "Contribution to National Reserve System (NRS) (%)",
-        "format": "%"
+        "title": "Share of NRS Contribution",
+        "format": ".0%",
+        "domain": [0, 1]
       }
     },
-
-    "tooltip": [
-      {
-        "field": "Governance",
-        "type": "nominal",
-        "title": "Type of Governance"
+    "color": {
+      "field": "Governance",
+      "type": "nominal",
+      "scale": {
+        "domain": ["Community", "Government", "Joint", "Private"],
+        "range": ["#58a1ce", "#5cb76a", "#f4a261", "#8e6bbd"]
       },
+      "legend": {
+        "title": "Governance Type",
+        "orient": "top"
+      }
+    },
+    "opacity": {
+      "condition": {
+        "param": "governanceSelect",
+        "value": 1
+      },
+      "value": 0.25
+    },
+    "order": {
+      "field": "Governance",
+      "type": "nominal",
+      "sort": ["Community", "Government", "Joint", "Private"]
+    },
+    "tooltip": [
+      {"field": "Year", "type": "ordinal"},
+      {"field": "Governance", "type": "nominal"},
       {
         "field": "Contribution to National Reserve System (NRS) (%)",
         "type": "quantitative",
-        "title": "Contribution to NRS (%)",
-        "format": ",.2f"
+        "title": "NRS Contribution",
+        "format": ".2%"
+      },
+      {
+        "field": "Protected Area (ha)",
+        "type": "quantitative",
+        "title": "Protected Area (ha)",
+        "format": ",.0f"
+      },
+      {
+        "field": "Number",
+        "type": "quantitative",
+        "title": "Number of Protected Areas",
+        "format": ","
       }
     ]
   }

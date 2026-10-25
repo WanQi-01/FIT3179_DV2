@@ -1,0 +1,100 @@
+
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Marine Protected Area Coverage by State",
+    "fontSize": 15
+  },
+  "width": 600,
+  "height": 450,
+  "projection": {
+    "type": "mercator"
+  },
+  "params": [
+    {
+      "name": "stateSelection",
+      "select": {
+        "type": "point",
+        "fields": ["properties.STE_NAME26"],
+        "on": "click",
+        "clear": "dblclick"
+      }
+    }
+  ],
+  "data": {
+    "url": "data/spatial_data/AUS_STATE_SHAPE.topojson",
+    "format": {
+      "type": "topojson",
+      "feature": "STE_2026_AUST_GDA2020"
+    }
+  },
+  "transform": [
+    {
+        "calculate": "datum.properties.STE_NAME26 === 'Outside Australia' ? 'Commonwealth' : datum.properties.STE_NAME26",
+        "as": "Matched State Name"
+    },
+    {
+        "lookup": "Matched State Name",
+        "from": {
+        "data": {
+            "url": "json_data/final_sum_choro.json"
+        },
+        "key": "State Full Name",
+        "fields": [
+            "Total Protected Area (ha)",
+            "Total Allocated Area",
+            "Percentage of coverage"
+        ]
+        }
+    }
+  ],
+  "mark": {
+    "type": "geoshape",
+    "stroke": "white",
+    "strokeWidth": 0.8
+  },
+  "encoding": {
+    "color": {
+      "condition": {
+        "param": "stateSelection",
+        "field": "Percentage of coverage",
+        "type": "quantitative",
+        "scale": {
+          "scheme": "plasma",
+          "domain": [0, 10, 20, 30, 40, 50, 60],
+          "reverse": true
+
+        },
+        "legend": {
+          "title": "Total Protected Area (%)"
+        }
+      },
+      "value": "#D3D3D3"
+    },
+    "tooltip": [
+      {
+        "field": "properties.STE_NAME26",
+        "type": "nominal",
+        "title": "State"
+      },
+      {
+        "field": "Total Protected Area (ha)",
+        "type": "quantitative",
+        "title": "Total Protected Area (ha)",
+        "format": ",.2f"
+      },
+      {
+        "field": "Total Allocated Area",
+        "type": "quantitative",
+        "title": "Total Allocated Area",
+        "format": ",.0f"
+      },
+      {
+        "field": "Percentage of coverage",
+        "type": "quantitative",
+        "title": "Coverage (%)",
+        "format": ".2f"
+      }
+    ]
+  }
+}

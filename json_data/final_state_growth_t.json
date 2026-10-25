@@ -1,0 +1,74 @@
+[
+  {
+    "State Full Name": "Australian Capital Territory",
+    "Year": 2024,
+    "Protected Area (ha)": 131902,
+    "Total Assigned Area (ha)": 235814.853081598,
+    "Percentage of Protected Area/Assigned area": 55.934715792538356,
+    "Growth between 2014 to 2024": 1688,
+    "Percentage of Growth between 2014 to 2024": 0.007158158097089451
+  },
+  {
+    "State Full Name": "New South Wales",
+    "Year": 2024,
+    "Protected Area (ha)": 8365055.819655714,
+    "Total Assigned Area (ha)": 80115006.5110192,
+    "Percentage of Protected Area/Assigned area": 10.441309542307987,
+    "Growth between 2014 to 2024": 1071425,
+    "Percentage of Growth between 2014 to 2024": 0.013373586880413393
+  },
+  {
+    "State Full Name": "Northern Territory",
+    "Year": 2024,
+    "Protected Area (ha)": 33208737.99751482,
+    "Total Assigned Area (ha)": 134779162.69051,
+    "Percentage of Protected Area/Assigned area": 24.639371053054575,
+    "Growth between 2014 to 2024": 8079352,
+    "Percentage of Growth between 2014 to 2024": 0.05994511197960483
+  },
+  {
+    "State Full Name": "Queensland",
+    "Year": 2024,
+    "Protected Area (ha)": 16183152.68197991,
+    "Total Assigned Area (ha)": 172974215.256347,
+    "Percentage of Protected Area/Assigned area": 9.355817951245811,
+    "Growth between 2014 to 2024": 2074931,
+    "Percentage of Growth between 2014 to 2024": 0.011995608691879085
+  },
+  {
+    "State Full Name": "South Australia",
+    "Year": 2024,
+    "Protected Area (ha)": 29963518.48494658,
+    "Total Assigned Area (ha)": 98432191.3576778,
+    "Percentage of Protected Area/Assigned area": 30.440771531811894,
+    "Growth between 2014 to 2024": 568911,
+    "Percentage of Growth between 2014 to 2024": 0.005779725028499271
+  },
+  {
+    "State Full Name": "Tasmania",
+    "Year": 2024,
+    "Protected Area (ha)": 2928054.775268203,
+    "Total Assigned Area (ha)": 6840139.36462793,
+    "Percentage of Protected Area/Assigned area": 42.80694616267479,
+    "Growth between 2014 to 2024": -87652,
+    "Percentage of Growth between 2014 to 2024": -0.012814358791177618
+  },
+  {
+    "State Full Name": "Victoria",
+    "Year": 2024,
+    "Protected Area (ha)": 4023548.42187292,
+    "Total Assigned Area (ha)": 22744373.1040504,
+    "Percentage of Protected Area/Assigned area": 17.690302579306515,
+    "Growth between 2014 to 2024": 11425,
+    "Percentage of Growth between 2014 to 2024": 0.0005023220445660643
+  },
+  {
+    "State Full Name": "Western Australia",
+    "Year": 2024,
+    "Protected Area (ha)": 78674218.90145588,
+    "Total Assigned Area (ha)": 252701298.390847,
+    "Percentage of Protected Area/Assigned area": 31.133286375035702,
+    "Growth between 2014 to 2024": 24298780,
+    "Percentage of Growth between 2014 to 2024": 0.09615613435597653
+  }
+]

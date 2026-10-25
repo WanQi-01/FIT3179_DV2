@@ -1,12 +1,12 @@
 
 const fs = require("fs");
 
-// Load the marine protected areas data
+// Load the terrestrial protected areas data
 const protected_areas = JSON.parse(
     fs.readFileSync("../json_data/final_t_choro.json", "utf8")
 );
 
-// Load the allocated sea area for each state
+// Load the allocated terrestrial area for each state
 const sea_areas = JSON.parse(
     fs.readFileSync("../json_data/total_land_area.json", "utf8")
 );

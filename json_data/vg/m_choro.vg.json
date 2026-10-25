@@ -42,7 +42,7 @@
         "key": "State Full Name",
         "fields": [
             "Protected Area (ha)",
-            "Total Land Area",
+            "Total Sea Area",
             "Percentage of coverage"
         ]
         }

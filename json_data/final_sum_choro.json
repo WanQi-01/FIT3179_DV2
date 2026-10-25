@@ -1,0 +1,92 @@
+[
+  {
+    "State Full Name": "Australian Capital Territory",
+    "Protected Land Area (ha)": 131902.39,
+    "Protected Sea Area (ha)": 0,
+    "Total Protected Area (ha)": 131902.39,
+    "Total Land Area": 235815,
+    "Total Sea Area": 0,
+    "Total Allocated Area": 235815,
+    "Percentage of coverage": 55.9347
+  },
+  {
+    "State Full Name": "New South Wales",
+    "Protected Land Area (ha)": 7865640.9,
+    "Protected Sea Area (ha)": 348847.52,
+    "Total Protected Area (ha)": 8214488.42,
+    "Total Land Area": 80115007,
+    "Total Sea Area": 880200,
+    "Total Allocated Area": 80995207,
+    "Percentage of coverage": 10.1419
+  },
+  {
+    "State Full Name": "Northern Territory",
+    "Protected Land Area (ha)": 33294785.24,
+    "Protected Sea Area (ha)": 2443934.83,
+    "Total Protected Area (ha)": 35738720.07,
+    "Total Land Area": 134779163,
+    "Total Sea Area": 7183900,
+    "Total Allocated Area": 141963063,
+    "Percentage of coverage": 25.1747
+  },
+  {
+    "State Full Name": "Queensland",
+    "Protected Land Area (ha)": 17154726.29,
+    "Protected Sea Area (ha)": 12616706.97,
+    "Total Protected Area (ha)": 29771433.26,
+    "Total Land Area": 172974215,
+    "Total Sea Area": 12699400,
+    "Total Allocated Area": 185673615,
+    "Percentage of coverage": 16.0343
+  },
+  {
+    "State Full Name": "South Australia",
+    "Protected Land Area (ha)": 29979227.31,
+    "Protected Sea Area (ha)": 3094251.74,
+    "Total Protected Area (ha)": 33073479.05,
+    "Total Land Area": 98432191,
+    "Total Sea Area": 6003200,
+    "Total Allocated Area": 104435391,
+    "Percentage of coverage": 31.6688
+  },
+  {
+    "State Full Name": "Tasmania",
+    "Protected Land Area (ha)": 2928455.69,
+    "Protected Sea Area (ha)": 145072.35,
+    "Total Protected Area (ha)": 3073528.04,
+    "Total Land Area": 6840139,
+    "Total Sea Area": 2235700,
+    "Total Allocated Area": 9075839,
+    "Percentage of coverage": 33.8649
+  },
+  {
+    "State Full Name": "Victoria",
+    "Protected Land Area (ha)": 5213641.32,
+    "Protected Sea Area (ha)": 147383.97,
+    "Total Protected Area (ha)": 5361025.29,
+    "Total Land Area": 22744373,
+    "Total Sea Area": 1021300,
+    "Total Allocated Area": 23765673,
+    "Percentage of coverage": 22.5579
+  },
+  {
+    "State Full Name": "Western Australia",
+    "Protected Land Area (ha)": 79205125.05,
+    "Protected Sea Area (ha)": 5452661.57,
+    "Total Protected Area (ha)": 84657786.62,
+    "Total Land Area": 252701298,
+    "Total Sea Area": 11574000,
+    "Total Allocated Area": 264275298,
+    "Percentage of coverage": 32.0339
+  },
+  {
+    "State Full Name": "Commonwealth",
+    "Protected Land Area (ha)": 0,
+    "Protected Sea Area (ha)": 424837719.63,
+    "Total Protected Area (ha)": 424837719.63,
+    "Total Land Area": 0,
+    "Total Sea Area": 852973361.4,
+    "Total Allocated Area": 852973361.4,
+    "Percentage of coverage": 49.8067
+  }
+]

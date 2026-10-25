@@ -1,0 +1,74 @@
+[
+  {
+    "State Full Name": "New South Wales",
+    "Protected Area (ha)": 336371.0871637702,
+    "Protected area per 100,000 ha": 3.363710871637702,
+    "Total Sea Area": 880200,
+    "Percentage of coverage": 38.21530188181893,
+    "Growth Between 2016 to 2024": -12480,
+    "Percentage of Growth Between 2016 to 2024": -0.014178595773687798
+  },
+  {
+    "State Full Name": "Northern Territory",
+    "Protected Area (ha)": 1473278.30688476,
+    "Protected area per 100,000 ha": 14.732783068847601,
+    "Total Sea Area": 7183900,
+    "Percentage of coverage": 20.5080570008597,
+    "Growth Between 2016 to 2024": 1182633,
+    "Percentage of Growth Between 2016 to 2024": 0.16462269797742174
+  },
+  {
+    "State Full Name": "Queensland",
+    "Protected Area (ha)": 9988304.262409,
+    "Protected area per 100,000 ha": 99.88304262409,
+    "Total Sea Area": 12199400,
+    "Percentage of coverage": 81.87537307088053,
+    "Growth Between 2016 to 2024": 2355375,
+    "Percentage of Growth Between 2016 to 2024": 0.1930730199845894
+  },
+  {
+    "State Full Name": "South Australia",
+    "Protected Area (ha)": 2672654.66163917,
+    "Protected area per 100,000 ha": 26.726546616391698,
+    "Total Sea Area": 6003200,
+    "Percentage of coverage": 44.520500093936064,
+    "Growth Between 2016 to 2024": -40378,
+    "Percentage of Growth Between 2016 to 2024": -0.006726079424307036
+  },
+  {
+    "State Full Name": "Tasmania",
+    "Protected Area (ha)": 145071.893278286,
+    "Protected area per 100,000 ha": 1.45071893278286,
+    "Total Sea Area": 2235700,
+    "Percentage of coverage": 6.488880139476942,
+    "Growth Between 2016 to 2024": -11643.7,
+    "Percentage of Growth Between 2016 to 2024": -0.005208078006888223
+  },
+  {
+    "State Full Name": "Victoria",
+    "Protected Area (ha)": 116054.8856078728,
+    "Protected area per 100,000 ha": 1.160548856078728,
+    "Total Sea Area": 1021300,
+    "Percentage of coverage": 11.363447136773994,
+    "Growth Between 2016 to 2024": -5083.41,
+    "Percentage of Growth Between 2016 to 2024": -0.004977391559776755
+  },
+  {
+    "State Full Name": "Western Australia",
+    "Protected Area (ha)": 5305930.336949,
+    "Protected area per 100,000 ha": 53.05930336949,
+    "Total Sea Area": 11574000,
+    "Percentage of coverage": 45.84353150984102,
+    "Growth Between 2016 to 2024": 2786198,
+    "Percentage of Growth Between 2016 to 2024": 0.24072904786590635
+  },
+  {
+    "State Full Name": "Commonwealth",
+    "Protected Area (ha)": 417166710.8608099,
+    "Protected area per 100,000 ha": 4171.6671086081,
+    "Total Sea Area": 852973361.4,
+    "Percentage of coverage": 48.907355110845074,
+    "Growth Between 2016 to 2024": 99399054,
+    "Percentage of Growth Between 2016 to 2024": 0.11653242469009185
+  }
+]

@@ -12,8 +12,7 @@ const jsonDir = path.join(baseDir, "json_data");
 
 
 const excelData = [
-    // "m_pa.xlsx",
-    // "t_pa.xlsx",
+
     // "MCAPAD_2024.xlsx",
     // "TCAPAD_2024.xlsx",
     // "marine_annualCAPAD.xlsx",
@@ -22,12 +21,19 @@ const excelData = [
     // "chart1.xlsx",
     // "T_area1.xlsx",
     // "IBRA_bioregion.xlsx",
+
+    // "m_pa.xlsx",
+    // "t_pa.xlsx",
     // "final_reserve_cat_m.csv",
     // "final_reserve_cat_t.csv",
-    // "final_governance.xlsx"
     // "final_annual_growth_conser.xlsx"
-    "final_m_choro.csv",
-    "final_t_choro.csv"
+    // "final_m_choro.csv",
+    // "final_t_choro.csv"
+    // "final_state_growth_m.xlsx",
+    // "final_state_growth_t.xlsx"
+    "final_governance.xlsx"
+
+
 ]
 
 for (const fileName of excelData) {

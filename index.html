@@ -33,13 +33,13 @@
         1. Australia's Protected Area Footprint
     </h3>
 
-    <div id="t_choro">
+    <!-- <div id="t_choro">
 
     </div>
 
     <div id="m_choro">
 
-    </div>
+    </div> -->
 
     <p>
         Where are Australia's terrestrial and marine protected areas located?
@@ -52,10 +52,15 @@
     <h3>
         2. A Growing Conservation Network
     </h3>
+    <div id="growth_line">
+
+    </div>
+
     <p>
         How has the total area under protection changed over time?
         - Difference of protected area each year (dual axis/butterfly/population chart)
-        - butterfly_chart
+        - no data for 2014 for marine
+        the percentage is low altho a significant amount due to comparison is with the total area of the state
 
         Different states:
         Most increase
@@ -72,6 +77,10 @@
         1. State of Protection
     </h3>
 
+    <!-- <div id="state_choro">
+
+    </div> -->
+
     <p>
         Which states and territories have the highest protected-area coverage?
         - Choropleth map (percentage of coverage) #state_choro
@@ -81,6 +90,13 @@
     <h3>
         2. Growth in 10 years - Land
     </h3>
+
+    <div id="state_growth_m"></div>
+    <div id="state_growth_t"></div>
+
+
+
+
     <p>
         Proportional Symbol Map:
         data:
@@ -95,16 +111,6 @@
 
     </p>
 
-    <h3>
-        Who Protects the Land?
-    </h3>
-    <p>
-        Governance in 10 years
-        data: final_gover
-        #stack_bar
-    </p>
-
-
 
     <h3>
         3. Terrestrial vs Marine Protection Protection by Jurisdiction
@@ -116,6 +122,37 @@
         Are protected areas distributed evenly across Australia, or concentrated in particular regions?
         Do states and territories show similar patterns of protection on land and at sea?
     </p>
+
+    <h3>VII. Protected Marine Areas of Different Jurisdictions</h3>
+    <div id="bumpchart_m"></div>
+
+    <h3>VIII. Protected Terrestrial Areas of Different Jurisdiction</h3>
+
+    <div id="bumpchart_t"></div>
+
+
+    <div>
+        <p>
+            The visualisation stands
+            The line for External territories is always at 0 due to they are not assigned any areas
+        </p>
+    </div>
+
+
+    <h3>
+        Who Protects the Land?
+    </h3>
+    <p>
+        Governance in 10 years
+        data: final_gover
+        #governance
+    </p>
+
+    <div id="governance"></div>
+
+
+
+
 
     <h2>
         III. What Kind of Protection does Australia Use?
@@ -170,9 +207,6 @@
 
 
 
-    <!-- <div id="choropleth_t">
-
-    </div> -->
 
     <div id="line_growth_in_consv">
 
@@ -254,9 +288,9 @@
         </p>
     </div>
 
-    <div id="gov_chart">
+    <!-- <div id="gov_chart">
 
-    </div>
+    </div> -->
 
     <div id="IBRA_top5">
 
@@ -317,19 +351,7 @@
 
 
 
-    <h3>VII. Protected Marine Areas of Different Jurisdictions</h3>
-    <div id="line_chart_m">
-    </div>
 
-    <h3>VIII. Protected Terrestrial Areas of Different Jurisdiction</h3>
-    <div id="line_chart_t">
-    </div>
-    <div>
-        <p>
-            The visualisation stands
-            The line for External territories is always at 0 due to
-        </p>
-    </div>
 
 
 
