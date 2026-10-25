@@ -1,0 +1,50 @@
+[
+  {
+    "State Full Name": "New South Wales",
+    "Protected Area (ha)": 348847.52,
+    "Total Sea Area": 880200,
+    "Percentage of coverage": 39.6328
+  },
+  {
+    "State Full Name": "Northern Territory",
+    "Protected Area (ha)": 2443934.83,
+    "Total Sea Area": 7183900,
+    "Percentage of coverage": 34.0196
+  },
+  {
+    "State Full Name": "Queensland",
+    "Protected Area (ha)": 12616706.97,
+    "Total Sea Area": 12699400,
+    "Percentage of coverage": 99.3488
+  },
+  {
+    "State Full Name": "South Australia",
+    "Protected Area (ha)": 3094251.74,
+    "Total Sea Area": 6003200,
+    "Percentage of coverage": 51.5434
+  },
+  {
+    "State Full Name": "Tasmania",
+    "Protected Area (ha)": 145072.35,
+    "Total Sea Area": 2235700,
+    "Percentage of coverage": 6.4889
+  },
+  {
+    "State Full Name": "Victoria",
+    "Protected Area (ha)": 147383.97,
+    "Total Sea Area": 1021300,
+    "Percentage of coverage": 14.431
+  },
+  {
+    "State Full Name": "Western Australia",
+    "Protected Area (ha)": 5452661.57,
+    "Total Sea Area": 11574000,
+    "Percentage of coverage": 47.1113
+  },
+  {
+    "State Full Name": "Commonwealth",
+    "Protected Area (ha)": 424837719.63,
+    "Total Sea Area": 852973361.4,
+    "Percentage of coverage": 49.8067
+  }
+]

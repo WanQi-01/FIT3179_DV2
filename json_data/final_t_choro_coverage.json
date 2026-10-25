@@ -1,0 +1,56 @@
+[
+  {
+    "State Full Name": "Australian Capital Territory",
+    "Protected Area (ha)": 131902.39,
+    "Total Land Area": 235815,
+    "Percentage of coverage": 55.9347
+  },
+  {
+    "State Full Name": "External Territories",
+    "Protected Area (ha)": 52471.27,
+    "Total Land Area": 9681,
+    "Percentage of coverage": 542.0026
+  },
+  {
+    "State Full Name": "New South Wales",
+    "Protected Area (ha)": 7865640.9,
+    "Total Land Area": 80115007,
+    "Percentage of coverage": 9.8179
+  },
+  {
+    "State Full Name": "Northern Territory",
+    "Protected Area (ha)": 33294785.24,
+    "Total Land Area": 134779163,
+    "Percentage of coverage": 24.7032
+  },
+  {
+    "State Full Name": "Queensland",
+    "Protected Area (ha)": 17154726.29,
+    "Total Land Area": 172974215,
+    "Percentage of coverage": 9.9175
+  },
+  {
+    "State Full Name": "South Australia",
+    "Protected Area (ha)": 29979227.31,
+    "Total Land Area": 98432191,
+    "Percentage of coverage": 30.4567
+  },
+  {
+    "State Full Name": "Tasmania",
+    "Protected Area (ha)": 2928455.69,
+    "Total Land Area": 6840139,
+    "Percentage of coverage": 42.8128
+  },
+  {
+    "State Full Name": "Victoria",
+    "Protected Area (ha)": 5213641.32,
+    "Total Land Area": 22744373,
+    "Percentage of coverage": 22.9228
+  },
+  {
+    "State Full Name": "Western Australia",
+    "Protected Area (ha)": 79205125.05,
+    "Total Land Area": 252701298,
+    "Percentage of coverage": 31.3434
+  }
+]

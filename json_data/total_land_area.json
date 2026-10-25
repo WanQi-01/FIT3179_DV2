@@ -1,0 +1,39 @@
+[
+  {
+    "State Full Name": "Australian Capital Territory",
+    "Total Land Area":  235815
+  },
+  {
+    "State Full Name": "External Territories",
+    "Total Land Area":  9681
+  },
+  {
+    "State Full Name": "New South Wales",
+    "Total Land Area": 80115007
+
+  },
+  {
+    "State Full Name": "Northern Territory",
+    "Total Land Area": 134779163
+  },
+  {
+    "State Full Name": "Queensland",
+    "Total Land Area": 172974215
+  },
+  {
+    "State Full Name": "South Australia",
+    "Total Land Area": 98432191
+  },
+  {
+    "State Full Name": "Tasmania",
+    "Total Land Area": 6840139
+  },
+  {
+    "State Full Name": "Victoria",
+    "Total Land Area": 22744373
+  },
+  {
+    "State Full Name": "Western Australia",
+    "Total Land Area": 252701298
+  }
+]

@@ -1,0 +1,99 @@
+
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Marine Protected Area Coverage by State",
+    "fontSize": 15
+  },
+  "width": 600,
+  "height": 450,
+  "projection": {
+    "type": "mercator"
+  },
+  "params": [
+    {
+      "name": "stateSelection",
+      "select": {
+        "type": "point",
+        "fields": ["properties.STE_NAME26"],
+        "on": "click",
+        "clear": "dblclick"
+      }
+    }
+  ],
+  "data": {
+    "url": "data/spatial_data/AUS_STATE_SHAPE.topojson",
+    "format": {
+      "type": "topojson",
+      "feature": "STE_2026_AUST_GDA2020"
+    }
+  },
+  "transform": [
+    {
+        "calculate": "datum.properties.STE_NAME26 === 'Outside Australia' ? 'Commonwealth' : datum.properties.STE_NAME26",
+        "as": "Matched State Name"
+    },
+    {
+        "lookup": "Matched State Name",
+        "from": {
+        "data": {
+            "url": "json_data/final_m_choro_coverage.json"
+        },
+        "key": "State Full Name",
+        "fields": [
+            "Protected Area (ha)",
+            "Total Land Area",
+            "Percentage of coverage"
+        ]
+        }
+    }
+  ],
+  "mark": {
+    "type": "geoshape",
+    "stroke": "white",
+    "strokeWidth": 0.8
+  },
+  "encoding": {
+    "color": {
+      "condition": {
+        "param": "stateSelection",
+        "field": "Percentage of coverage",
+        "type": "quantitative",
+        "scale": {
+          "scheme": "blues",
+          "domain": [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+
+        },
+        "legend": {
+          "title": "Protected Sea area (%)"
+        }
+      },
+      "value": "#D3D3D3"
+    },
+    "tooltip": [
+      {
+        "field": "properties.STE_NAME26",
+        "type": "nominal",
+        "title": "State"
+      },
+      {
+        "field": "Protected Area (ha)",
+        "type": "quantitative",
+        "title": "Protected area (ha)",
+        "format": ",.2f"
+      },
+      {
+        "field": "Total Sea Area",
+        "type": "quantitative",
+        "title": "Allocated Sea area",
+        "format": ",.0f"
+      },
+      {
+        "field": "Percentage of coverage",
+        "type": "quantitative",
+        "title": "Coverage (%)",
+        "format": ".2f"
+      }
+    ]
+  }
+}

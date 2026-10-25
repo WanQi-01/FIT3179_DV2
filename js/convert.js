@@ -25,8 +25,9 @@ const excelData = [
     // "final_reserve_cat_m.csv",
     // "final_reserve_cat_t.csv",
     // "final_governance.xlsx"
-    "final_annual_growth_conser.xlsx"
-
+    // "final_annual_growth_conser.xlsx"
+    "final_m_choro.csv",
+    "final_t_choro.csv"
 ]
 
 for (const fileName of excelData) {

@@ -1,4 +1,10 @@
 
+var t_choro = "json_data/vg/t_choro.vg.json"
+var m_choro = "json_data/vg/m_choro.vg.json"
+
+
+vegaEmbed("#t_choro", t_choro).then(function(result) {}).catch(console.error);
+vegaEmbed("#m_choro", m_choro).then(function(result) {}).catch(console.error);
 
 
 var chart1_choro = "json_data/vg/choropleth.vg.json";
