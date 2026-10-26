@@ -125,7 +125,7 @@
               {
                 "field": "% IBRA Region Protected",
                 "type": "quantitative",
-                "title": "Area protected (%)",
+                "title": "Protected Area (%)",
                 "format": ".2f"
               },
               {
@@ -210,7 +210,7 @@
             "x": {
               "field": "% IBRA Region Protected",
               "type": "quantitative",
-              "title": "Area protected (%)",
+              "title": "Protected Area (%)",
               "scale": {
                 "domain": [0, 100]
               },
@@ -258,7 +258,7 @@
               {
                 "field": "% IBRA Region Protected",
                 "type": "quantitative",
-                "title": "Area protected (%)",
+                "title": "Protected Area (%)",
                 "format": ".2f"
               }
             ]

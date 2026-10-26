@@ -80,7 +80,7 @@
           "clamp": true
         },
         "legend": {
-          "title": "Growth in Protected Area from 2014 to 2024 (%)",
+          "title": "Growth in Protected Area(%)",
           "format": ".0%",
           "orient": "bottom",
           "direction": "horizontal",

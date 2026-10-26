@@ -45,7 +45,7 @@
       "type": "quantitative",
       "stack": "normalize",
       "axis": {
-        "title": "Share of NRS Contribution",
+        "title": "Share of National Reserve System Contribution (%)",
         "format": ".0%",
         "domain": [0, 1]
       }

@@ -160,7 +160,7 @@ async function drawWaffleChart() {
           range
         },
         legend: {
-          title: "Category",
+          title: "Conservation Type",
           orient: "bottom",
           direction: "horizontal",
           columns:2,
