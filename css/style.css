@@ -18,6 +18,7 @@
     --font-h1: "YOUR-H1-FONT", Georgia, serif;
     --font-heading: "YOUR-HEADING-FONT", Georgia, serif;
     --font-body: "YOUR-BODY-FONT", Arial, sans-serif;
+    --font-h4: "Berlin Sans FB Demi", Aptos, sans-serif;
 
     /* Font size placeholders */
     --size-h1: 3rem;
@@ -97,6 +98,7 @@ h3 {
 h4 {
     font-size: var(--size-h4);
     text-align: center;
+    font-family: var(--font-h4);
 }
 
 h5 {
@@ -140,11 +142,6 @@ p {
     margin-bottom: var(--section-gap);
 }
 
-.section-intro {
-    max-width: 900px;
-    margin-bottom: 22px;
-}
-
 
 /* ========================================
    6. CHART LAYOUTS
@@ -180,6 +177,18 @@ p {
 .chart-card h3,
 .chart-card h4 {
     margin: 0;
+}
+
+/* Centre charts horizontally inside their containers */
+.chart {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+/* Centre the Vega-Lite chart */
+.chart .vega-embed {
+    margin: 0 auto;
 }
 
 /* Explanation below the chart */
@@ -245,5 +254,105 @@ p {
         --container-padding: 14px;
         --size-h1: 2rem;
         --size-h2: 1.6rem;
+    }
+}
+
+.section-intro {
+    column-count: 4;
+    column-gap: 24;
+    width: 100%;
+    max-width: none;
+}
+
+/* Responsive: 2 columns on tablets */
+@media (max-width: 900px) {
+    .section-intro {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+}
+
+/* Responsive: 1 column on mobile */
+@media (max-width: 500px) {
+    .section-intro {
+        grid-template-columns: 1fr;
+    }
+}
+
+
+/* Single chart container */
+.chart-card-single {
+    width: 100%;
+    padding: var(--container-padding);
+    background: var(--container-bg);
+    border: 1px solid var(--container-border);
+    border-radius: var(--container-radius);
+    box-shadow: var(--container-shadow);
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    box-sizing: border-box;
+}
+
+/* Centre the chart title */
+.chart-card-single h4 {
+    width: 100%;
+    text-align: center;
+    margin: 0;
+}
+
+/* Centre the chart itself */
+.chart-card-single .chart {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.chart-card-single .vega-embed {
+    margin: 0 auto;
+}
+
+/* Description flows into 4 columns */
+.chart-card-single .desc {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 24px;
+    width: 90%;
+    max-width: none;
+}
+
+.chart-card-single .desc p {
+    margin: 0;
+    min-width: 0;
+    text-align: left;
+}
+
+/* Centre the additional note */
+.chart-card-single .desc,
+.chart-card-single .extra-info {
+    width: 100%;
+    max-width: none;
+    box-sizing: border-box;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.chart-card-single .extra-info {
+    display: block;
+    text-align: left;
+    margin: 0;
+}
+
+/* Responsive layout */
+@media (max-width: 1000px) {
+    .chart-card-single .desc {
+        column-count: 2;
+    }
+}
+
+@media (max-width: 600px) {
+    .chart-card-single .desc {
+        column-count: 1;
     }
 }

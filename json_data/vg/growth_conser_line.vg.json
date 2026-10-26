@@ -1,8 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": {
-    "text": "Marine vs Terrestrial Protected-Area Growth",
-    "subtitle": "Percentage growth in protected-area coverage across reporting years"
+    "text": ""
   },
   "data": {
     "url": "json_data/final_annual_growth_conser.json"
@@ -60,7 +59,7 @@
       },
       "legend": {
         "title": "Protected-area type",
-        "orient": "top"
+        "orient": "top-right"
       }
     },
     "detail": {
