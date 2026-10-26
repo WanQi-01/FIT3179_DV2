@@ -1,8 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": {
-    "text": "Governance Contribution to the National Reserve System",
-    "subtitle": "Proportion of NRS contribution by governance type over time"
+    "text": ""
   },
   "data": {
     "url": "json_data/final_governance.json"

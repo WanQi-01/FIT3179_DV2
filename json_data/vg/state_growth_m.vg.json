@@ -2,11 +2,11 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": {
-    "text": "Marine Protected Area Difference by State, 2016 to 2024",
+    "text": "",
     "fontSize": 15,
     "subtitle": "Change in protected marine area (ha)"
   },
-  "width": 600,
+  "width": 500,
   "height": 450,
   "projection": {
     "type": "mercator"
@@ -82,7 +82,8 @@
         "legend": {
           "title": "Growth in Protected Area from 2016 to 2024 (%)",
           "format": ".0%",
-          "orient": "right",
+          "orient": "bottom",
+          "direction": "horizontal",
           "values":  [-0.05, 0, 0.05, 0.1, 0.15, 0.2, 0.25, 0.3]
         }
       },

@@ -68,7 +68,7 @@
         "field": "Percentage of Coverage of Australia",
         "type": "quantitative",
         "title": "Protected Area (%)",
-        "format": ".2f"
+        "format": ".4f"
       }
     ]
   }

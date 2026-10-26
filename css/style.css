@@ -29,6 +29,7 @@
     --size-h6: 0.9rem;
     --size-p: 1rem;
 
+
     /* Spacing */
     --page-width: 1400px;
     --page-padding: 32px;
@@ -152,7 +153,7 @@ p {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: var(--chart-gap);
-    align-items: stretch;
+    align-items: center;
 }
 
 /* Full-width charts */
@@ -171,6 +172,8 @@ p {
     display: flex;
     flex-direction: column;
     gap: 14px;
+    align-items: center;
+    height: 800px;
 }
 
 /* Each chart title */
@@ -189,6 +192,50 @@ p {
 /* Centre the Vega-Lite chart */
 .chart .vega-embed {
     margin: 0 auto;
+}
+
+.bumpchart-card {
+    min-width: 0;
+    padding: var(--container-padding);
+    background: var(--container-bg);
+    border: 1px solid var(--container-border);
+    border-radius: var(--container-radius);
+    box-shadow: var(--container-shadow);
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    align-items: center;
+    height: 1000px; /* Different height */
+    box-sizing: border-box;
+}
+
+.bumpchart-card h3,
+.bumpchart-card h4 {
+    margin: 0;
+}
+
+.bumpchart-card .chart {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.bumpchart-card .chart .vega-embed {
+    margin: 0 auto;
+}
+
+.bumpchart-card  .extra-info {
+    width: 100%;
+    max-width: none;
+    box-sizing: border-box;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.bumpchart-card  .extra-info {
+    display: block;
+    text-align: left;
+    margin: 0;
 }
 
 /* Explanation below the chart */
@@ -342,6 +389,12 @@ p {
     display: block;
     text-align: left;
     margin: 0;
+}
+
+.extra-info {
+    font-size: 14px;
+    color: grey;
+    font-style: italic;
 }
 
 /* Responsive layout */

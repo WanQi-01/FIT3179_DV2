@@ -29,7 +29,7 @@
     "y": {
       "field": "IUCN Category",
       "type": "ordinal",
-      "title": "Categories",
+      "title": "International Union for Conservation of Nature Category",
       "sort": ["Ia", "Ib", "II", "III", "IV", "V", "VI"],
       "axis": {
         "labelExpr": "datum.label === 'Ia' ? 'Ia - Strict Nature Reserve' : datum.label === 'Ib' ? 'Ib - Wilderness Area' : datum.label === 'II' ? 'II - National Park' : datum.label === 'III' ? 'III - Natural Monument' : datum.label === 'IV' ? 'IV - Habitat/Species Management Area' : datum.label === 'V' ? 'V - Protected Landscape/Seascape' : datum.label === 'VI' ? 'VI - Managed Resource Protected Area' : datum.label",
@@ -66,7 +66,7 @@
         "field": "Percentage of protected area",
         "type": "quantitative",
         "title": "Protected Area (%)",
-        "format": ".2f"
+        "format": ".4f"
       }
     ]
   }

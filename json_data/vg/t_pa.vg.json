@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 
-    "title": { "text": "Terrestrial Protected Areas Coverage Rankings" },
+    "title": { "text": "" },
 
     "data": {
         "url": "json_data/t_pa.json"
@@ -67,6 +67,7 @@
                 "domain": [
                     "Australian Capital Territory",
                     "External Territories",
+                    "Commonwealth",
                     "New South Wales",
                     "Northern Territory",
                     "Queensland",
@@ -76,8 +77,9 @@
                     "Western Australia"
                 ],
                 "range": [
-                    "#e45756",
+                    "#27d62f",
                     "#ff9da6",
+                    "#54a24b",
                     "#4c78a8",
                     "#f58518",
                     "#6b705c",
@@ -85,10 +87,15 @@
                     "#eecb3b",
                     "#663518",
                     "#72b7b2"
-
                 ]
             },
-            "legend": null
+            "legend": {
+                "title": "Jurisdiction",
+                "orient": "bottom",
+                "direction": "horizontal",
+                "columns":4,
+                "labelLimit":150
+            }
         },
         "detail": {"field": "State Full Name"},
         "order": {
