@@ -244,7 +244,7 @@
 
 
                         <p class="extra-info">
-                            Click on the states for further details.
+                    Click on the states to view the details.
                         </p>
 
                     </article>
@@ -302,7 +302,11 @@
 
                         </div>
 
+
                     </article>
+                    <p class="extra-info">
+                            Click on the states to view the details.
+                    </p>
 
                     <article class="chart-card">
                         <h4>Coverage of Protected Marine Areas (%)</h4>
@@ -323,7 +327,11 @@
                         </p>
                         </div>
 
+
                     </article>
+                    <p class="extra-info">
+                            Click on the states to view the details.
+                    </p>
 
                 </div>
             </section>
@@ -589,45 +597,48 @@
             <section class="subsection">
                 <h3>2. Which Conservation Type Accounts for the Largest Share of Protected Areas?</h3>
                 <p class="section-intro">
-                    This section introduces the conservation types that contributed to the protected areas.
-
                 </p>
 
                 <div class="chart-grid">
                     <article class="chart-card">
-                        <h4>Protected Terrestial Area </h4>
+                        <h4>Protected Terrestial Area by Category</h4>
                         <div id="waffle_t" class="chart"></div>
 
                         <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
                         <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
                         <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
                         <script src="js/waffle_chart_t.js"></script>
+                        <p class="extra-info">
+                            Each square represents 1% of 768,809,493.8 ha
+                        </p>
 
                         <div class="desc">
                             <p>
-                            Main cat:
-                            Indigenous & Aboriginal Protected Areas
-                            National Parks & Wilderness
-                            Nature & Conservation Reserves
-                            Private & Agreement-based Areas
-
-                            Other cat:
-                            Other, Proposed & Transitional
-                            Parks & Recreational Areas
-                            Heritage, Coastal & Special-purpose
-                            Forest, Flora & Wildlife Reserves
-
-                            Looking into Terrestrial Areas, the visualisation is splitted due to the difference
-                            in values are too large to compare directly in the same visualisation.
-                            In the chart above, the percentage of total protected area ranges from 1% to 12%.
-                            Alternatively, the chart below compares the difference among the types that are below 1%.
+                                Indigenous & Aboriginal Protected Areas account
+                                for the largest share of coverage at 11.78%,
+                                while the Other categories collectively
+                                contribute only 0.63%.
+                                This highlights the prominence of Indigenous protected areas.
+                                However, despite their smaller percentages,
+                                the other categories still protect substantial
                             </p>
+                            <p>
+                                 land areas,
+                                 with even the smallest category covering approximately
+                                 4.8 million hectares.
+                                 The dominance of Indigenous protected areas may
+                                 partly reflect the large overall scale of protected land,
+                                 making the other categories appear relatively insignificant
+                                 in comparison.
+                            </p>
+
+
                         </div>
 
                     </article>
 
                     <article class="chart-card">
-                        <h4>Protected Marine Area </h4>
+                        <h4>Protected Marine Area by Category</h4>
 
                         <div id="waffle_m" class="chart"></div>
                         <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
@@ -635,27 +646,19 @@
                         <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
                         <script src="js/waffle_chart_m.js"></script>
 
+                        <p class="extra-info">
+                            Each square represents 1% of 894,071,061.4 ha
+                        </p>
+
                         <div class="desc">
 
                         <p>
-                            Looking into year 2024, we can first look at the graph on the top,
-                            the percentage of total protected area is quite similar among the 5 conservation types,
-                            where each type has between 0% to 0.8% of protected areas.
-
-                            Yet, taking the conservation type with the most percentage - Indigenous Protected Area,
-                            and compare it with the Marine Parks & Reserves type, we can observe that the
-                            Marine Parks & Reserves type outweighs the Indigenous Protected Area a lot by
-                            having a value of 57% which is approximately 76 times more.
-
-                            Categories:
-                            Marine Parks & Reserves
-
-                            Others:
-                            Nature & General Conservation Areas
-                            National Parks & Conservation Parks
-                            Aquatic Wildlife Protection
-                            Indigenous Protected Area
-                            Special-purpose & Other Reserves
+                            Marine Parks & Reserves account for 49% of the coverage,
+                            while the remaining categories collectively contribute only 1.54%.
+                        </p>
+                        <p>
+                            This suggests that marine conservation receives substantially
+                            greater emphasis than the other conservation categories.
                         </p>
                         </div>
 
@@ -670,28 +673,37 @@
 
             <section class="subsection">
                 <h3>Interim Biogeographic Regionalisation for Australia</h3>
-                <p class="section-intro">
-                    The Interim Biogeographic Regionalisation for Australia (IBRA) classifies Australia's landscapes into distinct bioregions
-                    with similar climate, geology, landforms, vegetation, and species.
-                    the following section compares the 5 most protected and 5 least protected bioregions,
-                    highlighting how conservation outcomes differ across the country.
-
-                    The Protection Gaps: Which bioregions have the lowest representation in the protected-area network?
-
-            where should the proctection expand next?: Which bioregions combine low protection with large areas of unprotected land?
+                <p>
+                    <br>
                 </p>
 
                 <div class="chart-grid single">
                     <article class="chart-card-single">
-                        <h4>5 Most Protected Bioregions</h4>
+                        <h4>Australia's 5 Most Protected Bioregions</h4>
                         <div id="IBRA_top5" class="chart"></div>
                     </article>
 
                     <article class="chart-card-single">
-                        <h4>5 Least Protected Bioregions</h4>
+                        <h4>Australia's 5 Least Protected Bioregions</h4>
                         <div id="IBRA_lowest5" class="chart"></div>
 
                     </article>
+                    <div class="section-intro">
+                        <p>
+                            The Interim Biogeographic Regionalisation for Australia (IBRA)
+                            classifies Australia's landscapes into distinct bioregions based
+                            on shared environmental characteristics, including climate, geology,
+                            landforms, vegetation, and species.
+                            This section compares the five most protected and five least protected bioregions
+                            to identify protection gaps and potential priorities for future conservation expansion.
+
+                            The results reveal a significant disparity in protection coverage,
+                            with the most protected bioregion reaching 86.29%, compared to just 0.70% for the least protected.
+                            While these differences may reflect varying ecological priorities and conservation needs,
+                            future expansion could focus on bioregions with low protection coverage and large areas
+                            of unprotected land to improve the overall representation of Australia's diverse landscapes.
+                        </p>
+                    </div>
 
                 </div>
             </section>

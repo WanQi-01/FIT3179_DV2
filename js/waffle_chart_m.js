@@ -128,8 +128,7 @@ async function drawWaffleChart() {
   const spec = {
     $schema: "https://vega.github.io/schema/vega-lite/v5.json",
     title: {
-      text: "Protected Area by Category",
-      subtitle: "Each square represents 1% of 894,071,061.4 ha"
+      text: ""
     },
     width: 300,
     height: 300,
@@ -163,7 +162,10 @@ async function drawWaffleChart() {
         },
         legend: {
           title: "Category",
-          orient: "bottom"
+          orient: "bottom",
+          direction: "horizontal",
+          columns:3,
+          labelLimit:150
         }
       },
       tooltip: [

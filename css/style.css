@@ -409,3 +409,21 @@ p {
         column-count: 1;
     }
 }
+#waffle_m,
+#waffle_t {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#waffle_m,
+#waffle_t .vega-embed {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#waffle_m,
+#waffle_t .vega-embed > div {
+    margin: 0 auto;
+}
